@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-git20240307.121342-glibc2.23-SICStus3.12.11-x86_64-linux-glibc2.5" date="2024-04-30T13:36" cats="1" skips="0" />
+  <node begin="0" cat="top" end="22" id="0" rel="top">
+    <node begin="10" end="11" frame="punct(dubb_punt)" his="normal" his_1="normal" id="1" lcat="punct" lemma=":" pos="punct" postag="LET()" pt="let" rel="--" root=":" sense=":" special="dubb_punt" word=":"/>
+    <node begin="11" end="12" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="2" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="18" end="19" frame="punct(komma)" his="normal" his_1="normal" id="3" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="20" id="4" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="5" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+      <node begin="1" cat="du" end="20" id="6" rel="nucl">
+        <node begin="1" cat="smain" end="10" id="7" rel="tag">
+          <node begin="1" case="nom" def="def" end="2" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="normal" id="8" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,vol,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" status="vol" vwtype="pers" wh="nwh" word="hij"/>
+          <node begin="2" end="3" frame="verb(hebben,past(sg),aci_no_obj)" his="normal" his_1="normal" id="9" infl="sg" lcat="smain" lemma="horen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="hoor" sc="aci_no_obj" sense="hoor" tense="past" v_per="thi" word="hoorde" wvorm="pv"/>
+          <node begin="3" cat="inf" end="10" id="10" rel="vc">
+            <node begin="3" case="dat_acc" def="def" end="4" frame="pronoun(nwh,thi,sg,de,dat_acc,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="normal" id="11" lcat="np" lemma="hem" naamval="obl" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,obl,vol,3,ev,masc)" pt="vnw" rel="obj2" rnum="sg" root="hem" sense="hem" status="vol" vwtype="pers" wh="nwh" word="hem"/>
+            <node begin="4" buiging="zonder" end="5" frame="verb(hebben,inf,np_sbar)" his="normal" his_1="normal" id="12" infl="inf" lcat="inf" lemma="vragen" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="vraag" sc="np_sbar" sense="vraag" word="vragen" wvorm="inf"/>
+            <node begin="5" cat="pp" end="10" id="13" rel="mod">
+              <node begin="5" end="6" frame="preposition(met,[mee,[en,al]])" his="normal" his_1="normal" id="14" lcat="pp" lemma="met" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="met" sense="met" vztype="init" word="met"/>
+              <node begin="6" cat="np" end="10" id="15" rel="obj1">
+                <node begin="6" buiging="zonder" end="7" frame="determiner(pron)" getal="ev" his="normal" his_1="normal" id="16" infl="pron" lcat="detp" lemma="zijn" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,red,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="zijn" sense="zijn" status="red" vwtype="bez" word="z'n"/>
+                <node aform="base" begin="7" buiging="met-e" end="8" frame="adjective(e)" graad="basis" his="normal" his_1="normal" id="17" infl="e" lcat="ap" lemma="correct" naamval="stan" pos="adj" positie="prenom" postag="ADJ(prenom,basis,met-e,stan)" pt="adj" rel="mod" root="correct" sense="correct" vform="adj" word="correcte"/>
+                <node begin="8" end="9" frame="tmp_noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="compound" his_1="2" id="18" lcat="np" lemma="Museum_kwartier" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="Museum_kwartier" sense="Museum_kwartier" special="tmp" word="Museumkwartier"/>
+                <node aform="base" begin="9" buiging="zonder" end="10" frame="adjective(ge_no_e(adv))" his="normal" his_1="normal" id="19" infl="no_e" lcat="ppart" lemma="luiden" pos="adj" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="mod" root="luiden" sense="luiden" vform="psp" word="geluid" wvorm="vd"/>
+              </node>
+            </node>
+          </node>
+        </node>
+        <node begin="12" cat="du" end="20" id="20" rel="nucl">
+          <node begin="12" cat="sv1" end="18" id="21" rel="nucl">
+            <node begin="12" end="13" frame="verb(hebben,modal_not_u,aux(inf))" his="normal" his_1="decap" his_1_1="normal" id="22" infl="modal_not_u" lcat="sv1" lemma="zullen" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="zal" sc="aux(inf)" sense="zal" tense="present" v_per="fir" word="Zal" wvorm="pv"/>
+            <node begin="13" case="nom" def="def" end="14" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="normal" id="23" index="1" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="ik"/>
+            <node begin="13" cat="inf" end="18" id="24" rel="vc">
+              <node begin="13" end="14" id="25" index="1" rel="su"/>
+              <node begin="14" cat="np" end="16" id="26" rel="obj1">
+                <node begin="14" end="15" frame="determiner(het,nwh,nmod,pro,nparg,wkpro)" his="normal" his_1="variant" his_1_1="variant" his_1_1_1="het" his_1_1_2="&apos;t" his_1_2="normal" id="27" infl="het" lcat="detp" lemma="het" lwtype="bep" naamval="stan" npagr="evon" pos="det" postag="LID(bep,stan,evon)" pt="lid" rel="det" root="het" sense="het" wh="nwh" word="'t"/>
+                <node begin="15" end="16" frame="noun(het,count,sg)" gen="het" genus="onz" getal="ev" graad="basis" his="normal" his_1="normal" id="28" lcat="np" lemma="licht" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,onz,stan)" pt="n" rel="hd" rnum="sg" root="licht" sense="licht" word="licht"/>
+              </node>
+              <node begin="16" end="17" frame="particle(aan)" his="normal" his_1="normal" id="29" lcat="part" lemma="aan" pos="part" postag="VZ(fin)" pt="vz" rel="svp" root="aan" sense="aan" vztype="fin" word="aan"/>
+              <node begin="17" buiging="zonder" end="18" frame="verb(hebben,inf,part_transitive(aan))" his="normal" his_1="normal" id="30" infl="inf" lcat="inf" lemma="aan_laten" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="laat_aan" sc="part_transitive(aan)" sense="laat_aan" word="laten" wvorm="inf"/>
+            </node>
+          </node>
+          <node begin="19" end="20" frame="proper_name(sg,'LOC')" genus="onz" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="31" lcat="np" lemma="Clara" naamval="stan" neclass="LOC" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,onz,stan)" pt="n" rel="sat" rnum="sg" root="Clara" sense="Clara" word="Clara"/>
+        </node>
+      </node>
+    </node>
+    <node begin="20" end="21" frame="punct(vraag)" his="normal" his_1="normal" id="32" lcat="punct" lemma="?" pos="punct" postag="LET()" pt="let" rel="--" root="?" sense="?" special="vraag" word="?"/>
+    <node begin="21" end="22" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="33" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+  </node>
+  <sentence sentid="50-6">En hij hoorde hem vragen met z&apos;n correcte Museumkwartier geluid : &quot; Zal ik &apos;t licht aan laten , Clara ? &quot;</sentence>
+  <comments>
+    <comment>Q#50-6|En hij hoorde hem vragen met z&apos;n correcte Museumkwartier geluid : &quot; Zal ik &apos;t licht aan laten , Clara ? &quot;|1|1|-1.6783035471999976</comment>
+  </comments>
+</alpino_ds>

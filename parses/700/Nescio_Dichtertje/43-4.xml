@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-git20240307.121342-glibc2.23-SICStus3.12.11-x86_64-linux-glibc2.5" date="2024-05-07T10:56" cats="1" skips="0" />
+  <node begin="0" cat="top" end="8" id="0" rel="top">
+    <node begin="0" cat="du" end="7" id="1" rel="--">
+      <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="2" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+      <node begin="1" cat="smain" end="7" id="3" rel="nucl">
+        <node begin="1" cat="ppart" end="3" id="4" rel="mod">
+          <node begin="1" end="2" frame="sentence_adverb" his="normal" his_1="normal" id="5" lcat="advp" lemma="altijd" pos="adv" postag="BW()" pt="bw" rel="mod" root="altijd" sense="altijd" special="sentence" word="altijd"/>
+          <node aform="base" begin="2" buiging="zonder" end="3" frame="adjective(ge_no_e(adv))" his="normal" his_1="normal" id="6" infl="no_e" lcat="ppart" lemma="trouwen" pos="adj" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="trouwen" sense="trouwen" vform="psp" word="getrouwd" wvorm="vd"/>
+        </node>
+        <node begin="3" end="4" frame="verb(unacc,sg_is,copula)" his="normal" his_1="normal" id="7" infl="sg_is" lcat="smain" lemma="zijn" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="ben" sc="copula" sense="ben" stype="declarative" tense="present" v_per="thi" word="is" wvorm="pv"/>
+        <node begin="4" end="5" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="8" lcat="np" lemma="zoo" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="su" rnum="sg" root="zoo" sense="zoo" word="zoo"/>
+        <node begin="5" cat="ap" end="7" id="9" rel="predc">
+          <node aform="base" begin="5" buiging="zonder" end="6" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="10" infl="no_e" lcat="ap" lemma="erg" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="erg" sense="erg" vform="adj" word="erg"/>
+          <node aform="base" begin="6" buiging="zonder" end="7" frame="adjective(no_e(tmpadv))" graad="basis" his="normal" his_1="normal" id="11" infl="no_e" lcat="ap" lemma="lang" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="hd" root="lang" sense="lang" vform="adj" word="lang"/>
+        </node>
+      </node>
+    </node>
+    <node begin="7" end="8" frame="punct(punt)" his="normal" his_1="normal" id="12" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="43-4">En altijd getrouwd is zoo erg lang .</sentence>
+  <comments>
+    <comment>Q#43-4|En altijd getrouwd is zoo erg lang .|1|1|1.0888136535999995</comment>
+  </comments>
+</alpino_ds>

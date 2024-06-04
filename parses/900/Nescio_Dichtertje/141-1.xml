@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-git20240307.121342-glibc2.23-SICStus3.12.11-x86_64-linux-glibc2.5" date="2024-05-07T21:36" cats="1" skips="0" />
+  <node begin="0" cat="top" end="17" id="0" rel="top">
+    <node begin="7" end="8" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="11" end="12" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="16" id="3" rel="--">
+      <node begin="0" cat="smain" end="5" id="4" rel="nucl">
+        <node begin="0" cat="np" end="3" id="5" rel="obj1">
+          <node begin="0" cat="mwu" end="2" his="name" his_1="begin" id="6" rel="mod">
+            <node begin="0" end="1" frame="proper_name(both)" id="7" lcat="np" lemma="Den" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" root="Den" sense="Den" spectype="deeleigen" word="Den"/>
+            <node begin="1" end="2" frame="proper_name(both)" id="8" lcat="np" lemma="heelen" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" root="heelen" sense="heelen" spectype="deeleigen" word="heelen"/>
+          </node>
+          <node begin="2" end="3" frame="tmp_noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="9" lcat="np" lemma="dag" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="dag" sense="dag" special="tmp" word="dag"/>
+        </node>
+        <node begin="3" end="4" frame="verb(hebben,past(pl),transitive_ndev)" his="normal" his_1="normal" id="10" infl="pl" lcat="smain" lemma="hebben" pos="verb" postag="WW(pv,verl,mv)" pt="ww" pvagr="mv" pvtijd="verl" rel="hd" root="heb" sc="transitive_ndev" sense="heb" stype="declarative" tense="past" v_per="thi" word="hadden" wvorm="pv"/>
+        <node begin="4" case="both" def="def" end="5" frame="pronoun(nwh,thi,both,de,both,def,wkpro)" gen="de" getal="mv" his="normal" his_1="normal" id="11" lcat="np" lemma="ze" naamval="stan" num="both" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,stan,red,3,mv)" pt="vnw" rel="su" rnum="pl" root="ze" sense="ze" special="wkpro" status="red" vwtype="pers" wh="nwh" word="ze"/>
+      </node>
+      <node begin="5" cat="mwu" end="7" his="name" his_1="not_begin" id="12" rel="tag">
+        <node begin="5" end="6" frame="proper_name(both,'PER')" id="13" lcat="np" lemma="drukproeven" neclass="PER" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" root="drukproeven" sense="drukproeven" spectype="deeleigen" word="drukproeven"/>
+        <node begin="6" end="7" frame="proper_name(both,'PER')" id="14" lcat="np" lemma="nagezien" neclass="PER" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" root="nagezien" sense="nagezien" spectype="deeleigen" word="nagezien"/>
+      </node>
+      <node begin="8" cat="conj" end="16" id="15" rel="sat">
+        <node begin="9" conjtype="neven" end="10" frame="conj(en)" his="normal" his_1="normal" id="16" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+        <node begin="8" cat="np" end="16" id="17" rel="cnj">
+          <node begin="8" end="9" frame="proper_name(sg,'PER')" genus="zijd" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="18" lcat="np" lemma="Dora" naamval="stan" neclass="PER" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="Dora" sense="Dora" word="Dora"/>
+          <node begin="12" cat="conj" end="16" id="19" index="1" rel="mod">
+            <node begin="12" cat="ap" end="14" id="20" rel="cnj">
+              <node begin="12" buiging="zonder" end="13" frame="intensifier" graad="basis" his="normal" his_1="normal" id="21" index="2" lcat="advp" lemma="heel" pos="adv" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="heel" sense="heel" special="intensifier" word="heel"/>
+              <node aform="base" begin="13" buiging="zonder" end="14" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="22" infl="no_e" lcat="ap" lemma="droog" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="hd" root="droog" sense="droog" vform="adj" word="droog"/>
+            </node>
+            <node begin="14" conjtype="neven" end="15" frame="conj(en)" his="normal" his_1="normal" id="23" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+            <node begin="12" cat="ap" end="16" id="24" rel="cnj">
+              <node begin="12" end="13" id="25" index="2" rel="mod"/>
+              <node aform="base" begin="15" buiging="zonder" end="16" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="26" infl="no_e" lcat="ap" lemma="zakelijk" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="hd" root="zakelijk" sense="zakelijk" vform="adj" word="zakelijk"/>
+            </node>
+          </node>
+        </node>
+        <node begin="10" cat="np" end="16" id="27" rel="cnj">
+          <node begin="10" case="nom" def="def" end="11" frame="pronoun(nwh,thi,sg,de,nom,def)" gen="de" genus="masc" getal="ev" his="normal" his_1="normal" id="28" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,vol,3,ev,masc)" pt="vnw" rel="hd" rnum="sg" root="hij" sense="hij" status="vol" vwtype="pers" wh="nwh" word="hij"/>
+          <node begin="12" end="16" id="29" index="1" rel="mod"/>
+        </node>
+      </node>
+    </node>
+    <node begin="16" end="17" frame="punct(punt)" his="normal" his_1="normal" id="30" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="141-1">Den heelen dag hadden ze drukproeven nagezien , Dora en hij , heel droog en zakelijk .</sentence>
+  <comments>
+    <comment>Q#141-1|Den heelen dag hadden ze drukproeven nagezien , Dora en hij , heel droog en zakelijk .|1|1|3.500858791100009</comment>
+  </comments>
+</alpino_ds>

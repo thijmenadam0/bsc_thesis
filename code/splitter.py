@@ -30,7 +30,6 @@ def main():
     lines = file1.split("\n")
     
     with open(filename + ".tok", "w") as file:
-        print(lines[:amount])
         file.writelines(line + '\n' for line in lines[:amount])
 
 

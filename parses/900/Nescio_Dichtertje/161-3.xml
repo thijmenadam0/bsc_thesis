@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-git20240307.121342-glibc2.23-SICStus3.12.11-x86_64-linux-glibc2.5" date="2024-05-07T21:45" cats="1" skips="0" />
+  <node begin="0" cat="top" end="9" id="0" rel="top">
+    <node begin="0" end="1" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="1" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="3" end="4" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="1" cat="du" end="7" id="3" rel="--">
+      <node begin="1" end="2" frame="tag" genus="zijd" getal="ev" graad="basis" his="normal" his_1="decap" his_1_1="normal" id="4" lcat="advp" lemma="dag" naamval="stan" ntype="soort" pos="tag" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="tag" root="dag" sense="dag" word="Dag"/>
+      <node begin="2" cat="conj" end="7" id="5" rel="nucl">
+        <node begin="2" end="3" frame="proper_name(sg,'PER')" genus="zijd" getal="ev" graad="basis" his="normal" his_1="names_dictionary" id="6" lcat="np" lemma="Dora" naamval="stan" neclass="PER" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="cnj" rnum="sg" root="Dora" sense="Dora" word="Dora"/>
+        <node begin="4" cat="mwu" end="7" his="name" his_1="not_begin" id="7" rel="cnj">
+          <node begin="4" end="5" frame="proper_name(both)" id="8" lcat="np" lemma="au" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" root="au" sense="au" spectype="deeleigen" word="au"/>
+          <node begin="5" end="6" frame="proper_name(both)" id="9" lcat="np" lemma="revoir" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" root="revoir" sense="revoir" spectype="deeleigen" word="revoir"/>
+          <node begin="6" end="7" frame="proper_name(both)" id="10" lcat="np" lemma="camarade" neclass="MISC" num="both" pos="name" postag="SPEC(deeleigen)" pt="spec" rel="mwp" root="camarade" sense="camarade" spectype="deeleigen" word="camarade"/>
+        </node>
+      </node>
+    </node>
+    <node begin="7" end="8" frame="punct(punt)" his="normal" his_1="normal" id="11" lcat="punct" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+    <node begin="8" end="9" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="12" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+  </node>
+  <sentence sentid="161-3">&quot; Dag Dora , au revoir camarade . &quot;</sentence>
+  <comments>
+    <comment>Q#161-3|&quot; Dag Dora , au revoir camarade . &quot;|1|1|1.4441069199999992</comment>
+  </comments>
+</alpino_ds>

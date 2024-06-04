@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-git20240307.121342-glibc2.23-SICStus3.12.11-x86_64-linux-glibc2.5" date="2024-04-30T12:23" cats="3" skips="1" />
+  <node begin="0" cat="top" end="17" id="0" rel="top">
+    <node begin="1" case="nom" def="def" end="2" frame="pronoun(nwh,thi,sg,de,nom,def,wkpro)" gen="de" genus="masc" getal="ev" his="robust_skip" id="1" lcat="--" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,red,3,ev,masc)" pt="vnw" rel="--" root="hij" sense="hij" special="wkpro" status="red" vwtype="pers" wh="nwh" word="ie"/>
+    <node begin="14" end="15" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="16" id="3" rel="--">
+      <node begin="0" end="1" frame="proper_name(sg,'PER')" genus="zijd" getal="ev" graad="basis" his="name" his_1="begin" id="4" lcat="np" lemma="Zoodat" naamval="stan" neclass="PER" ntype="eigen" num="sg" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="dp" rnum="sg" root="Zoodat" sense="Zoodat" word="Zoodat"/>
+      <node begin="2" cat="du" end="5" id="5" rel="dp">
+        <node begin="2" end="3" frame="sentence_adverb" his="normal" his_1="normal" id="6" lcat="advp" lemma="soms" pos="adv" postag="BW()" pt="bw" rel="dp" root="soms" sense="soms" special="sentence" word="soms"/>
+        <node begin="3" cat="advp" end="5" id="7" rel="dp">
+          <node begin="3" end="4" frame="adverb" his="normal" his_1="normal" id="8" lcat="advp" lemma="niet" pos="adv" postag="BW()" pt="bw" rel="hd" root="niet" sense="niet" word="niet"/>
+          <node begin="4" buiging="zonder" end="5" frame="postadv_adverb" graad="comp" his="normal" his_1="normal" id="9" lcat="advp" lemma="veel" naamval="stan" pdtype="grad" pos="adv" positie="vrij" postag="VNW(onbep,grad,stan,vrij,zonder,comp)" pt="vnw" rel="mod" root="veel" sense="veel" special="postadv" vwtype="onbep" word="meer"/>
+        </node>
+      </node>
+      <node begin="5" cat="sv1" end="16" id="10" rel="dp">
+        <node begin="5" dropped_agr="sg" end="6" frame="verb(hebben,past(sg),tr_sbar)" his="normal" his_1="normal" id="11" infl="sg" lcat="sv1" lemma="weten" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="weet" sc="tr_sbar" sense="weet" stype="topic_drop" tense="past" v_per="thi;fir" word="wist" wvorm="pv"/>
+        <node begin="6" cat="cp" end="16" id="12" rel="vc">
+          <node begin="6" conjtype="onder" end="7" frame="complementizer(of)" his="normal" his_1="normal" id="13" lcat="cp" lemma="of" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="of" sc="of" sense="of" word="of"/>
+          <node begin="7" cat="ssub" end="16" id="14" rel="body">
+            <node begin="7" case="nom" def="def" end="8" frame="pronoun(nwh,thi,sg,de,nom,def,wkpro)" gen="de" genus="masc" getal="ev" his="normal" his_1="variant" id="15" index="1" lcat="np" lemma="hij" naamval="nomin" num="sg" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,nomin,red,3,ev,masc)" pt="vnw" rel="su" rnum="sg" root="hij" sense="hij" special="wkpro" status="red" vwtype="pers" wh="nwh" word="ie"/>
+            <node begin="10" end="11" frame="verb(hebben,past(sg),aux_psp_hebben)" his="normal" his_1="normal" id="16" infl="sg" lcat="ssub" lemma="hebben" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="heb" sc="aux_psp_hebben" sense="heb" tense="past" v_per="thi" word="had" wvorm="pv"/>
+            <node begin="7" cat="ppart" end="16" id="17" rel="vc">
+              <node begin="7" end="8" id="18" index="1" rel="su"/>
+              <node begin="8" end="9" frame="er_vp_adverb" getal="getal" his="normal" his_1="normal" id="19" lcat="advp" lemma="er" naamval="stan" pdtype="adv-pron" persoon="3" pos="adv" postag="VNW(aanw,adv-pron,stan,red,3,getal)" pt="vnw" rel="mod" root="er" sense="er" special="er" status="red" vwtype="aanw" word="er"/>
+              <node begin="11" buiging="zonder" end="12" frame="verb(hebben,psp,transitive_ndev_ndev)" his="normal" his_1="normal" id="20" infl="psp" lcat="ppart" lemma="zien" pos="verb" positie="vrij" postag="WW(vd,vrij,zonder)" pt="ww" rel="hd" root="zie" sc="transitive_ndev_ndev" sense="zie" word="gezien" wvorm="vd"/>
+              <node begin="9" cat="conj" end="16" id="21" rel="obj1">
+                <node begin="9" end="10" frame="number(hoofd(pl_num))" his="normal" his_1="number_expression" id="22" infl="pl_num" lcat="np" lemma="tien_duizend" numtype="hoofd" pos="num" positie="vrij" postag="TW(hoofd,vrij)" pt="tw" rel="cnj" root="tien_duizend" sense="tien_duizend" word="tienduizend"/>
+                <node begin="12" conjtype="neven" end="13" frame="conj(of)" his="normal" his_1="normal" id="23" lcat="vg" lemma="of" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="of" sense="of" word="of"/>
+                <node begin="13" cat="np" end="16" id="24" rel="cnj">
+                  <node begin="13" end="14" frame="number(hoofd(sg_num))" his="normal" his_1="normal" id="25" infl="sg_num" lcat="np" lemma="één" numtype="hoofd" pos="num" positie="vrij" postag="TW(hoofd,vrij)" pt="tw" rel="hd" root="één" sense="één" word="één"/>
+                  <node aform="base" begin="15" buiging="zonder" end="16" frame="adjective(no_e(adv))" graad="basis" his="form_of_suffix" his_1="aal" id="26" infl="no_e" lcat="ap" lemma="tienduizendmaal" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="mod" root="tienduizendmaal" sense="tienduizendmaal" vform="adj" word="tienduizendmaal"/>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="16" end="17" frame="punct(punt)" his="robust_skip" id="27" lcat="--" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="8-6">Zoodat ie soms niet meer wist of ie er tienduizend had gezien of één , tienduizendmaal .</sentence>
+  <comments>
+    <comment>Q#8-6|Zoodat ie soms niet meer wist of ie er tienduizend had gezien of één , tienduizendmaal .|1|4|3.269622167900003</comment>
+  </comments>
+</alpino_ds>

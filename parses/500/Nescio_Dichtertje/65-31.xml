@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-git20240307.121342-glibc2.23-SICStus3.12.11-x86_64-linux-glibc2.5" date="2024-04-30T13:43" cats="1" skips="0" />
+  <node begin="0" cat="top" end="15" id="0" rel="top">
+    <node begin="0" end="1" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="1" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+    <node begin="3" end="4" frame="punct(komma)" his="normal" his_1="normal" id="2" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="6" end="7" frame="punct(komma)" his="normal" his_1="normal" id="3" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="8" end="9" frame="punct(komma)" his="normal" his_1="normal" id="4" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="1" cat="du" end="13" id="5" rel="--">
+      <node begin="1" cat="du" end="6" id="6" rel="dp">
+        <node begin="1" cat="du" end="3" id="7" rel="dp">
+          <node begin="1" end="2" frame="tag" his="normal" his_1="decap" his_1_1="normal" id="8" lcat="advp" lemma="komen" pos="tag" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="tag" root="kom" sense="kom" word="Kom" wvorm="pv"/>
+          <node begin="2" end="3" frame="proper_name(both,'PER')" genus="zijd" getal="ev" graad="basis" his="name" his_1="not_begin" id="9" lcat="np" lemma="Bobi" naamval="stan" neclass="PER" ntype="eigen" num="both" pos="name" postag="N(eigen,ev,basis,zijd,stan)" pt="n" rel="nucl" root="Bobi" sense="Bobi" word="Bobi"/>
+        </node>
+        <node begin="4" cat="sv1" end="6" id="10" rel="dp">
+          <node begin="4" dropped_agr="sg" dropped_prs="fir" end="5" frame="verb(hebben,sg1,part_intransitive(voort))" his="normal" his_1="normal" id="11" infl="sg1" lcat="sv1" lemma="voort_maken" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="maak_voort" sc="part_intransitive(voort)" sense="maak_voort" stype="topic_drop" tense="present" v_per="fir" word="maak" wvorm="pv"/>
+          <node begin="5" end="6" frame="particle(voort)" his="normal" his_1="normal" id="12" lcat="part" lemma="voort" pos="part" postag="BW()" pt="bw" rel="svp" root="voort" sense="voort" word="voort"/>
+        </node>
+      </node>
+      <node begin="7" cat="du" end="13" id="13" rel="dp">
+        <node begin="7" end="8" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="14" lcat="np" lemma="wacht" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="sat" rnum="sg" root="wacht" sense="wacht" word="wacht"/>
+        <node begin="9" cat="sv1" end="13" id="15" rel="nucl">
+          <node begin="9" end="10" frame="verb(hebben,modal_not_u,aux(inf))" his="normal" his_1="normal" id="16" infl="modal_not_u" lcat="sv1" lemma="zullen" pos="verb" postag="WW(pv,tgw,ev)" pt="ww" pvagr="ev" pvtijd="tgw" rel="hd" root="zal" sc="aux(inf)" sense="zal" tense="present" v_per="fir" word="zal" wvorm="pv"/>
+          <node begin="10" case="nom" def="def" end="11" frame="pronoun(nwh,fir,sg,de,nom,def)" gen="de" getal="ev" his="normal" his_1="normal" id="17" index="1" lcat="np" lemma="ik" naamval="nomin" num="sg" pdtype="pron" per="fir" persoon="1" pos="pron" postag="VNW(pers,pron,nomin,vol,1,ev)" pt="vnw" rel="su" rnum="sg" root="ik" sense="ik" status="vol" vwtype="pers" wh="nwh" word="ik"/>
+          <node begin="10" cat="inf" end="13" id="18" rel="vc">
+            <node begin="10" end="11" id="19" index="1" rel="su"/>
+            <node begin="11" case="both" def="def" end="12" frame="pronoun(nwh,je,sg,de,both,def,wkpro)" gen="de" getal="getal" his="normal" his_1="normal" id="20" lcat="np" lemma="je" naamval="obl" num="sg" pdtype="pron" per="je" persoon="2v" pos="pron" postag="VNW(pr,pron,obl,red,2v,getal)" pt="vnw" rel="obj1" rnum="sg" root="je" sense="je" special="wkpro" status="red" vwtype="pr" wh="nwh" word="je"/>
+            <node begin="12" buiging="zonder" end="13" frame="verb(hebben,inf,transitive_ndev)" his="normal" his_1="normal" id="21" infl="inf" lcat="inf" lemma="helpen" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="help" sc="transitive_ndev" sense="help" word="helpen" wvorm="inf"/>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="13" end="14" frame="punct(vraag)" his="normal" his_1="normal" id="22" lcat="punct" lemma="?" pos="punct" postag="LET()" pt="let" rel="--" root="?" sense="?" special="vraag" word="?"/>
+    <node begin="14" end="15" frame="punct(aanhaal_both)" his="normal" his_1="normal" id="23" lcat="punct" lemma="&quot;" pos="punct" postag="LET()" pt="let" rel="--" root="&quot;" sense="&quot;" special="aanhaal_both" word="&quot;"/>
+  </node>
+  <sentence sentid="65-31">&quot; Kom Bobi , maak voort , wacht , zal ik je helpen ? &quot;</sentence>
+  <comments>
+    <comment>Q#65-31|&quot; Kom Bobi , maak voort , wacht , zal ik je helpen ? &quot;|1|1|0.3275754713000046</comment>
+  </comments>
+</alpino_ds>

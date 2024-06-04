@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpino_ds version="1.15">
+  <parser build="Alpino-git20240307.121342-glibc2.23-SICStus3.12.11-x86_64-linux-glibc2.5" date="2024-05-07T12:33" cats="2" skips="0" />
+  <node begin="0" cat="top" end="33" id="0" rel="top">
+    <node begin="21" end="22" frame="punct(komma)" his="normal" his_1="normal" id="1" lcat="punct" lemma="," pos="punct" postag="LET()" pt="let" rel="--" root="," sense="," special="komma" word=","/>
+    <node begin="0" cat="du" end="32" id="2" rel="--">
+      <node begin="0" cat="du" end="2" id="3" rel="dp">
+        <node begin="0" conjtype="neven" end="1" frame="complementizer(root)" his="normal" his_1="decap" his_1_1="normal" id="4" lcat="du" lemma="en" pos="comp" postag="VG(neven)" pt="vg" rel="dlink" root="en" sc="root" sense="en" word="En"/>
+        <node begin="1" end="2" frame="tmp_adverb" his="normal" his_1="normal" id="5" lcat="advp" lemma="dan" pos="adv" postag="BW()" pt="bw" rel="nucl" root="dan" sense="dan" special="tmp" word="dan"/>
+      </node>
+      <node begin="2" cat="du" end="32" id="6" rel="dp">
+        <node begin="2" cat="conj" end="21" id="7" rel="nucl">
+          <node begin="2" cat="sv1" end="10" id="8" rel="cnj">
+            <node begin="2" dropped_agr="sg" end="3" frame="verb(zijn,past(sg),aux(te_inf))" his="normal" his_1="normal" id="9" infl="sg" lcat="sv1" lemma="beginnen" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="begin" sc="aux(te_inf)" sense="begin" stype="topic_drop" tense="past" v_per="thi;fir" word="begon" wvorm="pv"/>
+            <node aform="base" begin="3" buiging="zonder" end="4" frame="adjective(no_e(padv))" graad="basis" his="normal" his_1="normal" id="10" infl="no_e" lcat="ap" lemma="moe" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="predm" root="moe" sense="moe" vform="adj" word="moe"/>
+            <node begin="4" cat="ti" end="10" id="11" rel="vc">
+              <node begin="4" end="5" frame="complementizer(te)" his="normal" his_1="normal" id="12" lcat="ti" lemma="te" pos="comp" postag="VZ(init)" pt="vz" rel="cmp" root="te" sc="te" sense="te" vztype="init" word="te"/>
+              <node begin="5" cat="inf" end="10" id="13" rel="body">
+                <node begin="5" buiging="zonder" end="6" frame="verb(hebben,inf,intransitive)" his="normal" his_1="normal" id="14" infl="inf" lcat="inf" lemma="soezen" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="soes" sc="intransitive" sense="soes" word="soezen" wvorm="inf"/>
+                <node begin="6" cat="pp" end="10" id="15" rel="mod">
+                  <node begin="6" end="7" frame="preposition(in,[])" his="normal" his_1="normal" id="16" lcat="pp" lemma="in" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="in" sense="in" vztype="init" word="in"/>
+                  <node begin="7" cat="np" end="10" id="17" rel="obj1">
+                    <node begin="7" end="8" frame="determiner(de)" his="normal" his_1="normal" id="18" infl="de" lcat="detp" lemma="de" lwtype="bep" naamval="stan" npagr="rest" pos="det" postag="LID(bep,stan,rest)" pt="lid" rel="det" root="de" sense="de" word="de"/>
+                    <node aform="base" begin="8" buiging="met-e" end="9" frame="adjective(ende(padv))" his="normal" his_1="V-de" his_1_1="normal" id="19" infl="e" lcat="ppres" lemma="suizen" pos="adj" positie="prenom" postag="WW(od,prenom,met-e)" pt="ww" rel="mod" root="suis" sense="suis" vform="gerund" word="suizende" wvorm="od"/>
+                    <node begin="9" end="10" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="20" lcat="np" lemma="stilte" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="stilte" sense="stilte" word="stilte"/>
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+          <node begin="10" conjtype="neven" end="11" frame="conj(en)" his="normal" his_1="normal" id="21" lcat="vg" lemma="en" pos="vg" postag="VG(neven)" pt="vg" rel="crd" root="en" sense="en" word="en"/>
+          <node begin="11" cat="smain" end="21" id="22" rel="cnj">
+            <node begin="11" cat="pp" end="17" id="23" rel="mod">
+              <node begin="11" end="12" frame="preposition(met,[mee,[en,al]])" his="normal" his_1="normal" id="24" lcat="pp" lemma="met" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="met" sense="met" vztype="init" word="met"/>
+              <node begin="12" cat="np" end="17" id="25" rel="obj1">
+                <node begin="12" buiging="zonder" end="13" frame="determiner(pron)" getal="ev" his="normal" his_1="normal" id="26" infl="pron" lcat="detp" lemma="haar" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="haar" sense="haar" status="vol" vwtype="bez" word="haar"/>
+                <node begin="13" end="14" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="27" lcat="np" lemma="bril" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="bril" sense="bril" word="bril"/>
+                <node begin="14" cat="pp" end="17" id="28" rel="mod">
+                  <node begin="14" end="15" frame="preposition(in,[])" his="normal" his_1="normal" id="29" lcat="pp" lemma="in" pos="prep" postag="VZ(init)" pt="vz" rel="hd" root="in" sense="in" vztype="init" word="in"/>
+                  <node begin="15" cat="np" end="17" id="30" rel="obj1">
+                    <node begin="15" buiging="zonder" end="16" frame="determiner(pron)" getal="ev" his="normal" his_1="normal" id="31" infl="pron" lcat="detp" lemma="haar" naamval="stan" npagr="agr" pdtype="det" persoon="3" pos="det" positie="prenom" postag="VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)" pron="true" pt="vnw" rel="det" root="haar" sense="haar" status="vol" vwtype="bez" word="haar"/>
+                    <node begin="16" end="17" frame="noun(de,count,sg)" gen="de" genus="zijd" getal="ev" graad="basis" his="normal" his_1="normal" id="32" lcat="np" lemma="rechter_hand" naamval="stan" ntype="soort" num="sg" pos="noun" postag="N(soort,ev,basis,zijd,stan)" pt="n" rel="hd" rnum="sg" root="rechter_hand" sense="rechter_hand" word="rechterhand"/>
+                  </node>
+                </node>
+              </node>
+            </node>
+            <node begin="17" end="18" frame="verb(hebben,past(sg),subj_control(wk_te))" his="normal" his_1="normal" id="33" infl="sg" lcat="smain" lemma="zitten" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="zit" sc="subj_control(wk_te)" sense="zit" stype="declarative" tense="past" v_per="thi" word="zat" wvorm="pv"/>
+            <node begin="18" case="both" def="def" end="19" frame="pronoun(nwh,thi,both,de,both,def,wkpro)" gen="de" genus="fem" getal="ev" his="normal" his_1="normal" id="34" index="1" lcat="np" lemma="ze" naamval="stan" num="both" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,stan,red,3,ev,fem)" pt="vnw" rel="su" rnum="sg" root="ze" sense="ze" special="wkpro" status="red" vwtype="pers" wh="nwh" word="ze"/>
+            <node begin="18" cat="ti" end="21" id="35" rel="vc">
+              <node begin="19" end="20" frame="complementizer(te)" his="normal" his_1="normal" id="36" lcat="ti" lemma="te" pos="comp" postag="VZ(init)" pt="vz" rel="cmp" root="te" sc="te" sense="te" vztype="init" word="te"/>
+              <node begin="18" cat="inf" end="21" id="37" rel="body">
+                <node begin="18" end="19" id="38" index="1" rel="su"/>
+                <node begin="20" buiging="zonder" end="21" frame="verb(hebben,inf,intransitive)" his="normal" his_1="normal" id="39" infl="inf" lcat="inf" lemma="knikkebollen" pos="verb" positie="vrij" postag="WW(inf,vrij,zonder)" pt="ww" rel="hd" root="knikkebol" sc="intransitive" sense="knikkebol" word="knikkebollen" wvorm="inf"/>
+              </node>
+            </node>
+          </node>
+        </node>
+        <node begin="22" cat="cp" end="32" id="40" rel="sat">
+          <node begin="22" end="23" frame="complementizer" his="normal" his_1="normal" id="41" lcat="cp" lemma="tot" pos="comp" postag="VZ(init)" pt="vz" rel="cmp" root="tot" sense="tot" vztype="init" word="tot"/>
+          <node begin="23" cat="ssub" end="32" id="42" rel="body">
+            <node begin="23" case="both" def="def" end="24" frame="pronoun(nwh,thi,both,de,both,def,wkpro)" gen="de" genus="fem" getal="ev" his="normal" his_1="normal" id="43" lcat="np" lemma="ze" naamval="stan" num="both" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,stan,red,3,ev,fem)" pt="vnw" rel="su" rnum="sg" root="ze" sense="ze" special="wkpro" status="red" vwtype="pers" wh="nwh" word="ze"/>
+            <node aform="base" begin="24" buiging="zonder" end="25" frame="adjective(no_e(adv))" graad="basis" his="normal" his_1="normal" id="44" infl="no_e" lcat="ap" lemma="wakker" pos="adj" positie="vrij" postag="ADJ(vrij,basis,zonder)" pt="adj" rel="predc" root="wakker" sense="wakker" vform="adj" word="wakker"/>
+            <node begin="25" end="26" frame="verb(unacc,past(sg),copula)" his="normal" his_1="normal" id="45" infl="sg" lcat="ssub" lemma="worden" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="word" sc="copula" sense="word" tense="past" v_per="thi" word="werd" wvorm="pv"/>
+            <node begin="26" cat="cp" end="32" id="46" rel="mod">
+              <node begin="26" conjtype="onder" end="27" frame="complementizer" his="normal" his_1="normal" id="47" lcat="cp" lemma="doordat" pos="comp" postag="VG(onder)" pt="vg" rel="cmp" root="doordat" sense="doordat" word="doordat"/>
+              <node begin="27" cat="ssub" end="32" id="48" rel="body">
+                <node begin="27" case="both" def="def" end="28" frame="pronoun(nwh,thi,both,de,both,def,wkpro)" gen="de" genus="fem" getal="ev" his="normal" his_1="normal" id="49" lcat="np" lemma="ze" naamval="stan" num="both" pdtype="pron" per="thi" persoon="3" pos="pron" postag="VNW(pers,pron,stan,red,3,ev,fem)" pt="vnw" rel="su" rnum="sg" root="ze" sense="ze" special="wkpro" status="red" vwtype="pers" wh="nwh" word="ze"/>
+                <node begin="28" cat="ap" end="30" id="50" rel="mod">
+                  <node begin="28" end="29" frame="intensifier" his="normal" his_1="normal" id="51" lcat="advp" lemma="te" pos="adv" postag="BW()" pt="bw" rel="mod" root="te" sense="te" special="intensifier" word="te"/>
+                  <node aform="base" begin="29" buiging="zonder" end="30" frame="adjective(no_e(odet_adv))" graad="basis" his="normal" his_1="normal" id="52" infl="no_e" lcat="ap" lemma="veel" naamval="stan" pdtype="grad" pos="adj" positie="vrij" postag="VNW(onbep,grad,stan,vrij,zonder,basis)" pt="vnw" rel="hd" root="veel" sense="veel" vform="adj" vwtype="onbep" word="veel"/>
+                </node>
+                <node begin="30" end="31" frame="loc_adverb" his="normal" his_1="normal" id="53" lcat="advp" lemma="voorover" pos="adv" postag="BW()" pt="bw" rel="mod" root="voorover" sense="voorover" special="loc" word="voorover"/>
+                <node begin="31" end="32" frame="verb('hebben/zijn',past(sg),intransitive)" his="normal" his_1="normal" id="54" infl="sg" lcat="ssub" lemma="knikken" pos="verb" postag="WW(pv,verl,ev)" pt="ww" pvagr="ev" pvtijd="verl" rel="hd" root="knik" sc="intransitive" sense="knik" tense="past" v_per="thi" word="knikte" wvorm="pv"/>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node begin="32" end="33" frame="punct(punt)" his="robust_skip" id="55" lcat="--" lemma="." pos="punct" postag="LET()" pt="let" rel="--" root="." sense="." special="punt" word="."/>
+  </node>
+  <sentence sentid="107-1">En dan begon moe te soezen in de suizende stilte en met haar bril in haar rechterhand zat ze te knikkebollen , tot ze wakker werd doordat ze te veel voorover knikte .</sentence>
+  <comments>
+    <comment>Q#107-1|En dan begon moe te soezen in de suizende stilte en met haar bril in haar rechterhand zat ze te knikkebollen , tot ze wakker werd doordat ze te veel voorover knikte .|1|2|2.136579177199996</comment>
+  </comments>
+</alpino_ds>
