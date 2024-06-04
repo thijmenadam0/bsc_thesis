@@ -1,0 +1,22 @@
+# Time of run:
+# Sun May 12 14:47:34 2024
+# Command:
+# ../berkeley-coreference-analyser/classify_coreference_errors.py analysis/200/200 corefs/200/gold corefs/200/Nescio_Dichtertje.conll --lang=nl
+#
+Operations:
+     8   Correct Span
+    67   Introduce Mention
+   187   Split from Cluster
+   162   Merge into Cluster
+    90   Remove Mention
+
+Errors:
+     8   Span Error
+
+    76   Conflated Entities
+    12   Extra Mention
+    20   Extra Entity
+
+    80   Divided Entity
+    31   Missing Mention
+    11   Missing Entity

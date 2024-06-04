@@ -1,0 +1,97 @@
+# Time of run:
+# Sun May 12 14:52:35 2024
+# Command:
+# ../berkeley-coreference-analyser/print_errors.py analysis/100/100 corefs/100/gold corefs/100/Nescio_Dichtertje.conll --lang=nl
+#
+# Clusters that consist entirely of mentions that are not present in the
+# gold standard.
+
+# Nescio_Dichtertje 000
+
+(84, 4, 7)     Extra:  [38;5;1m't stationsplein weer[0m
+
+(30, 10, 15)   Extra:  [38;5;1mDer Tüchtigkeit ist die [4mWelt[0m
+
+(3, 0, 1)      Extra:  [38;5;1mI.[0m
+
+(63, 16, 18)   Extra:  [38;5;1mzilveren [4mgreep[0m
+
+(55, 16, 19)   Extra:  [38;5;1mélan vers l'infini[0m
+(83, 5, 8)     Extra:  [38;5;1mélan vers l'infini[0m
+
+(75, 25, 27)   Extra:  [38;5;1mde [4mVereeniging[0m
+
+(63, 1, 2)     Extra:  [38;5;1mden[0m
+
+(83, 17, 18)   Extra:  [38;5;1mzooals[0m
+
+(98, 7, 9)     Extra:  [38;5;1mbeter [4mzoo'n[0m
+
+(63, 10, 12)   Extra:  [38;5;1mstrooien [4mdeukhoed[0m
+
+(93, 47, 52)   Extra:  [38;5;1m[4mvertetjes[0m[38;5;1m waar 't nooit komt[0m
+
+(63, 8, 10)    Extra:  [38;5;1mz'n [4mgelen[0m
+
+(51, 5, 13)    Extra:  [38;5;1m't [4mvoorbijloopen[0m[38;5;1m op 't terras van een café[0m
+
+(18, 1, 3)     Extra:  [38;5;1mvaderlijk [4mwelgevallen[0m
+
+(93, 18, 20)   Extra:  [38;5;1mde [4mleuning[0m
+
+(68, 21, 23)   Extra:  [38;5;1mden [4mgérant[0m
+
+(64, 23, 29)   Extra:  [38;5;1mde lage [4mavondzon[0m[38;5;1m in Gods gepoetsten[0m
+
+(99, 4, 5)     Extra:  [38;5;1mijzer[0m
+
+(37, 25, 30)   Extra:  [38;5;1mzoo verbrand door de zon[0m
+
+(75, 3, 8)     Extra:  [38;5;1mNederland , van heel Nederland[0m
+
+(10, 9, 10)    Extra:  [38;5;1mwijs[0m
+(11, 2, 3)     Extra:  [38;5;1mdit[0m
+
+(17, 4, 5)     Extra:  [38;5;1mLeidsche[0m
+
+(99, 0, 1)     Extra:  [38;5;1mZoo'n[0m
+
+(55, 12, 16)   Extra:  [38;5;1mMon âme prend [4mson[0m
+(83, 1, 5)     Extra:  [38;5;1mMon âme prend [4mson[0m
+
+(22, 2, 3)     Extra:  [38;5;1mons[0m
+
+(52, 13, 14)   Extra:  [38;5;1mgiggelden[0m
+
+(75, 16, 32)   Extra:  [38;5;1mden [4mBond[0m[38;5;1m van hoofden van groote gezinnen en van de Vereeniging tot opheffing van gevallen vrouwen[0m
+
+(59, 1, 3)     Extra:  [38;5;1m't [4moog[0m
+
+(45, 4, 5)     Extra:  [38;5;1mzwakte[0m
+
+(68, 24, 25)   Extra:  [38;5;1mde[0m
+
+(2, 3, 5)      Extra:  [38;5;1mamor manet[0m
+
+(34, 3, 5)     Extra:  [38;5;1mden [4mhemel[0m
+
+(73, 21, 25)   Extra:  [38;5;1m[4mhoogleeraar[0m[38;5;1m in 't boekhouden[0m
+
+(75, 19, 32)   Extra:  [38;5;1m[4mhoofden[0m[38;5;1m van groote gezinnen en van de Vereeniging tot opheffing van gevallen vrouwen[0m
+
+(32, 11, 15)   Extra:  [38;5;1mduizende [4mvan[0m[38;5;1m die meisjes[0m
+
+(7, 4, 5)      Extra:  [38;5;1mhaar[0m
+
+(75, 10, 32)   Extra:  [38;5;1mSurhuisterveen en Spekholzerheide , donateur van den Bond van hoofden van groote gezinnen en van de Vereeniging tot opheffing van gevallen vrouwen[0m
+
+(93, 8, 14)    Extra:  [38;5;1mde hoogte naar 't gevleugelde wiel[0m
+
+(2, 0, 2)      Extra:  [38;5;1mBellum transit[0m
+
+(68, 26, 28)   Extra:  [38;5;1mNieuwe [4mKarseboom[0m
+
+(74, 10, 11)   Extra:  [38;5;1mwerken[0m
+
+(22, 6, 8)     Extra:  [38;5;1m[4mvroeger[0m[38;5;1m iets[0m
+

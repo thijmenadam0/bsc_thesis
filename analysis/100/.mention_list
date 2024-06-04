@@ -1,0 +1,412 @@
+# Time of run:
+# Wed May 15 21:19:59 2024
+# Command:
+# ../berkeley-coreference-analyser/print_errors.py analysis/100/ corefs/100/gold corefs/100/Nescio_Dichtertje.conll
+#
+# Mentions in each document:
+#  - Mentions that occur in both gold and system output are white
+#  - Mentions that appear only in the gold are blue
+#  - Mentions that appear only in the system output are red
+# For each mention the tuple of numbers indicates (sentence, start word, end word
+# + 1), and the underlined word is the head of the mention (determined from the
+# gold parse tree).
+
+# Nescio_Dichtertje 000
+
+(0, 0, 1)      [38;5;15mDICHTERTJE[0m
+(2, 0, 2)      [38;5;1mBellum transit[0m
+(2, 3, 5)      [38;5;1mamor manet[0m
+(3, 0, 1)      [38;5;1mI.[0m
+(4, 2, 6)      [38;5;15mde God [4mvan[0m[38;5;15m Nederland[0m
+(4, 5, 6)      [38;5;15mNederland[0m
+(4, 6, 7)      [38;5;15mzijn[0m
+(4, 6, 9)      [38;5;15mzijn eerbiedwaardig [4mhoofd[0m
+(4, 12, 13)    [38;5;15mz'n[0m
+(4, 12, 16)    [38;5;15mz'n eerbiedwaardige grauwe [4mbakkebaarden[0m
+(4, 20, 21)    [38;5;15mz'n[0m
+(4, 20, 22)    [38;5;15mz'n [4mvest[0m
+(6, 2, 4)      [38;5;15meen [4mfout[0m
+(7, 0, 5)      [38;5;15mEen dichter [4mmet[0m[38;5;15m nergens haar[0m
+(7, 4, 5)      [38;5;1mhaar[0m
+(8, 4, 8)      [38;5;15mde God [4mvan[0m[38;5;15m Nederland[0m
+(8, 7, 8)      [38;5;15mNederland[0m
+(8, 10, 11)    [38;5;15mdichters[0m
+(9, 0, 1)      [38;5;15mJe[0m
+(9, 6, 7)      [38;5;15mje[0m
+(10, 4, 5)     [38;5;15mje[0m
+(10, 9, 10)    [38;5;1mwijs[0m
+(11, 2, 3)     [38;5;1mdit[0m
+(12, 1, 2)     [38;5;15mHij[0m
+(12, 6, 7)     [38;5;15mhij[0m
+(12, 9, 10)    [38;5;15mmij[0m
+(13, 2, 3)     [38;5;15mje[0m
+(14, 0, 1)     [38;5;15mGod[0m
+(15, 0, 1)     [38;5;15mHij[0m
+(15, 6, 7)     [38;5;15mPotgieter[0m
+(16, 0, 1)     [38;5;15mJe[0m
+(16, 5, 6)     [38;5;15mnarigheid[0m
+(16, 7, 8)     [38;5;15mje[0m
+(16, 7, 9)     [38;5;1mje [4mhoofd[0m
+(17, 3, 6)     [38;5;15mde Leidsche [4mstraat[0m
+(17, 4, 5)     [38;5;1mLeidsche[0m
+(17, 7, 9)     [38;5;15meen [4mmeisje[0m
+(18, 1, 3)     [38;5;1mvaderlijk [4mwelgevallen[0m
+(18, 4, 5)     [38;5;15mGod[0m
+(18, 6, 7)     [38;5;15mhaar[0m
+(19, 0, 2)     [38;5;15mHet [4mmeisje[0m
+(19, 4, 7)     [38;5;15mhonderde andere [4mmeisjes[0m
+(19, 12, 14)   [38;5;15m't [4mwit[0m
+(19, 15, 17)   [38;5;15mzijden [4mblouse[0m
+(19, 18, 21)   [38;5;15mkorte frotté [4mrok[0m
+(19, 22, 24)   [38;5;15mwitte [4mkousen[0m
+(19, 25, 27)   [38;5;15mfijne [4menkeltjes[0m
+(19, 28, 31)   [38;5;15mlage witte [4mschoentjes[0m
+(19, 33, 35)   [38;5;15mlieve [4moogen[0m
+(19, 36, 41)   [38;5;4mhonderde andere meisjes [4min[0m[38;5;4m Amsterdam[0m
+(19, 37, 41)   [38;5;1mandere meisjes in Amsterdam[0m
+(19, 40, 41)   [38;5;15mAmsterdam[0m
+(20, 0, 1)     [38;5;15mOogen[0m
+(20, 1, 2)     [38;5;15mdie[0m
+(20, 4, 5)     [38;5;15mze[0m
+(21, 2, 3)     [38;5;15mze[0m
+(22, 2, 3)     [38;5;1mons[0m
+(22, 2, 5)     [38;5;15mons Lieve Heer[0m
+(22, 6, 8)     [38;5;1mvroeger [4miets[0m
+(23, 3, 4)     [38;5;15m-ie[0m
+(23, 4, 5)     [38;5;15mkwestie[0m
+(24, 4, 5)     [38;5;4mversjes[0m
+(24, 4, 6)     [38;5;1mversjes over[0m
+(24, 7, 9)     [38;5;15mwetende [4moogen[0m
+(25, 3, 4)     [38;5;4méén[0m
+(25, 8, 9)     [38;5;4mbedrog[0m
+(25, 11, 16)   [38;5;15meen vroom bedrog [4mvan[0m[38;5;15m God[0m
+(25, 15, 16)   [38;5;15mGod[0m
+(26, 1, 2)     [38;5;15mze[0m
+(26, 12, 13)   [38;5;15mze[0m
+(27, 2, 3)     [38;5;15mGod[0m
+(28, 2, 3)     [38;5;15mze[0m
+(28, 3, 4)     [38;5;15mhem[0m
+(29, 8, 10)    [38;5;15mde [4mhoofden[0m
+(29, 11, 13)   [38;5;15mde [4mzaken[0m
+(30, 0, 2)     [38;5;15mDe [4mkeizer[0m
+(30, 10, 15)   [38;5;1mDer Tüchtigkeit ist die [4mWelt[0m
+(31, 2, 3)     [38;5;15mje[0m
+(31, 11, 12)   [38;5;15mje[0m
+(32, 1, 2)     [38;5;15mie[0m
+(32, 8, 9)     [38;5;15mie[0m
+(32, 9, 15)    [38;5;4mhonderde , duizende van die meisjes[0m
+(32, 11, 15)   [38;5;1mduizende [4mvan[0m[38;5;1m die meisjes[0m
+(32, 13, 15)   [38;5;1mdie [4mmeisjes[0m
+(32, 17, 19)   [38;5;15mweer anderen[0m
+(32, 21, 23)   [38;5;15mweer dezelfden[0m
+(33, 0, 1)     [38;5;1mZoodat[0m
+(33, 1, 2)     [38;5;15mie[0m
+(33, 7, 8)     [38;5;15mie[0m
+(33, 13, 14)   [38;5;1méén[0m
+(34, 1, 5)     [38;5;4mHeer in den hemel[0m
+(34, 3, 5)     [38;5;1mden [4mhemel[0m
+(34, 6, 7)     [38;5;15mhij[0m
+(34, 8, 10)    [38;5;4mdie meisjes[0m
+(35, 3, 8)     [38;5;15meen grapje [4mvan[0m[38;5;15m den duivel[0m
+(35, 6, 8)     [38;5;15mden [4mduivel[0m
+(35, 10, 13)   [38;5;4mdie wetende oogen[0m
+(36, 4, 6)     [38;5;15m't [4mdichtertje[0m
+(37, 2, 7)     [38;5;15meen knap , jong ventje[0m
+(37, 12, 15)   [38;5;15maardig gladgeschoren [4mjongensgezicht[0m
+(37, 17, 23)   [38;5;15meen paar stutten voor de ooren[0m
+(37, 21, 23)   [38;5;15mde [4mooren[0m
+(37, 25, 30)   [38;5;1mzoo verbrand door de zon[0m
+(37, 28, 30)   [38;5;15mde [4mzon[0m
+(38, 0, 1)     [38;5;15mHij[0m
+(38, 2, 3)     [38;5;4miemand[0m
+(39, 0, 1)     [38;5;15mZ'n[0m
+(39, 0, 3)     [38;5;15mZ'n strooien [4mhoedje[0m
+(39, 4, 5)     [38;5;15m-ie[0m
+(39, 8, 9)     [38;5;15mzijn[0m
+(39, 8, 12)    [38;5;4mzijn kort geknipte [4mharen[0m
+(40, 12, 14)   [38;5;15meen [4mdichtertje[0m
+(40, 16, 17)   [38;5;15mGod[0m
+(40, 20, 21)   [38;5;15m'm[0m
+(40, 22, 23)   [38;5;15mPotgieter[0m
+(41, 1, 3)     [38;5;4mprofessor Volmer[0m
+(41, 1, 4)     [38;5;1mprofessor Volmer [4mverachttenem[0m
+(42, 1, 2)     [38;5;15mhij[0m
+(42, 5, 8)     [38;5;15mdie wetende oogen[0m
+(43, 0, 2)     [38;5;4mDe duivel[0m
+(43, 0, 4)     [38;5;1mDe duivel hattem [4mleelijk[0m
+(44, 0, 1)     [38;5;15mHij[0m
+(44, 2, 5)     [38;5;15meen zwak [4mdichtertje[0m
+(44, 8, 9)     [38;5;15m-ie[0m
+(45, 0, 1)     [38;5;15mHij[0m
+(45, 4, 5)     [38;5;1mzwakte[0m
+(46, 8, 9)     [38;5;15mGod[0m
+(47, 0, 2)     [38;5;15m't [4mDichtertje[0m
+(47, 6, 7)     [38;5;15mhij[0m
+(48, 1, 2)     [38;5;15mhij[0m
+(48, 3, 6)     [38;5;1mtwee wetende [4moogen[0m
+(48, 4, 6)     [38;5;4mwetende oogen[0m
+(48, 10, 11)   [38;5;15mhij[0m
+(48, 14, 15)   [38;5;4mtwee[0m
+(49, 0, 1)     [38;5;15mHij[0m
+(50, 2, 3)     [38;5;15mie[0m
+(50, 3, 6)     [38;5;15m't vijfentwintigste [4mmeisje[0m
+(50, 9, 10)    [38;5;15m-ie[0m
+(50, 14, 15)   [38;5;15mz'n[0m
+(50, 14, 16)   [38;5;15mz'n [4mhersens[0m
+(51, 0, 1)     [38;5;15mHij[0m
+(51, 5, 13)    [38;5;1m't voorbijloopen [4mop[0m[38;5;1m 't terras van een café[0m
+(51, 8, 13)    [38;5;15m't terras [4mvan[0m[38;5;15m een café[0m
+(51, 11, 13)   [38;5;15meen [4mcafé[0m
+(51, 13, 15)   [38;5;15meen [4mstoeltje[0m
+(51, 17, 18)   [38;5;15mkwaadaardigheid[0m
+(52, 1, 2)     [38;5;15mhij[0m
+(52, 6, 7)     [38;5;15mze[0m
+(52, 11, 12)   [38;5;15mze[0m
+(52, 13, 14)   [38;5;1mgiggelden[0m
+(52, 18, 19)   [38;5;15mie[0m
+(52, 19, 20)   [38;5;15mz'n[0m
+(52, 19, 21)   [38;5;15mz'n hoed[0m
+(52, 22, 23)   [38;5;15mhen[0m
+(52, 31, 32)   [38;5;15mze[0m
+(52, 34, 35)   [38;5;15mburgerjuffrouwen-ingebeeldheid[0m
+(53, 3, 4)     [38;5;15mie[0m
+(54, 3, 4)     [38;5;15mie[0m
+(54, 15, 16)   [38;5;15m-ie[0m
+(54, 16, 17)   [38;5;1mzich[0m
+(54, 19, 20)   [38;5;15mGod[0m
+(54, 21, 23)   [38;5;4mden [4mduivel[0m
+(54, 21, 24)   [38;5;1mden duivel tegelijk[0m
+(54, 27, 28)   [38;5;15m-ie[0m
+(54, 32, 33)   [38;5;15m-ie[0m
+(54, 36, 38)   [38;5;15mopen [4mmond[0m
+(54, 43, 46)   [38;5;15meen leeren [4mslabbetje[0m
+(54, 50, 51)   [38;5;15m-ie[0m
+(55, 5, 6)     [38;5;15m-ie[0m
+(55, 12, 16)   [38;5;1mMon âme prend [4mson[0m
+(55, 16, 19)   [38;5;1mélan vers l'infini[0m
+(56, 0, 1)     [38;5;15mPotgieter[0m
+(56, 3, 5)     [38;5;15mde [4mvent[0m
+(56, 13, 15)   [38;5;15mPiet [4mHein[0m
+(58, 2, 4)     [38;5;1m't [4mdichtertje[0m
+(58, 3, 4)     [38;5;4mdichtertje[0m
+(58, 4, 5)     [38;5;15mz'n[0m
+(58, 4, 11)    [38;5;15mz'n tocht [4mdoor[0m[38;5;15m de woestenijen van Amsterdam[0m
+(58, 7, 11)    [38;5;15mde woestenijen [4mvan[0m[38;5;15m Amsterdam[0m
+(58, 10, 11)   [38;5;15mAmsterdam[0m
+(59, 0, 1)     [38;5;1mZoover[0m
+(59, 1, 3)     [38;5;1m't [4moog[0m
+(59, 7, 9)     [38;5;15mNederlandsche [4mmenschen[0m
+(60, 2, 3)     [38;5;15m-ie[0m
+(60, 3, 4)     [38;5;4miemand[0m
+(60, 5, 13)    [38;5;15meen heer [4mmet[0m[38;5;15m hoogen hoed en gekleede jas[0m
+(60, 8, 10)    [38;5;4mhoogen [4mhoed[0m
+(60, 15, 19)   [38;5;15meen stuk [4mvan[0m[38;5;15m Verkade[0m
+(60, 18, 19)   [38;5;15mVerkade[0m
+(61, 2, 3)     [38;5;15mze[0m
+(61, 3, 4)     [38;5;15melkaar[0m
+(62, 2, 3)     [38;5;15mze[0m
+(62, 5, 10)    [38;5;15m't plein [4mvoor[0m[38;5;15m 't Centraalstation[0m
+(62, 8, 10)    [38;5;15m't [4mCentraalstation[0m
+(63, 1, 2)     [38;5;1mden[0m
+(63, 1, 4)     [38;5;4mden beganen grond[0m
+(63, 3, 4)     [38;5;1mgrond[0m
+(63, 5, 6)     [38;5;15mGod[0m
+(63, 8, 9)     [38;5;15mz'n[0m
+(63, 8, 10)    [38;5;1mz'n [4mgelen[0m
+(63, 8, 12)    [38;5;4mz'n gelen strooien deukhoed[0m
+(63, 10, 12)   [38;5;1mstrooien [4mdeukhoed[0m
+(63, 13, 14)   [38;5;15mz'n[0m
+(63, 13, 18)   [38;5;15mz'n wandelstok [4mmet[0m[38;5;15m zilveren greep[0m
+(63, 16, 18)   [38;5;1mzilveren [4mgreep[0m
+(63, 19, 20)   [38;5;15mz'n[0m
+(63, 19, 21)   [38;5;15mz'n [4mjas[0m
+(63, 29, 30)   [38;5;15mz'n[0m
+(63, 29, 31)   [38;5;15mz'n [4mrug[0m
+(63, 33, 34)   [38;5;15mz'n[0m
+(63, 33, 35)   [38;5;15mz'n [4mkraag[0m
+(63, 36, 37)   [38;5;15mroos[0m
+(63, 38, 39)   [38;5;15mz'n[0m
+(63, 38, 40)   [38;5;15mz'n [4mbroekspijpen[0m
+(63, 49, 50)   [38;5;15mplooien[0m
+(63, 51, 52)   [38;5;15mz'n[0m
+(63, 51, 53)   [38;5;15mz'n [4mschoenen[0m
+(64, 0, 1)     [38;5;15mZ'n[0m
+(64, 0, 2)     [38;5;15mZ'n [4mbakkebaarden[0m
+(64, 3, 4)     [38;5;15mje[0m
+(64, 9, 10)    [38;5;15mie[0m
+(64, 11, 14)   [38;5;15mde twee [4mtreden[0m
+(64, 17, 19)   [38;5;15m't [4mstation[0m
+(64, 23, 26)   [38;5;4mde lage avondzon[0m
+(64, 23, 29)   [38;5;1mde lage avondzon [4min[0m[38;5;1m Gods gepoetsten[0m
+(64, 27, 28)   [38;5;4mGods[0m
+(64, 27, 30)   [38;5;4mGods gepoetsten linkerschoen[0m
+(65, 3, 5)     [38;5;15mdie [4mmeneer[0m
+(65, 8, 10)    [38;5;15m't [4mdichtertje[0m
+(66, 1, 2)     [38;5;15mGod[0m
+(66, 4, 6)     [38;5;15mde [4mduivel[0m
+(66, 7, 12)    [38;5;15mde knobbels [4mop[0m[38;5;15m z'n voorhoofd[0m
+(66, 10, 11)   [38;5;15mz'n[0m
+(66, 10, 12)   [38;5;15mz'n [4mvoorhoofd[0m
+(67, 0, 2)     [38;5;15m't [4mDichtertje[0m
+(68, 1, 2)     [38;5;15mJouw[0m
+(68, 1, 3)     [38;5;15mJouw [4mGod[0m
+(68, 4, 6)     [38;5;15mde [4mGod[0m
+(68, 7, 8)     [38;5;15mje[0m
+(68, 7, 9)     [38;5;15mje [4mbaas[0m
+(68, 11, 12)   [38;5;15mje[0m
+(68, 11, 13)   [38;5;15mje [4mschoonvader[0m
+(68, 15, 16)   [38;5;15mje[0m
+(68, 15, 17)   [38;5;15mje [4mbaas[0m
+(68, 15, 19)   [38;5;15mje baas z'n [4mboekhouder[0m
+(68, 17, 18)   [38;5;15mz'n[0m
+(68, 21, 23)   [38;5;1mden [4mgérant[0m
+(68, 21, 29)   [38;5;4mden gérant van de " Nieuwe Karseboom "[0m
+(68, 24, 25)   [38;5;1mde[0m
+(68, 25, 29)   [38;5;4m" Nieuwe Karseboom "[0m
+(68, 26, 28)   [38;5;1mNieuwe [4mKarseboom[0m
+(69, 0, 2)     [38;5;4mDe [4mGod[0m
+(69, 0, 5)     [38;5;1mDe God [4mvan[0m[38;5;1m je tante[0m
+(69, 3, 4)     [38;5;15mje[0m
+(69, 3, 5)     [38;5;15mje [4mtante[0m
+(69, 6, 7)     [38;5;15mdie[0m
+(69, 10, 11)   [38;5;15mje[0m
+(69, 14, 15)   [38;5;15mje[0m
+(69, 16, 21)   [38;5;15m't huis [4mvan[0m[38;5;15m je baas[0m
+(69, 19, 20)   [38;5;15mje[0m
+(69, 19, 21)   [38;5;15mje [4mbaas[0m
+(69, 23, 24)   [38;5;15mDelft[0m
+(69, 25, 26)   [38;5;15mOldenzaal[0m
+(69, 36, 37)   [38;5;15mje[0m
+(69, 39, 40)   [38;5;15mje[0m
+(70, 1, 2)     [38;5;15mje[0m
+(70, 1, 3)     [38;5;15mje [4mtante[0m
+(70, 4, 5)     [38;5;15mdie[0m
+(70, 5, 6)     [38;5;15mje[0m
+(70, 5, 7)     [38;5;15mje [4mzuster[0m
+(71, 1, 3)     [38;5;15mEen [4mvrouw[0m
+(72, 0, 2)     [38;5;1mDe [4mGod[0m
+(72, 0, 6)     [38;5;4mDe God [4mvan[0m[38;5;4m al die menschen[0m
+(72, 4, 6)     [38;5;4mdie menschen[0m
+(72, 7, 8)     [38;5;15mdie[0m
+(72, 14, 15)   [38;5;15mik[0m
+(72, 16, 17)   [38;5;15mjou[0m
+(72, 22, 23)   [38;5;15mje[0m
+(72, 29, 30)   [38;5;15mdie[0m
+(72, 36, 37)   [38;5;15mik[0m
+(72, 49, 50)   [38;5;15mje[0m
+(72, 52, 54)   [38;5;15m't [4mwerkhuis[0m
+(73, 0, 2)     [38;5;15mDe [4mGod[0m
+(73, 3, 4)     [38;5;15mdie[0m
+(73, 9, 10)    [38;5;15mje[0m
+(73, 15, 20)   [38;5;15mde God [4mvan[0m[38;5;15m meneer Volmer[0m
+(73, 18, 20)   [38;5;15mmeneer [4mVolmer[0m
+(73, 21, 25)   [38;5;1mhoogleeraar [4min[0m[38;5;1m 't boekhouden[0m
+(73, 21, 28)   [38;5;4mhoogleeraar in 't boekhouden en de [4mbedrijfsleer[0m
+(73, 26, 28)   [38;5;1mde [4mbedrijfsleer[0m
+(73, 29, 30)   [38;5;15mdie[0m
+(73, 33, 34)   [38;5;15mje[0m
+(73, 38, 40)   [38;5;15mde [4mlucht[0m
+(74, 0, 4)     [38;5;4mDe God van allen[0m
+(74, 0, 13)    [38;5;1mDe God [4mvan[0m[38;5;1m allen die geen andere keus hebben dan werken of vervelen[0m
+(74, 3, 4)     [38;5;4mallen[0m
+(74, 4, 5)     [38;5;15mdie[0m
+(74, 10, 11)   [38;5;1mwerken[0m
+(75, 0, 2)     [38;5;1mDe [4mGod[0m
+(75, 0, 4)     [38;5;4mDe God [4mvan[0m[38;5;4m Nederland[0m
+(75, 3, 4)     [38;5;4mNederland[0m
+(75, 3, 8)     [38;5;1mNederland , van heel Nederland[0m
+(75, 6, 8)     [38;5;15mheel [4mNederland[0m
+(75, 10, 11)   [38;5;15mSurhuisterveen[0m
+(75, 10, 32)   [38;5;1mSurhuisterveen en Spekholzerheide , donateur van den Bond van hoofden van groote gezinnen en van de Vereeniging tot opheffing van gevallen vrouwen[0m
+(75, 12, 13)   [38;5;15mSpekholzerheide[0m
+(75, 14, 32)   [38;5;4mdonateur [4mvan[0m[38;5;4m den Bond van hoofden van groote gezinnen en van de Vereeniging tot opheffing van gevallen vrouwen[0m
+(75, 16, 23)   [38;5;4mden Bond van hoofden van groote gezinnen[0m
+(75, 16, 32)   [38;5;1mden Bond [4mvan[0m[38;5;1m hoofden van groote gezinnen en van de Vereeniging tot opheffing van gevallen vrouwen[0m
+(75, 19, 23)   [38;5;4mhoofden van groote gezinnen[0m
+(75, 19, 32)   [38;5;1mhoofden van groote gezinnen en van de Vereeniging [4mtot[0m[38;5;1m opheffing van gevallen vrouwen[0m
+(75, 21, 23)   [38;5;4mgroote [4mgezinnen[0m
+(75, 25, 27)   [38;5;1mde [4mVereeniging[0m
+(75, 25, 32)   [38;5;4mde Vereeniging tot opheffing van gevallen vrouwen[0m
+(75, 28, 32)   [38;5;1mopheffing [4mvan[0m[38;5;1m gevallen vrouwen[0m
+(75, 30, 32)   [38;5;15mgevallen [4mvrouwen[0m
+(76, 2, 3)     [38;5;15mze[0m
+(77, 0, 1)     [38;5;15mIk[0m
+(78, 1, 3)     [38;5;15mDe [4mbeeldspraak[0m
+(78, 9, 11)    [38;5;15m't [4mdichtertje[0m
+(79, 0, 1)     [38;5;15mHij[0m
+(79, 7, 9)     [38;5;15meen [4mdame[0m
+(79, 10, 11)   [38;5;15mdie[0m
+(80, 1, 8)     [38;5;15mde aardige scherpe achterkantjes [4mvan[0m[38;5;15m haar beenen[0m
+(80, 6, 7)     [38;5;15mhaar[0m
+(80, 6, 8)     [38;5;15mhaar [4mbeenen[0m
+(80, 11, 15)   [38;5;15mde lage witte [4mschoentjes[0m
+(81, 2, 3)     [38;5;15mze[0m
+(81, 3, 6)     [38;5;15mlage witte [4mschoentjes[0m
+(81, 8, 10)    [38;5;15mkorte [4mrokken[0m
+(81, 11, 15)   [38;5;15merg open geweven [4mkousen[0m
+(81, 17, 18)   [38;5;15mhaar[0m
+(81, 17, 19)   [38;5;15mhaar [4mbeenen[0m
+(82, 6, 8)     [38;5;15m't [4mdichtertje[0m
+(83, 1, 5)     [38;5;1mMon âme prend [4mson[0m
+(83, 5, 8)     [38;5;1mélan vers l'infini[0m
+(83, 11, 13)   [38;5;15mde [4mDuivel[0m
+(83, 17, 18)   [38;5;1mzooals[0m
+(83, 18, 19)   [38;5;15mhij[0m
+(84, 2, 4)     [38;5;15m't [4mdichtertje[0m
+(84, 4, 6)     [38;5;4m't [4mstationsplein[0m
+(84, 4, 7)     [38;5;1m't stationsplein weer[0m
+(84, 8, 10)    [38;5;15mden [4mduivel[0m
+(84, 13, 14)   [38;5;15mdie[0m
+(85, 1, 2)     [38;5;4mDuivel[0m
+(85, 4, 5)     [38;5;15m-ie[0m
+(85, 7, 8)     [38;5;15mmij[0m
+(85, 9, 10)    [38;5;15mje[0m
+(86, 0, 2)     [38;5;15mDe [4mduivel[0m
+(86, 4, 5)     [38;5;15mz'n[0m
+(86, 4, 6)     [38;5;15mz'n [4mschouders[0m
+(87, 0, 1)     [38;5;4mstationsklok[0m
+(88, 3, 4)     [38;5;1mzevenen[0m
+(89, 0, 1)     [38;5;15mHij[0m
+(89, 3, 4)     [38;5;15mz'n[0m
+(89, 3, 5)     [38;5;15mz'n [4mhand[0m
+(91, 3, 4)     [38;5;15m-ie[0m
+(91, 6, 8)     [38;5;15mzooveel [4mdichtertjes[0m
+(92, 2, 3)     [38;5;15mie[0m
+(93, 0, 2)     [38;5;15m't [4mDichtertje[0m
+(93, 4, 5)     [38;5;15mhuis[0m
+(93, 8, 10)    [38;5;4mde [4mhoogte[0m
+(93, 8, 14)    [38;5;1mde hoogte naar 't gevleugelde wiel[0m
+(93, 11, 14)   [38;5;15m't gevleugelde [4mwiel[0m
+(93, 15, 16)   [38;5;15mdat[0m
+(93, 18, 20)   [38;5;1mde [4mleuning[0m
+(93, 18, 28)   [38;5;4mde leuning van de hooge spoorbrug over de westelijke doorvaart[0m
+(93, 21, 28)   [38;5;15mde hooge spoorbrug [4mover[0m[38;5;15m de westelijke doorvaart[0m
+(93, 25, 28)   [38;5;15mde westelijke [4mdoorvaart[0m
+(93, 29, 33)   [38;5;15meen kleine ijzeren [4mzuil[0m
+(93, 40, 41)   [38;5;15mz'n[0m
+(93, 40, 42)   [38;5;15mz'n [4mplaats[0m
+(93, 47, 48)   [38;5;4mvertetjes[0m
+(93, 47, 52)   [38;5;1mvertetjes waar 't nooit [4mkomt[0m
+(93, 49, 50)   [38;5;4m't[0m
+(93, 56, 58)   [38;5;15mde [4mTorensluis[0m
+(93, 59, 61)   [38;5;15m't [4mSingel[0m
+(94, 0, 3)     [38;5;15mDe blauwe [4mlucht[0m
+(95, 1, 6)     [38;5;15mde palen met de booglampen[0m
+(95, 4, 6)     [38;5;15mde [4mbooglampen[0m
+(95, 8, 10)    [38;5;4m't [4mbegin[0m
+(95, 11, 16)   [38;5;4m't eind [4mvan[0m[38;5;4m de brug[0m
+(95, 14, 16)   [38;5;15mde [4mbrug[0m
+(95, 20, 22)   [38;5;15m't [4mwieltje[0m
+(96, 5, 6)     [38;5;15mje[0m
+(96, 7, 9)     [38;5;15meen [4mspoorbrug[0m
+(96, 11, 14)   [38;5;15meen ijzeren [4mzuiltje[0m
+(97, 0, 1)     [38;5;15mJe[0m
+(98, 1, 3)     [38;5;15m't [4mdichtertje[0m
+(98, 6, 7)     [38;5;15mje[0m
+(98, 7, 9)     [38;5;1mbeter [4mzoo'n[0m
+(98, 8, 10)    [38;5;4mzoo'n wiel[0m
+(98, 13, 15)   [38;5;15meen [4mdichtertje[0m
+(99, 0, 1)     [38;5;1mZoo'n[0m
+(99, 0, 2)     [38;5;15mZoo'n [4mwiel[0m
+(99, 4, 5)     [38;5;1mijzer[0m
+(99, 7, 9)     [38;5;15meen [4mdichtertje[0m

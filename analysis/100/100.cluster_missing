@@ -1,0 +1,62 @@
+# Time of run:
+# Sun May 12 14:52:35 2024
+# Command:
+# ../berkeley-coreference-analyser/print_errors.py analysis/100/100 corefs/100/gold corefs/100/Nescio_Dichtertje.conll --lang=nl
+#
+# Clusters that consist entirely of mentions that are not present in the
+# system output.
+
+# Nescio_Dichtertje 000
+
+(24, 4, 5)     [38;5;15mversjes[0m
+
+(48, 14, 15)   [38;5;15mtwee[0m
+
+(68, 21, 29)   [38;5;15mden gérant van de " Nieuwe Karseboom "[0m
+
+(87, 0, 1)     [38;5;15mstationsklok[0m
+
+(39, 8, 12)    [38;5;15mzijn kort geknipte [4mharen[0m
+
+(64, 23, 26)   [38;5;15mde lage avondzon[0m
+
+(60, 8, 10)    [38;5;15mhoogen [4mhoed[0m
+
+(93, 18, 28)   [38;5;15mde leuning van de hooge spoorbrug over de westelijke doorvaart[0m
+
+(95, 11, 16)   [38;5;15m't [4meind[0m[38;5;15m van de brug[0m
+
+(75, 14, 32)   [38;5;15m[4mdonateur[0m[38;5;15m van den Bond van hoofden van groote gezinnen en van de Vereeniging tot opheffing van gevallen vrouwen[0m
+
+(64, 27, 30)   [38;5;15mGods gepoetsten linkerschoen[0m
+
+(75, 19, 23)   [38;5;15mhoofden van groote gezinnen[0m
+
+(93, 8, 10)    [38;5;15mde [4mhoogte[0m
+
+(75, 25, 32)   [38;5;15mde Vereeniging tot opheffing van gevallen vrouwen[0m
+
+(68, 25, 29)   [38;5;15m" Nieuwe Karseboom "[0m
+
+(84, 4, 6)     [38;5;15m't [4mstationsplein[0m
+
+(38, 2, 3)     [38;5;15miemand[0m
+
+(48, 4, 6)     [38;5;15mwetende oogen[0m
+
+(75, 21, 23)   [38;5;15mgroote [4mgezinnen[0m
+
+(63, 1, 4)     [38;5;15mden beganen grond[0m
+
+(93, 47, 48)   [38;5;15mvertetjes[0m
+
+(25, 3, 4)     [38;5;15méén[0m
+
+(63, 8, 12)    [38;5;15mz'n gelen strooien deukhoed[0m
+
+(34, 1, 5)     [38;5;15mHeer in den hemel[0m
+
+(75, 16, 23)   [38;5;15mden Bond van hoofden van groote gezinnen[0m
+
+(95, 8, 10)    [38;5;15m't [4mbegin[0m
+

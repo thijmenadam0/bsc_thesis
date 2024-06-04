@@ -1,0 +1,214 @@
+# Time of run:
+# Wed May 15 21:19:59 2024
+# Command:
+# ../berkeley-coreference-analyser/print_errors.py analysis/100/ corefs/100/gold corefs/100/Nescio_Dichtertje.conll
+#
+# Document text with both system and gold mentions marked:
+#  - Gold mentions are marked with '[ ... ]'
+#  - System mentions are marked with '( ... )'
+#  - Mentions that occur in both are marked with '{ ... }'
+# Colour is used to indicate missing and extra mentions.  Blue for missing, red
+# for extra, and purple where they overlap.
+
+# Nescio_Dichtertje 000
+
+[38;5;15m{[0m[38;5;15;4mDICHTERTJE[0m[38;5;15m}[0m .
+
+In 't derde oorlogsjaar .
+
+[38;5;1m([0m[38;5;1mBellum[0m [38;5;1mtransit[0m[38;5;1m)[0m , [38;5;1m([0m[38;5;1mamor[0m [38;5;1mmanet[0m[38;5;1m)[0m .
+
+[38;5;1m([0m[38;5;1;4mI.[0m[38;5;1m)[0m
+
+Tweemaal schudde [38;5;15m{[0m[38;5;15mde[0m [38;5;15mGod[0m [38;5;15;4mvan[0m [38;5;15m{[0m[38;5;15;4mNederland[0m[38;5;15m}[0m[38;5;15m}[0m [38;5;15m{[0m[38;5;15m{[0m[38;5;15;4mzijn[0m[38;5;15m}[0m [38;5;15meerbiedwaardig[0m [38;5;15;4mhoofd[0m[38;5;15m}[0m en tweemaal schoven [38;5;15m{[0m[38;5;15m{[0m[38;5;15;4mz'n[0m[38;5;15m}[0m [38;5;15meerbiedwaardige[0m [38;5;15mgrauwe[0m [38;5;15;4mbakkebaarden[0m[38;5;15m}[0m heen en weer over [38;5;15m{[0m[38;5;15m{[0m[38;5;15;4mz'n[0m[38;5;15m}[0m [38;5;15;4mvest[0m[38;5;15m}[0m .
+
+'t Klopte niet .
+
+Ergens moest [38;5;15m{[0m[38;5;15meen[0m [38;5;15;4mfout[0m[38;5;15m}[0m zijn .
+
+[38;5;15m{[0m[38;5;15mEen[0m [38;5;15mdichter[0m [38;5;15;4mmet[0m [38;5;15mnergens[0m [38;5;1m([0m[38;5;1;4mhaar[0m[38;5;1m)[0m[38;5;15m}[0m , dat was heel vreemd .
+
+Sedert dertig jaar hield [38;5;15m{[0m[38;5;15mde[0m [38;5;15mGod[0m [38;5;15;4mvan[0m [38;5;15m{[0m[38;5;15;4mNederland[0m[38;5;15m}[0m[38;5;15m}[0m niet van [38;5;15m{[0m[38;5;15;4mdichters[0m[38;5;15m}[0m .
+
+[38;5;15m{[0m[38;5;15;4mJe[0m[38;5;15m}[0m wist niet meer , wat [38;5;15m{[0m[38;5;15;4mje[0m[38;5;15m}[0m er aan had .
+
+Fatsoenlijk of onfatsoenlijk , [38;5;15m{[0m[38;5;15;4mje[0m[38;5;15m}[0m kon er niet uit [38;5;1m([0m[38;5;1;4mwijs[0m[38;5;1m)[0m .
+
+En nu [38;5;1m([0m[38;5;1;4mdit[0m[38;5;1m)[0m .
+
+" [38;5;15m{[0m[38;5;15;4mHij[0m[38;5;15m}[0m heeft gezegd , dat [38;5;15m{[0m[38;5;15;4mhij[0m[38;5;15m}[0m vol van [38;5;15m{[0m[38;5;15;4mmij[0m[38;5;15m}[0m is .
+
+Vroeger kon [38;5;15m{[0m[38;5;15;4mje[0m[38;5;15m}[0m daar op aan . "
+
+[38;5;15m{[0m[38;5;15;4mGod[0m[38;5;15m}[0m zuchtte .
+
+[38;5;15m{[0m[38;5;15;4mHij[0m[38;5;15m}[0m zou er morgen eens met [38;5;15m{[0m[38;5;15;4mPotgieter[0m[38;5;15m}[0m over spreken .
+
+[38;5;15m{[0m[38;5;15;4mJe[0m[38;5;15m}[0m had tegenwoordig niets dan [38;5;15m{[0m[38;5;15;4mnarigheid[0m[38;5;15m}[0m aan [38;5;1m([0m[38;5;1m{[0m[38;5;1;4mje[0m[38;5;1m}[0m [38;5;1;4mhoofd[0m[38;5;1m)[0m .
+
+Daar beneden in [38;5;15m{[0m[38;5;15mde[0m [38;5;1m([0m[38;5;1;4mLeidsche[0m[38;5;1m)[0m [38;5;15;4mstraat[0m[38;5;15m}[0m liep [38;5;15m{[0m[38;5;15meen[0m [38;5;15;4mmeisje[0m[38;5;15m}[0m .
+
+Met [38;5;1m([0m[38;5;1mvaderlijk[0m [38;5;1;4mwelgevallen[0m[38;5;1m)[0m zag [38;5;15m{[0m[38;5;15;4mGod[0m[38;5;15m}[0m op [38;5;15m{[0m[38;5;15;4mhaar[0m[38;5;15m}[0m neer .
+
+[38;5;15m{[0m[38;5;15mHet[0m [38;5;15;4mmeisje[0m[38;5;15m}[0m was als [38;5;15m{[0m[38;5;15mhonderde[0m [38;5;15mandere[0m [38;5;15;4mmeisjes[0m[38;5;15m}[0m dien zomer , heelemaal in [38;5;15m{[0m[38;5;15m't[0m [38;5;15;4mwit[0m[38;5;15m}[0m , [38;5;15m{[0m[38;5;15mzijden[0m [38;5;15;4mblouse[0m[38;5;15m}[0m , [38;5;15m{[0m[38;5;15mkorte[0m [38;5;15mfrotté[0m [38;5;15;4mrok[0m[38;5;15m}[0m , [38;5;15m{[0m[38;5;15mwitte[0m [38;5;15;4mkousen[0m[38;5;15m}[0m , [38;5;15m{[0m[38;5;15mfijne[0m [38;5;15;4menkeltjes[0m[38;5;15m}[0m en [38;5;15m{[0m[38;5;15mlage[0m [38;5;15mwitte[0m [38;5;15;4mschoentjes[0m[38;5;15m}[0m en had [38;5;15m{[0m[38;5;15mlieve[0m [38;5;15;4moogen[0m[38;5;15m}[0m als [38;5;4m[[0m[38;5;4mhonderde[0m [38;5;5m([0m[38;5;5mandere[0m [38;5;5mmeisjes[0m [38;5;5;4min[0m [38;5;5m{[0m[38;5;5;4mAmsterdam[0m[38;5;5m}[0m[38;5;5m)[0m[38;5;4m][0m .
+
+[38;5;15m{[0m[38;5;15;4mOogen[0m[38;5;15m}[0m [38;5;15m{[0m[38;5;15;4mdie[0m[38;5;15m}[0m kijken alsof [38;5;15m{[0m[38;5;15;4mze[0m[38;5;15m}[0m iets heel bijzonders weten .
+
+Dat vonden [38;5;15m{[0m[38;5;15;4mze[0m[38;5;15m}[0m ook weer niet goed .
+
+Nooit had [38;5;15m{[0m[38;5;1m([0m[38;5;1;4mons[0m[38;5;1m)[0m [38;5;15mLieve[0m [38;5;15mHeer[0m[38;5;15m}[0m daar [38;5;1m([0m[38;5;1mvroeger[0m [38;5;1;4miets[0m[38;5;1m)[0m bij gedacht .
+
+En nu had [38;5;15m{[0m[38;5;15;4m-ie[0m[38;5;15m}[0m [38;5;15m{[0m[38;5;15;4mkwestie[0m[38;5;15m}[0m .
+
+'t Was begonnen met [38;5;1m([0m[38;5;5m[[0m[38;5;5;4mversjes[0m[38;5;5m][0m [38;5;1mover[0m[38;5;1m)[0m " [38;5;15m{[0m[38;5;15mwetende[0m [38;5;15;4moogen[0m[38;5;15m}[0m . "
+
+Toen zei er [38;5;4m[[0m[38;5;4;4méén[0m[38;5;4m][0m , dat 't allemaal [38;5;4m[[0m[38;5;4;4mbedrog[0m[38;5;4m][0m was , [38;5;15m{[0m[38;5;15meen[0m [38;5;15mvroom[0m [38;5;15mbedrog[0m [38;5;15;4mvan[0m [38;5;15m{[0m[38;5;15;4mGod[0m[38;5;15m}[0m[38;5;15m}[0m .
+
+Dat [38;5;15m{[0m[38;5;15;4mze[0m[38;5;15m}[0m niets wisten en alleen maar keken alsof , zonder dat [38;5;15m{[0m[38;5;15;4mze[0m[38;5;15m}[0m 't konden helpen .
+
+Nooit had [38;5;15m{[0m[38;5;15;4mGod[0m[38;5;15m}[0m er over nagedacht .
+
+Tegenwoordig brachten [38;5;15m{[0m[38;5;15;4mze[0m[38;5;15m}[0m [38;5;15m{[0m[38;5;15;4mhem[0m[38;5;15m}[0m over alles aan 't denken .
+
+En 't was toch zoo noodig , dat [38;5;15m{[0m[38;5;15mde[0m [38;5;15;4mhoofden[0m[38;5;15m}[0m bij [38;5;15m{[0m[38;5;15mde[0m [38;5;15;4mzaken[0m[38;5;15m}[0m werden gehouden .
+
+[38;5;15m{[0m[38;5;15mDe[0m [38;5;15;4mkeizer[0m[38;5;15m}[0m had 't nog onlangs weer gezegd : " [38;5;1m([0m[38;5;1mDer[0m [38;5;1mTüchtigkeit[0m [38;5;1mist[0m [38;5;1mdie[0m [38;5;1;4mWelt[0m[38;5;1m)[0m " .
+
+Maar als [38;5;15m{[0m[38;5;15;4mje[0m[38;5;15m}[0m eenmaal over iets aan 't prakkizeeren raakte kwam [38;5;15m{[0m[38;5;15;4mje[0m[38;5;15m}[0m er zoo makkelijk niet weer af .
+
+Nu [38;5;15m{[0m[38;5;15;4mie[0m[38;5;15m}[0m er eenmaal op lette , zag [38;5;15m{[0m[38;5;15;4mie[0m[38;5;15m}[0m [38;5;4m[[0m[38;5;4mhonderde[0m [38;5;4m,[0m [38;5;5m([0m[38;5;5mduizende[0m [38;5;5;4mvan[0m [38;5;5m([0m[38;5;5mdie[0m [38;5;5;4mmeisjes[0m[38;5;5m)[0m[38;5;5m)[0m[38;5;4m][0m , telkens [38;5;15m{[0m[38;5;15mweer[0m [38;5;15manderen[0m[38;5;15m}[0m en telkens [38;5;15m{[0m[38;5;15mweer[0m [38;5;15mdezelfden[0m[38;5;15m}[0m .
+
+[38;5;1m([0m[38;5;1;4mZoodat[0m[38;5;1m)[0m [38;5;15m{[0m[38;5;15;4mie[0m[38;5;15m}[0m soms niet meer wist of [38;5;15m{[0m[38;5;15;4mie[0m[38;5;15m}[0m er tienduizend had gezien of [38;5;1m([0m[38;5;1;4méén[0m[38;5;1m)[0m , tienduizendmaal .
+
+" [38;5;4m[[0m[38;5;4mHeer[0m [38;5;4min[0m [38;5;5m([0m[38;5;5mden[0m [38;5;5;4mhemel[0m[38;5;5m)[0m[38;5;4m][0m had [38;5;15m{[0m[38;5;15;4mhij[0m[38;5;15m}[0m al [38;5;4m[[0m[38;5;4mdie[0m [38;5;4mmeisjes[0m[38;5;4m][0m geschapen ?
+
+Of was 't [38;5;15m{[0m[38;5;15meen[0m [38;5;15mgrapje[0m [38;5;15;4mvan[0m [38;5;15m{[0m[38;5;15mden[0m [38;5;15;4mduivel[0m[38;5;15m}[0m[38;5;15m}[0m , al [38;5;4m[[0m[38;5;4mdie[0m [38;5;4mwetende[0m [38;5;4moogen[0m[38;5;4m][0m ? "
+
+Kijk , daar gaat [38;5;15m{[0m[38;5;15m't[0m [38;5;15;4mdichtertje[0m[38;5;15m}[0m .
+
+Toch wel [38;5;15m{[0m[38;5;15meen[0m [38;5;15mknap[0m [38;5;15m,[0m [38;5;15mjong[0m [38;5;15mventje[0m[38;5;15m}[0m , zoo slank , zoo'n [38;5;15m{[0m[38;5;15maardig[0m [38;5;15mgladgeschoren[0m [38;5;15;4mjongensgezicht[0m[38;5;15m}[0m , alleen [38;5;15m{[0m[38;5;15meen[0m [38;5;15mpaar[0m [38;5;15mstutten[0m [38;5;15mvoor[0m [38;5;15m{[0m[38;5;15mde[0m [38;5;15;4mooren[0m[38;5;15m}[0m[38;5;15m}[0m , en [38;5;1m([0m[38;5;1mzoo[0m [38;5;1mverbrand[0m [38;5;1mdoor[0m [38;5;1m{[0m[38;5;1mde[0m [38;5;1;4mzon[0m[38;5;1m}[0m[38;5;1m)[0m .
+
+[38;5;15m{[0m[38;5;15;4mHij[0m[38;5;15m}[0m groet [38;5;4m[[0m[38;5;4;4miemand[0m[38;5;4m][0m .
+
+[38;5;15m{[0m[38;5;15m{[0m[38;5;15;4mZ'n[0m[38;5;15m}[0m [38;5;15mstrooien[0m [38;5;15;4mhoedje[0m[38;5;15m}[0m lichtten [38;5;15m{[0m[38;5;15;4m-ie[0m[38;5;15m}[0m even op van [38;5;4m[[0m[38;5;4m{[0m[38;5;4;4mzijn[0m[38;5;4m}[0m [38;5;4mkort[0m [38;5;4mgeknipte[0m [38;5;4;4mharen[0m[38;5;4m][0m .
+
+Raar toch , zoo kaal , maar 't was toch vast wel [38;5;15m{[0m[38;5;15meen[0m [38;5;15;4mdichtertje[0m[38;5;15m}[0m , want [38;5;15m{[0m[38;5;15;4mGod[0m[38;5;15m}[0m begreep niets van [38;5;15m{[0m[38;5;15;4m'm[0m[38;5;15m}[0m en [38;5;15m{[0m[38;5;15;4mPotgieter[0m[38;5;15m}[0m ook niet .
+
+En [38;5;1m([0m[38;5;5m[[0m[38;5;5mprofessor[0m [38;5;5mVolmer[0m[38;5;5m][0m [38;5;1;4mverachttenem[0m[38;5;1m)[0m .
+
+En [38;5;15m{[0m[38;5;15;4mhij[0m[38;5;15m}[0m leed ijselijk van [38;5;15m{[0m[38;5;15mdie[0m [38;5;15mwetende[0m [38;5;15moogen[0m[38;5;15m}[0m , zooals geen rechtschapen mensch .
+
+[38;5;1m([0m[38;5;5m[[0m[38;5;5mDe[0m [38;5;5mduivel[0m[38;5;5m][0m [38;5;1mhattem[0m [38;5;1;4mleelijk[0m[38;5;1m)[0m te pakken .
+
+[38;5;15m{[0m[38;5;15;4mHij[0m[38;5;15m}[0m was [38;5;15m{[0m[38;5;15meen[0m [38;5;15mzwak[0m [38;5;15;4mdichtertje[0m[38;5;15m}[0m , kindsch werd [38;5;15m{[0m[38;5;15;4m-ie[0m[38;5;15m}[0m er van .
+
+[38;5;15m{[0m[38;5;15;4mHij[0m[38;5;15m}[0m bleef fatsoenlijk van [38;5;1m([0m[38;5;1;4mzwakte[0m[38;5;1m)[0m .
+
+Dat was weer zoo iets raars , waar [38;5;15m{[0m[38;5;15;4mGod[0m[38;5;15m}[0m vroeger nooit over gedacht had , fatsoenlijk was fatsoenlijk en daarmee uit .
+
+[38;5;15m{[0m[38;5;15m't[0m [38;5;15;4mDichtertje[0m[38;5;15m}[0m wist niet op wie [38;5;15m{[0m[38;5;15;4mhij[0m[38;5;15m}[0m verliefd moest worden .
+
+Als [38;5;15m{[0m[38;5;15;4mhij[0m[38;5;15m}[0m in [38;5;1m([0m[38;5;1mtwee[0m [38;5;5m[[0m[38;5;5mwetende[0m [38;5;5;4moogen[0m[38;5;5m][0m[38;5;1m)[0m had gekeken , zag [38;5;15m{[0m[38;5;15;4mhij[0m[38;5;15m}[0m er dadelijk weer [38;5;4m[[0m[38;5;4;4mtwee[0m[38;5;4m][0m .
+
+[38;5;15m{[0m[38;5;15;4mHij[0m[38;5;15m}[0m was zoo zwak , zoo lekker zwak .
+
+Maar als [38;5;15m{[0m[38;5;15;4mie[0m[38;5;15m}[0m [38;5;15m{[0m[38;5;15m't[0m [38;5;15mvijfentwintigste[0m [38;5;15;4mmeisje[0m[38;5;15m}[0m zag , voelden [38;5;15m{[0m[38;5;15;4m-ie[0m[38;5;15m}[0m zoo iets raars in [38;5;15m{[0m[38;5;15m{[0m[38;5;15;4mz'n[0m[38;5;15m}[0m [38;5;15;4mhersens[0m[38;5;15m}[0m .
+
+[38;5;15m{[0m[38;5;15;4mHij[0m[38;5;15m}[0m had al eens in [38;5;1m([0m[38;5;1m't[0m [38;5;1mvoorbijloopen[0m [38;5;1;4mop[0m [38;5;1m{[0m[38;5;1m't[0m [38;5;1mterras[0m [38;5;1;4mvan[0m [38;5;1m{[0m[38;5;1meen[0m [38;5;1;4mcafé[0m[38;5;1m}[0m[38;5;1m}[0m[38;5;1m)[0m [38;5;15m{[0m[38;5;15meen[0m [38;5;15;4mstoeltje[0m[38;5;15m}[0m omgeschopt van [38;5;15m{[0m[38;5;15;4mkwaadaardigheid[0m[38;5;15m}[0m .
+
+Want [38;5;15m{[0m[38;5;15;4mhij[0m[38;5;15m}[0m wist wel , dat [38;5;15m{[0m[38;5;15;4mze[0m[38;5;15m}[0m niets wisten , dat [38;5;15m{[0m[38;5;15;4mze[0m[38;5;15m}[0m dom [38;5;1m([0m[38;5;1;4mgiggelden[0m[38;5;1m)[0m , alleen al als [38;5;15m{[0m[38;5;15;4mie[0m[38;5;15m}[0m [38;5;15m{[0m[38;5;15m{[0m[38;5;15;4mz'n[0m[38;5;15m}[0m [38;5;15mhoed[0m[38;5;15m}[0m voor [38;5;15m{[0m[38;5;15;4mhen[0m[38;5;15m}[0m af nam , of strak keken , omdat [38;5;15m{[0m[38;5;15;4mze[0m[38;5;15m}[0m stonken van [38;5;15m{[0m[38;5;15;4mburgerjuffrouwen-ingebeeldheid[0m[38;5;15m}[0m .
+
+En toch kon [38;5;15m{[0m[38;5;15;4mie[0m[38;5;15m}[0m 't niet laten .
+
+En dan moest [38;5;15m{[0m[38;5;15;4mie[0m[38;5;15m}[0m vluchten naar ergens , waar geen vrouwen waren en dan maakten [38;5;15m{[0m[38;5;15;4m-ie[0m[38;5;15m}[0m [38;5;1m([0m[38;5;1;4mzich[0m[38;5;1m)[0m kwaad op [38;5;15m{[0m[38;5;15;4mGod[0m[38;5;15m}[0m en [38;5;1m([0m[38;5;5m[[0m[38;5;5mden[0m [38;5;5;4mduivel[0m[38;5;5m][0m [38;5;1mtegelijk[0m[38;5;1m)[0m en zei dat [38;5;15m{[0m[38;5;15;4m-ie[0m[38;5;15m}[0m idioot werd en dat [38;5;15m{[0m[38;5;15;4m-ie[0m[38;5;15m}[0m nog eens met [38;5;15m{[0m[38;5;15mopen[0m [38;5;15;4mmond[0m[38;5;15m}[0m jaren lang kwijlen zou , [38;5;15m{[0m[38;5;15meen[0m [38;5;15mleeren[0m [38;5;15;4mslabbetje[0m[38;5;15m}[0m voor , zonder dat [38;5;15m{[0m[38;5;15;4m-ie[0m[38;5;15m}[0m 't zelf wist .
+
+Maar den volgenden dag keek [38;5;15m{[0m[38;5;15;4m-ie[0m[38;5;15m}[0m weer en dacht daarbij : " [38;5;1m([0m[38;5;1mMon[0m [38;5;1mâme[0m [38;5;1mprend[0m [38;5;1;4mson[0m[38;5;1m)[0m [38;5;1m([0m[38;5;1mélan[0m [38;5;1mvers[0m [38;5;1ml'infini[0m[38;5;1m)[0m . "
+
+[38;5;15m{[0m[38;5;15;4mPotgieter[0m[38;5;15m}[0m zei dat [38;5;15m{[0m[38;5;15mde[0m [38;5;15;4mvent[0m[38;5;15m}[0m gek was en dat in den tijd van [38;5;15m{[0m[38;5;15mPiet[0m [38;5;15;4mHein[0m[38;5;15m}[0m ...
+
+... ..
+
+Dichtend vervolgde [38;5;1m([0m[38;5;1m't[0m [38;5;5m[[0m[38;5;5;4mdichtertje[0m[38;5;5m][0m[38;5;1m)[0m [38;5;15m{[0m[38;5;15m{[0m[38;5;15;4mz'n[0m[38;5;15m}[0m [38;5;15mtocht[0m [38;5;15;4mdoor[0m [38;5;15m{[0m[38;5;15mde[0m [38;5;15mwoestenijen[0m [38;5;15;4mvan[0m [38;5;15m{[0m[38;5;15;4mAmsterdam[0m[38;5;15m}[0m[38;5;15m}[0m[38;5;15m}[0m .
+
+[38;5;1m([0m[38;5;1;4mZoover[0m[38;5;1m)[0m [38;5;1m([0m[38;5;1m't[0m [38;5;1;4moog[0m[38;5;1m)[0m reikte , niets dan [38;5;15m{[0m[38;5;15mNederlandsche[0m [38;5;15;4mmenschen[0m[38;5;15m}[0m .
+
+Weer groette [38;5;15m{[0m[38;5;15;4m-ie[0m[38;5;15m}[0m [38;5;4m[[0m[38;5;4;4miemand[0m[38;5;4m][0m , [38;5;15m{[0m[38;5;15meen[0m [38;5;15mheer[0m [38;5;15;4mmet[0m [38;5;4m[[0m[38;5;4mhoogen[0m [38;5;4;4mhoed[0m[38;5;4m][0m [38;5;15men[0m [38;5;15mgekleede[0m [38;5;15mjas[0m[38;5;15m}[0m , uit [38;5;15m{[0m[38;5;15meen[0m [38;5;15mstuk[0m [38;5;15;4mvan[0m [38;5;15m{[0m[38;5;15;4mVerkade[0m[38;5;15m}[0m[38;5;15m}[0m .
+
+Nu spraken [38;5;15m{[0m[38;5;15;4mze[0m[38;5;15m}[0m [38;5;15m{[0m[38;5;15;4melkaar[0m[38;5;15m}[0m aan .
+
+Daar stonden [38;5;15m{[0m[38;5;15;4mze[0m[38;5;15m}[0m , op [38;5;15m{[0m[38;5;15m't[0m [38;5;15mplein[0m [38;5;15;4mvoor[0m [38;5;15m{[0m[38;5;15m't[0m [38;5;15;4mCentraalstation[0m[38;5;15m}[0m[38;5;15m}[0m .
+
+Op [38;5;4m[[0m[38;5;5m([0m[38;5;5;4mden[0m[38;5;5m)[0m [38;5;4mbeganen[0m [38;5;5m([0m[38;5;5;4mgrond[0m[38;5;5m)[0m[38;5;4m][0m liep [38;5;15m{[0m[38;5;15;4mGod[0m[38;5;15m}[0m nu met [38;5;4m[[0m[38;5;5m([0m[38;5;5m{[0m[38;5;5;4mz'n[0m[38;5;5m}[0m [38;5;5;4mgelen[0m[38;5;5m)[0m [38;5;5m([0m[38;5;5mstrooien[0m [38;5;5;4mdeukhoed[0m[38;5;5m)[0m[38;5;4m][0m , [38;5;15m{[0m[38;5;15m{[0m[38;5;15;4mz'n[0m[38;5;15m}[0m [38;5;15mwandelstok[0m [38;5;15;4mmet[0m [38;5;1m([0m[38;5;1mzilveren[0m [38;5;1;4mgreep[0m[38;5;1m)[0m[38;5;15m}[0m , [38;5;15m{[0m[38;5;15m{[0m[38;5;15;4mz'n[0m[38;5;15m}[0m [38;5;15;4mjas[0m[38;5;15m}[0m hing slobberig en breed en ondefinieerbaar bruinig over [38;5;15m{[0m[38;5;15m{[0m[38;5;15;4mz'n[0m[38;5;15m}[0m [38;5;15;4mrug[0m[38;5;15m}[0m , op [38;5;15m{[0m[38;5;15m{[0m[38;5;15;4mz'n[0m[38;5;15m}[0m [38;5;15;4mkraag[0m[38;5;15m}[0m lag [38;5;15m{[0m[38;5;15;4mroos[0m[38;5;15m}[0m , [38;5;15m{[0m[38;5;15m{[0m[38;5;15;4mz'n[0m[38;5;15m}[0m [38;5;15;4mbroekspijpen[0m[38;5;15m}[0m waren te wijd en te lang en lagen met [38;5;15m{[0m[38;5;15;4mplooien[0m[38;5;15m}[0m op [38;5;15m{[0m[38;5;15m{[0m[38;5;15;4mz'n[0m[38;5;15m}[0m [38;5;15;4mschoenen[0m[38;5;15m}[0m .
+
+[38;5;15m{[0m[38;5;15m{[0m[38;5;15;4mZ'n[0m[38;5;15m}[0m [38;5;15;4mbakkebaarden[0m[38;5;15m}[0m kon [38;5;15m{[0m[38;5;15;4mje[0m[38;5;15m}[0m van achteren zien en toen [38;5;15m{[0m[38;5;15;4mie[0m[38;5;15m}[0m bezadiglijk [38;5;15m{[0m[38;5;15mde[0m [38;5;15mtwee[0m [38;5;15;4mtreden[0m[38;5;15m}[0m opstapte om in [38;5;15m{[0m[38;5;15m't[0m [38;5;15;4mstation[0m[38;5;15m}[0m te gaan , glom [38;5;1m([0m[38;5;5m[[0m[38;5;5mde[0m [38;5;5mlage[0m [38;5;5mavondzon[0m[38;5;5m][0m [38;5;1;4min[0m [38;5;4m[[0m[38;5;5m[[0m[38;5;5;4mGods[0m[38;5;5m][0m [38;5;5mgepoetsten[0m[38;5;1m)[0m [38;5;4mlinkerschoen[0m[38;5;4m][0m .
+
+" Wie was [38;5;15m{[0m[38;5;15mdie[0m [38;5;15;4mmeneer[0m[38;5;15m}[0m ? " vroeg [38;5;15m{[0m[38;5;15m't[0m [38;5;15;4mdichtertje[0m[38;5;15m}[0m .
+
+" [38;5;15m{[0m[38;5;15;4mGod[0m[38;5;15m}[0m " zei [38;5;15m{[0m[38;5;15mde[0m [38;5;15;4mduivel[0m[38;5;15m}[0m en [38;5;15m{[0m[38;5;15mde[0m [38;5;15mknobbels[0m [38;5;15;4mop[0m [38;5;15m{[0m[38;5;15m{[0m[38;5;15;4mz'n[0m[38;5;15m}[0m [38;5;15;4mvoorhoofd[0m[38;5;15m}[0m[38;5;15m}[0m werden grooter .
+
+[38;5;15m{[0m[38;5;15m't[0m [38;5;15;4mDichtertje[0m[38;5;15m}[0m sprak niet .
+
+" [38;5;15m{[0m[38;5;15m{[0m[38;5;15;4mJouw[0m[38;5;15m}[0m [38;5;15;4mGod[0m[38;5;15m}[0m , [38;5;15m{[0m[38;5;15mde[0m [38;5;15;4mGod[0m[38;5;15m}[0m van [38;5;15m{[0m[38;5;15m{[0m[38;5;15;4mje[0m[38;5;15m}[0m [38;5;15;4mbaas[0m[38;5;15m}[0m en van [38;5;15m{[0m[38;5;15m{[0m[38;5;15;4mje[0m[38;5;15m}[0m [38;5;15;4mschoonvader[0m[38;5;15m}[0m en van [38;5;15m{[0m[38;5;15m{[0m[38;5;15m{[0m[38;5;15;4mje[0m[38;5;15m}[0m [38;5;15;4mbaas[0m[38;5;15m}[0m [38;5;15m{[0m[38;5;15;4mz'n[0m[38;5;15m}[0m [38;5;15;4mboekhouder[0m[38;5;15m}[0m en van [38;5;4m[[0m[38;5;5m([0m[38;5;5mden[0m [38;5;5;4mgérant[0m[38;5;5m)[0m [38;5;4mvan[0m [38;5;5m([0m[38;5;5;4mde[0m[38;5;5m)[0m [38;5;4m[[0m[38;5;4m"[0m [38;5;5m([0m[38;5;5mNieuwe[0m [38;5;5;4mKarseboom[0m[38;5;5m)[0m [38;5;4m"[0m[38;5;4m][0m[38;5;4m][0m .
+
+[38;5;1m([0m[38;5;5m[[0m[38;5;5mDe[0m [38;5;5;4mGod[0m[38;5;5m][0m [38;5;1;4mvan[0m [38;5;1m{[0m[38;5;1m{[0m[38;5;1;4mje[0m[38;5;1m}[0m [38;5;1;4mtante[0m[38;5;1m}[0m[38;5;1m)[0m , [38;5;15m{[0m[38;5;15;4mdie[0m[38;5;15m}[0m zei , dat [38;5;15m{[0m[38;5;15;4mje[0m[38;5;15m}[0m moest groeten als [38;5;15m{[0m[38;5;15;4mje[0m[38;5;15m}[0m langs [38;5;15m{[0m[38;5;15m't[0m [38;5;15mhuis[0m [38;5;15;4mvan[0m [38;5;15m{[0m[38;5;15m{[0m[38;5;15;4mje[0m[38;5;15m}[0m [38;5;15;4mbaas[0m[38;5;15m}[0m[38;5;15m}[0m kwam in [38;5;15m{[0m[38;5;15;4mDelft[0m[38;5;15m}[0m of [38;5;15m{[0m[38;5;15;4mOldenzaal[0m[38;5;15m}[0m , waar was 't ook weer , ook al zag [38;5;15m{[0m[38;5;15;4mje[0m[38;5;15m}[0m niemand , [38;5;15m{[0m[38;5;15;4mje[0m[38;5;15m}[0m kon nooit weten wie 't zag .
+
+Van [38;5;15m{[0m[38;5;15m{[0m[38;5;15;4mje[0m[38;5;15m}[0m [38;5;15;4mtante[0m[38;5;15m}[0m , [38;5;15m{[0m[38;5;15;4mdie[0m[38;5;15m}[0m [38;5;15m{[0m[38;5;15m{[0m[38;5;15;4mje[0m[38;5;15m}[0m [38;5;15;4mzuster[0m[38;5;15m}[0m altijd liet breien .
+
+" [38;5;15m{[0m[38;5;15mEen[0m [38;5;15;4mvrouw[0m[38;5;15m}[0m mag niet stilzitten . "
+
+[38;5;4m[[0m[38;5;5m([0m[38;5;5mDe[0m [38;5;5;4mGod[0m[38;5;5m)[0m [38;5;4;4mvan[0m [38;5;4mal[0m [38;5;4m[[0m[38;5;4mdie[0m [38;5;4mmenschen[0m[38;5;4m][0m[38;5;4m][0m , [38;5;15m{[0m[38;5;15;4mdie[0m[38;5;15m}[0m zullen zeggen : " Dat had [38;5;15m{[0m[38;5;15;4mik[0m[38;5;15m}[0m van [38;5;15m{[0m[38;5;15;4mjou[0m[38;5;15m}[0m niet gedacht , " als [38;5;15m{[0m[38;5;15;4mje[0m[38;5;15m}[0m nog eens probeert te leven en [38;5;15m{[0m[38;5;15;4mdie[0m[38;5;15m}[0m zullen zeggen : " Dat had [38;5;15m{[0m[38;5;15;4mik[0m[38;5;15m}[0m altijd wel gedacht , dat kon niet goed gaan , " als [38;5;15m{[0m[38;5;15;4mje[0m[38;5;15m}[0m later in [38;5;15m{[0m[38;5;15m't[0m [38;5;15;4mwerkhuis[0m[38;5;15m}[0m moet .
+
+[38;5;15m{[0m[38;5;15mDe[0m [38;5;15;4mGod[0m[38;5;15m}[0m , [38;5;15m{[0m[38;5;15;4mdie[0m[38;5;15m}[0m niet hebben kan , dat [38;5;15m{[0m[38;5;15;4mje[0m[38;5;15m}[0m 's Zaterdagsmiddags vrij bent , [38;5;15m{[0m[38;5;15mde[0m [38;5;15mGod[0m [38;5;15;4mvan[0m [38;5;15m{[0m[38;5;15mmeneer[0m [38;5;15;4mVolmer[0m[38;5;15m}[0m[38;5;15m}[0m , [38;5;4m[[0m[38;5;5m([0m[38;5;5mhoogleeraar[0m [38;5;5;4min[0m [38;5;5m't[0m [38;5;5mboekhouden[0m[38;5;5m)[0m [38;5;4men[0m [38;5;5m([0m[38;5;5mde[0m [38;5;5;4mbedrijfsleer[0m[38;5;5m)[0m[38;5;4m][0m , [38;5;15m{[0m[38;5;15;4mdie[0m[38;5;15m}[0m vindt , dat [38;5;15m{[0m[38;5;15;4mje[0m[38;5;15m}[0m veel te veel naar [38;5;15m{[0m[38;5;15mde[0m [38;5;15;4mlucht[0m[38;5;15m}[0m kijkt .
+
+[38;5;1m([0m[38;5;5m[[0m[38;5;5mDe[0m [38;5;5mGod[0m [38;5;5;4mvan[0m [38;5;5m[[0m[38;5;5;4mallen[0m[38;5;5m][0m[38;5;5m][0m [38;5;1m{[0m[38;5;1;4mdie[0m[38;5;1m}[0m [38;5;1mgeen[0m [38;5;1mandere[0m [38;5;1mkeus[0m [38;5;1mhebben[0m [38;5;1mdan[0m [38;5;1m([0m[38;5;1;4mwerken[0m[38;5;1m)[0m [38;5;1mof[0m [38;5;1mvervelen[0m[38;5;1m)[0m .
+
+[38;5;4m[[0m[38;5;5m([0m[38;5;5mDe[0m [38;5;5;4mGod[0m[38;5;5m)[0m [38;5;4;4mvan[0m [38;5;1m([0m[38;5;5m[[0m[38;5;5;4mNederland[0m[38;5;5m][0m[38;5;4m][0m [38;5;1m,[0m [38;5;1mvan[0m [38;5;1m{[0m[38;5;1mheel[0m [38;5;1;4mNederland[0m[38;5;1m}[0m[38;5;1m)[0m , van [38;5;1m([0m[38;5;1m{[0m[38;5;1;4mSurhuisterveen[0m[38;5;1m}[0m [38;5;1men[0m [38;5;1m{[0m[38;5;1;4mSpekholzerheide[0m[38;5;1m}[0m [38;5;1m,[0m [38;5;5m[[0m[38;5;5mdonateur[0m [38;5;5;4mvan[0m [38;5;5m([0m[38;5;5m[[0m[38;5;5mden[0m [38;5;5mBond[0m [38;5;5;4mvan[0m [38;5;5m([0m[38;5;5m[[0m[38;5;5mhoofden[0m [38;5;5mvan[0m [38;5;5m[[0m[38;5;5mgroote[0m [38;5;5;4mgezinnen[0m[38;5;5m][0m[38;5;5m][0m[38;5;5m][0m [38;5;5men[0m [38;5;5mvan[0m [38;5;5m[[0m[38;5;5m([0m[38;5;5mde[0m [38;5;5;4mVereeniging[0m[38;5;5m)[0m [38;5;5;4mtot[0m [38;5;5m([0m[38;5;5mopheffing[0m [38;5;5;4mvan[0m [38;5;5m{[0m[38;5;5mgevallen[0m [38;5;5;4mvrouwen[0m[38;5;5m}[0m[38;5;5m)[0m[38;5;5m][0m[38;5;5m)[0m[38;5;5m)[0m[38;5;5m][0m[38;5;1m)[0m .
+
+Dat noemen [38;5;15m{[0m[38;5;15;4mze[0m[38;5;15m}[0m vallen .
+
+[38;5;15m{[0m[38;5;15;4mIk[0m[38;5;15m}[0m ben ook gevallen . "
+
+" [38;5;15m{[0m[38;5;15mDe[0m [38;5;15;4mbeeldspraak[0m[38;5;15m}[0m is inderdaad gebrekkig " , zei [38;5;15m{[0m[38;5;15m't[0m [38;5;15;4mdichtertje[0m[38;5;15m}[0m , absent .
+
+[38;5;15m{[0m[38;5;15;4mHij[0m[38;5;15m}[0m had al dien tijd gekeken naar [38;5;15m{[0m[38;5;15meen[0m [38;5;15;4mdame[0m[38;5;15m}[0m , [38;5;15m{[0m[38;5;15;4mdie[0m[38;5;15m}[0m daar stond te wachten .
+
+Naar [38;5;15m{[0m[38;5;15mde[0m [38;5;15maardige[0m [38;5;15mscherpe[0m [38;5;15machterkantjes[0m [38;5;15;4mvan[0m [38;5;15m{[0m[38;5;15m{[0m[38;5;15;4mhaar[0m[38;5;15m}[0m [38;5;15;4mbeenen[0m[38;5;15m}[0m[38;5;15m}[0m , vlak boven [38;5;15m{[0m[38;5;15mde[0m [38;5;15mlage[0m [38;5;15mwitte[0m [38;5;15;4mschoentjes[0m[38;5;15m}[0m .
+
+Natuurlijk had [38;5;15m{[0m[38;5;15;4mze[0m[38;5;15m}[0m [38;5;15m{[0m[38;5;15mlage[0m [38;5;15mwitte[0m [38;5;15;4mschoentjes[0m[38;5;15m}[0m aan met [38;5;15m{[0m[38;5;15mkorte[0m [38;5;15;4mrokken[0m[38;5;15m}[0m en [38;5;15m{[0m[38;5;15merg[0m [38;5;15mopen[0m [38;5;15mgeweven[0m [38;5;15;4mkousen[0m[38;5;15m}[0m , waar [38;5;15m{[0m[38;5;15m{[0m[38;5;15;4mhaar[0m[38;5;15m}[0m [38;5;15;4mbeenen[0m[38;5;15m}[0m wit doorheen schemerden .
+
+" Nu vallen " , dacht [38;5;15m{[0m[38;5;15m't[0m [38;5;15;4mdichtertje[0m[38;5;15m}[0m .
+
+" [38;5;1m([0m[38;5;1mMon[0m [38;5;1mâme[0m [38;5;1mprend[0m [38;5;1;4mson[0m[38;5;1m)[0m [38;5;1m([0m[38;5;1mélan[0m [38;5;1mvers[0m [38;5;1ml'infini[0m[38;5;1m)[0m , " zei [38;5;15m{[0m[38;5;15mde[0m [38;5;15;4mDuivel[0m[38;5;15m}[0m en glimlachte ironisch , [38;5;1m([0m[38;5;1;4mzooals[0m[38;5;1m)[0m [38;5;15m{[0m[38;5;15;4mhij[0m[38;5;15m}[0m een eeuwigheid lang geglimlacht had .
+
+Toen zag [38;5;15m{[0m[38;5;15m't[0m [38;5;15;4mdichtertje[0m[38;5;15m}[0m [38;5;1m([0m[38;5;5m[[0m[38;5;5m't[0m [38;5;5;4mstationsplein[0m[38;5;5m][0m [38;5;1mweer[0m[38;5;1m)[0m en [38;5;15m{[0m[38;5;15mden[0m [38;5;15;4mduivel[0m[38;5;15m}[0m en hoorde wat [38;5;15m{[0m[38;5;15;4mdie[0m[38;5;15m}[0m gezegd had .
+
+" [38;5;4m[[0m[38;5;4;4mDuivel[0m[38;5;4m][0m " zei [38;5;15m{[0m[38;5;15;4m-ie[0m[38;5;15m}[0m , " [38;5;15m{[0m[38;5;15;4mmij[0m[38;5;15m}[0m belazer [38;5;15m{[0m[38;5;15;4mje[0m[38;5;15m}[0m niet . "
+
+[38;5;15m{[0m[38;5;15mDe[0m [38;5;15;4mduivel[0m[38;5;15m}[0m haalde even [38;5;15m{[0m[38;5;15m{[0m[38;5;15;4mz'n[0m[38;5;15m}[0m [38;5;15;4mschouders[0m[38;5;15m}[0m op en keek naar de
+
+[38;5;4m[[0m[38;5;4;4mstationsklok[0m[38;5;4m][0m .
+
+Tien minuten over [38;5;1m([0m[38;5;1;4mzevenen[0m[38;5;1m)[0m .
+
+[38;5;15m{[0m[38;5;15;4mHij[0m[38;5;15m}[0m gaapte achter [38;5;15m{[0m[38;5;15m{[0m[38;5;15;4mz'n[0m[38;5;15m}[0m [38;5;15;4mhand[0m[38;5;15m}[0m .
+
+De eeuwigheid schoot niet op .
+
+En eigenlijk had [38;5;15m{[0m[38;5;15;4m-ie[0m[38;5;15m}[0m ook al [38;5;15m{[0m[38;5;15mzooveel[0m [38;5;15;4mdichtertjes[0m[38;5;15m}[0m gekend .
+
+Waarom sprak [38;5;15m{[0m[38;5;15;4mie[0m[38;5;15m}[0m nog zooveel ?
+
+[38;5;15m{[0m[38;5;15m't[0m [38;5;15;4mDichtertje[0m[38;5;15m}[0m liep naar [38;5;15m{[0m[38;5;15;4mhuis[0m[38;5;15m}[0m en keek in [38;5;1m([0m[38;5;5m[[0m[38;5;5mde[0m [38;5;5;4mhoogte[0m[38;5;5m][0m [38;5;1mnaar[0m [38;5;1m{[0m[38;5;1m't[0m [38;5;1mgevleugelde[0m [38;5;1;4mwiel[0m[38;5;1m}[0m[38;5;1m)[0m , [38;5;15m{[0m[38;5;15;4mdat[0m[38;5;15m}[0m midden op [38;5;4m[[0m[38;5;5m([0m[38;5;5mde[0m [38;5;5;4mleuning[0m[38;5;5m)[0m [38;5;4mvan[0m [38;5;4m{[0m[38;5;4mde[0m [38;5;4mhooge[0m [38;5;4mspoorbrug[0m [38;5;4;4mover[0m [38;5;4m{[0m[38;5;4mde[0m [38;5;4mwestelijke[0m [38;5;4;4mdoorvaart[0m[38;5;4m}[0m[38;5;4m}[0m[38;5;4m][0m op [38;5;15m{[0m[38;5;15meen[0m [38;5;15mkleine[0m [38;5;15mijzeren[0m [38;5;15;4mzuil[0m[38;5;15m}[0m staat en vliegen wil en nooit van [38;5;15m{[0m[38;5;15m{[0m[38;5;15;4mz'n[0m[38;5;15m}[0m [38;5;15;4mplaats[0m[38;5;15m}[0m komt en gezien wordt uit [38;5;1m([0m[38;5;5m[[0m[38;5;5;4mvertetjes[0m[38;5;5m][0m [38;5;1mwaar[0m [38;5;5m[[0m[38;5;5;4m't[0m[38;5;5m][0m [38;5;1mnooit[0m [38;5;1;4mkomt[0m[38;5;1m)[0m , wel heel van [38;5;15m{[0m[38;5;15mde[0m [38;5;15;4mTorensluis[0m[38;5;15m}[0m , [38;5;15m{[0m[38;5;15m't[0m [38;5;15;4mSingel[0m[38;5;15m}[0m af .
+
+[38;5;15m{[0m[38;5;15mDe[0m [38;5;15mblauwe[0m [38;5;15;4mlucht[0m[38;5;15m}[0m was er nog zoo hopeloos ver boven .
+
+Zelfs [38;5;15m{[0m[38;5;15mde[0m [38;5;15mpalen[0m [38;5;15mmet[0m [38;5;15m{[0m[38;5;15mde[0m [38;5;15;4mbooglampen[0m[38;5;15m}[0m[38;5;15m}[0m , aan [38;5;4m[[0m[38;5;4m't[0m [38;5;4;4mbegin[0m[38;5;4m][0m en [38;5;4m[[0m[38;5;4m't[0m [38;5;4meind[0m [38;5;4;4mvan[0m [38;5;4m{[0m[38;5;4mde[0m [38;5;4;4mbrug[0m[38;5;4m}[0m[38;5;4m][0m , staken hoog boven [38;5;15m{[0m[38;5;15m't[0m [38;5;15;4mwieltje[0m[38;5;15m}[0m uit .
+
+'t Geeft niet veel of [38;5;15m{[0m[38;5;15;4mje[0m[38;5;15m}[0m op [38;5;15m{[0m[38;5;15meen[0m [38;5;15;4mspoorbrug[0m[38;5;15m}[0m staat op [38;5;15m{[0m[38;5;15meen[0m [38;5;15mijzeren[0m [38;5;15;4mzuiltje[0m[38;5;15m}[0m .
+
+[38;5;15m{[0m[38;5;15;4mJe[0m[38;5;15m}[0m kunt er hoogstens van aan 't denken raken en dat deugt heelemaal niet .
+
+En [38;5;15m{[0m[38;5;15m't[0m [38;5;15;4mdichtertje[0m[38;5;15m}[0m dacht , dat [38;5;15m{[0m[38;5;15;4mje[0m[38;5;15m}[0m [38;5;1m([0m[38;5;1mbeter[0m [38;5;4m[[0m[38;5;5;4mzoo'n[0m[38;5;1m)[0m [38;5;4mwiel[0m[38;5;4m][0m kunt wezen dan [38;5;15m{[0m[38;5;15meen[0m [38;5;15;4mdichtertje[0m[38;5;15m}[0m .
+
+[38;5;15m{[0m[38;5;1m([0m[38;5;1;4mZoo'n[0m[38;5;1m)[0m [38;5;15;4mwiel[0m[38;5;15m}[0m is van [38;5;1m([0m[38;5;1;4mijzer[0m[38;5;1m)[0m , maar [38;5;15m{[0m[38;5;15meen[0m [38;5;15;4mdichtertje[0m[38;5;15m}[0m niet .
+

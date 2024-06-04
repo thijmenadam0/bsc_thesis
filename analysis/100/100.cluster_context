@@ -1,0 +1,832 @@
+# Time of run:
+# Sun May 12 14:52:35 2024
+# Command:
+# ../berkeley-coreference-analyser/print_errors.py analysis/100/100 corefs/100/gold corefs/100/Nescio_Dichtertje.conll --lang=nl
+#
+# Mentions are printed to show both system and gold clusters:
+# 
+# 	- Mentions are placed in groups that correspond to the system cluster
+# 	- Colour is used to indicate the gold clusters, with red indicating
+# 		spurious mentions
+# 
+# 	For each mention the tuple of numbers indicates
+# 	(sentence, start word, end word + 1).
+# 	Colours reset after each dashed line.
+
+# Nescio_Dichtertje 000
+
+(0, 0, 1)                                                 [38;5;3mDICHTERTJE[0m  . In 't derde oorlogsjaar . Bellum
+
+(4, 2, 6)             , amor manet . I. Tweemaal schudde  [38;5;4mde [4mGod[0m[38;5;4m van Nederland[0m  zijn eerbiedwaardig hoofd en tweemaal
+(4, 6, 7)          Tweemaal schudde de God van Nederland  [38;5;4mzijn[0m  eerbiedwaardig hoofd en tweemaal
+(4, 12, 13)                    hoofd en tweemaal schoven  [38;5;4mz'n[0m  eerbiedwaardige grauwe bakkebaarden
+(4, 20, 21)        grauwe bakkebaarden heen en weer over  [38;5;4mz'n[0m  vest . 't Klopte niet . Ergens moest
+(8, 4, 8)         heel vreemd . Sedert dertig jaar hield  [38;5;4mde [4mGod[0m[38;5;4m van Nederland[0m  niet van dichters . Je wist niet meer ,
+(12, 1, 2)       je kon er niet uit wijs . En nu dit . "  [38;5;5mHij[0m  heeft gezegd , dat hij vol van mij is .
+(12, 6, 7)        . En nu dit . " Hij heeft gezegd , dat  [38;5;5mhij[0m  vol van mij is . Vroeger kon je daar op
+(14, 0, 1)       mij is . Vroeger kon je daar op aan . "  [38;5;4mGod[0m  zuchtte . Hij zou er morgen eens met
+(15, 0, 1)          kon je daar op aan . " God zuchtte .  [38;5;4mHij[0m  zou er morgen eens met Potgieter over
+(18, 4, 5)        meisje . Met vaderlijk welgevallen zag  [38;5;4mGod[0m  op haar neer . Het meisje was als
+(25, 15, 16)           bedrog was , een vroom bedrog van  [38;5;4mGod[0m  . Dat ze niets wisten en alleen maar
+(27, 2, 3)           dat ze 't konden helpen . Nooit had  [38;5;4mGod[0m  er over nagedacht . Tegenwoordig
+(40, 16, 17)     was toch vast wel een dichtertje , want  [38;5;4mGod[0m  begreep niets van 'm en Potgieter ook
+(46, 8, 9)          . Dat was weer zoo iets raars , waar  [38;5;4mGod[0m  vroeger nooit over gedacht had ,
+(47, 6, 7)          uit . 't Dichtertje wist niet op wie  [38;5;3mhij[0m  verliefd moest worden . Als hij in twee
+(48, 1, 2)        op wie hij verliefd moest worden . Als  [38;5;3mhij[0m  in twee wetende oogen had gekeken , zag
+(48, 10, 11)     in twee wetende oogen had gekeken , zag  [38;5;3mhij[0m  er dadelijk weer twee . Hij was zoo
+(49, 0, 1)             , zag hij er dadelijk weer twee .  [38;5;3mHij[0m  was zoo zwak , zoo lekker zwak . Maar
+(50, 2, 3)         zoo zwak , zoo lekker zwak . Maar als  [38;5;3mie[0m  't vijfentwintigste meisje zag ,
+(50, 9, 10)        vijfentwintigste meisje zag , voelden  [38;5;3m-ie[0m  zoo iets raars in z'n hersens . Hij had
+(50, 14, 15)         zag , voelden -ie zoo iets raars in  [38;5;3mz'n[0m  hersens . Hij had al eens in 't
+(51, 0, 1)           -ie zoo iets raars in z'n hersens .  [38;5;3mHij[0m  had al eens in 't voorbijloopen op 't
+(52, 1, 2)         omgeschopt van kwaadaardigheid . Want  [38;5;3mhij[0m  wist wel , dat ze niets wisten , dat ze
+(52, 18, 19)      , dat ze dom giggelden , alleen al als  [38;5;3mie[0m  z'n hoed voor hen af nam , of strak
+(52, 19, 20)     dat ze dom giggelden , alleen al als ie  [38;5;3mz'n[0m  hoed voor hen af nam , of strak keken ,
+(53, 3, 4)                                 . En toch kon  [38;5;3mie[0m  't niet laten . En dan moest ie
+(54, 3, 4)           kon ie 't niet laten . En dan moest  [38;5;3mie[0m  vluchten naar ergens , waar geen
+(54, 15, 16)      waar geen vrouwen waren en dan maakten  [38;5;3m-ie[0m  zich kwaad op God en den duivel
+(54, 16, 17)       geen vrouwen waren en dan maakten -ie  [38;5;1mzich[0m  kwaad op God en den duivel tegelijk en
+(54, 19, 20)      waren en dan maakten -ie zich kwaad op  [38;5;4mGod[0m  en den duivel tegelijk en zei dat -ie
+(54, 27, 28)       God en den duivel tegelijk en zei dat  [38;5;3m-ie[0m  idioot werd en dat -ie nog eens met
+(54, 32, 33)           en zei dat -ie idioot werd en dat  [38;5;3m-ie[0m  nog eens met open mond jaren lang
+(54, 50, 51)      een leeren slabbetje voor , zonder dat  [38;5;3m-ie[0m  't zelf wist . Maar den volgenden dag
+(55, 5, 6)       zelf wist . Maar den volgenden dag keek  [38;5;3m-ie[0m  weer en dacht daarbij : " Mon âme prend
+(63, 5, 6)                   . Op den beganen grond liep  [38;5;4mGod[0m  nu met z'n gelen strooien deukhoed ,
+(66, 1, 2)        die meneer ? " vroeg 't dichtertje . "  [38;5;4mGod[0m  " zei de duivel en de knobbels op z'n
+(66, 10, 11)     " God " zei de duivel en de knobbels op  [38;5;6mz'n[0m  voorhoofd werden grooter . 't
+(68, 4, 6)       't Dichtertje sprak niet . " Jouw God ,  [38;5;4mde [4mGod[0m  van je baas en van je schoonvader en
+(69, 0, 5)          gérant van de " Nieuwe Karseboom " .  [38;5;1mDe [4mGod[0m[38;5;1m van je tante[0m  , die zei , dat je moest groeten als je
+(72, 0, 2)         . " Een vrouw mag niet stilzitten . "  [38;5;1mDe [4mGod[0m  van al die menschen , die zullen zeggen
+(72, 49, 50)            , dat kon niet goed gaan , " als  [38;5;3mje[0m  later in 't werkhuis moet . De God ,
+(73, 0, 2)        , " als je later in 't werkhuis moet .  [38;5;4mDe [4mGod[0m  , die niet hebben kan , dat je 's
+(73, 3, 4)       je later in 't werkhuis moet . De God ,  [38;5;4mdie[0m  niet hebben kan , dat je 's
+(73, 9, 10)         . De God , die niet hebben kan , dat  [38;5;4mje[0m  's Zaterdagsmiddags vrij bent , de God
+(73, 15, 20)      dat je 's Zaterdagsmiddags vrij bent ,  [38;5;4mde [4mGod[0m[38;5;4m van meneer Volmer[0m  , hoogleeraar in 't boekhouden en de
+(73, 33, 34)        en de bedrijfsleer , die vindt , dat  [38;5;3mje[0m  veel te veel naar de lucht kijkt . De
+(74, 0, 13)        je veel te veel naar de lucht kijkt .  [38;5;1mDe [4mGod[0m[38;5;1m van allen die geen andere keus hebben dan werken of vervelen[0m  . De God van Nederland , van heel
+(75, 0, 2)          keus hebben dan werken of vervelen .  [38;5;1mDe [4mGod[0m  van Nederland , van heel Nederland ,
+
+(7, 0, 5)            niet . Ergens moest een fout zijn .  [38;5;5mEen [4mdichter[0m[38;5;5m met nergens haar[0m  , dat was heel vreemd . Sedert dertig
+
+(9, 0, 1)          God van Nederland niet van dichters .  [38;5;8mJe[0m  wist niet meer , wat je er aan had .
+(9, 6, 7)         van dichters . Je wist niet meer , wat  [38;5;8mje[0m  er aan had . Fatsoenlijk of
+(10, 4, 5)          had . Fatsoenlijk of onfatsoenlijk ,  [38;5;8mje[0m  kon er niet uit wijs . En nu dit . "
+(16, 0, 1)             eens met Potgieter over spreken .  [38;5;8mJe[0m  had tegenwoordig niets dan narigheid
+(16, 7, 8)          tegenwoordig niets dan narigheid aan  [38;5;8mje[0m  hoofd . Daar beneden in de Leidsche
+(31, 2, 3)         Tüchtigkeit ist die Welt " . Maar als  [38;5;8mje[0m  eenmaal over iets aan 't prakkizeeren
+(31, 11, 12)        iets aan 't prakkizeeren raakte kwam  [38;5;8mje[0m  er zoo makkelijk niet weer af . Nu ie
+(64, 3, 4)        op z'n schoenen . Z'n bakkebaarden kon  [38;5;10mje[0m  van achteren zien en toen ie
+(72, 16, 17)      , die zullen zeggen : " Dat had ik van  [38;5;3mjou[0m  niet gedacht , " als je nog eens
+(96, 5, 6)        't wieltje uit . 't Geeft niet veel of  [38;5;11mje[0m  op een spoorbrug staat op een ijzeren
+(97, 0, 1)                staat op een ijzeren zuiltje .  [38;5;11mJe[0m  kunt er hoogstens van aan 't denken
+(98, 6, 7)           niet . En 't dichtertje dacht , dat  [38;5;11mje[0m  beter zoo'n wiel kunt wezen dan een
+
+(12, 9, 10)       . " Hij heeft gezegd , dat hij vol van  [38;5;4mmij[0m  is . Vroeger kon je daar op aan . " God
+
+(13, 2, 3)        , dat hij vol van mij is . Vroeger kon  [38;5;8mje[0m  daar op aan . " God zuchtte . Hij zou
+
+(19, 33, 35)             en lage witte schoentjes en had  [38;5;12mlieve [4moogen[0m  als honderde andere meisjes in
+
+(20, 0, 1)        honderde andere meisjes in Amsterdam .  [38;5;13mOogen[0m  die kijken alsof ze iets heel
+(20, 1, 2)           andere meisjes in Amsterdam . Oogen  [38;5;13mdie[0m  kijken alsof ze iets heel bijzonders
+(20, 4, 5)         in Amsterdam . Oogen die kijken alsof  [38;5;13mze[0m  iets heel bijzonders weten . Dat vonden
+(21, 2, 3)       iets heel bijzonders weten . Dat vonden  [38;5;13mze[0m  ook weer niet goed . Nooit had ons
+
+(22, 2, 5)             ze ook weer niet goed . Nooit had  [38;5;4mons Lieve Heer[0m  daar vroeger iets bij gedacht . En nu
+(23, 3, 4)          vroeger iets bij gedacht . En nu had  [38;5;4m-ie[0m  kwestie . 't Was begonnen met versjes
+
+(24, 4, 6)         had -ie kwestie . 't Was begonnen met  [38;5;1mversjes over[0m  " wetende oogen . " Toen zei er één ,
+(26, 1, 2)          was , een vroom bedrog van God . Dat  [38;5;13mze[0m  niets wisten en alleen maar keken alsof
+(26, 12, 13)     en alleen maar keken alsof , zonder dat  [38;5;13mze[0m  't konden helpen . Nooit had God er
+(28, 2, 3)        over nagedacht . Tegenwoordig brachten  [38;5;13mze[0m  hem over alles aan 't denken . En 't
+
+(24, 7, 9)          . 't Was begonnen met versjes over "  [38;5;12mwetende [4moogen[0m  . " Toen zei er één , dat 't allemaal
+(28, 3, 4)          nagedacht . Tegenwoordig brachten ze  [38;5;4mhem[0m  over alles aan 't denken . En 't was
+(42, 5, 8)       verachttenem . En hij leed ijselijk van  [38;5;13mdie wetende oogen[0m  , zooals geen rechtschapen mensch . De
+(48, 3, 6)        hij verliefd moest worden . Als hij in  [38;5;1mtwee wetende [4moogen[0m  had gekeken , zag hij er dadelijk weer
+
+(30, 0, 2)        hoofden bij de zaken werden gehouden .  [38;5;14mDe [4mkeizer[0m  had 't nog onlangs weer gezegd : " Der
+(32, 1, 2)         je er zoo makkelijk niet weer af . Nu  [38;5;4mie[0m  er eenmaal op lette , zag ie honderde ,
+(32, 8, 9)          af . Nu ie er eenmaal op lette , zag  [38;5;4mie[0m  honderde , duizende van die meisjes ,
+
+(33, 0, 1)           anderen en telkens weer dezelfden .  [38;5;1mZoodat[0m  ie soms niet meer wist of ie er
+(33, 1, 2)            en telkens weer dezelfden . Zoodat  [38;5;4mie[0m  soms niet meer wist of ie er
+(33, 7, 8)            . Zoodat ie soms niet meer wist of  [38;5;4mie[0m  er tienduizend had gezien of één ,
+
+(33, 13, 14)     wist of ie er tienduizend had gezien of  [38;5;1méén[0m  , tienduizendmaal . " Heer in den hemel
+(34, 6, 7)                     . " Heer in den hemel had  [38;5;4mhij[0m  al die meisjes geschapen ? Of was 't
+
+(35, 6, 8)          geschapen ? Of was 't een grapje van  [38;5;6mden [4mduivel[0m  , al die wetende oogen ? " Kijk , daar
+(54, 21, 24)     en dan maakten -ie zich kwaad op God en  [38;5;1mden duivel tegelijk[0m  en zei dat -ie idioot werd en dat -ie
+(66, 4, 6)         ? " vroeg 't dichtertje . " God " zei  [38;5;6mde [4mduivel[0m  en de knobbels op z'n voorhoofd werden
+(83, 11, 13)        prend son élan vers l'infini , " zei  [38;5;6mde [4mDuivel[0m  en glimlachte ironisch , zooals hij een
+(83, 18, 19)      Duivel en glimlachte ironisch , zooals  [38;5;6mhij[0m  een eeuwigheid lang geglimlacht had .
+(84, 8, 10)       't dichtertje 't stationsplein weer en  [38;5;6mden [4mduivel[0m  en hoorde wat die gezegd had . " Duivel
+(85, 4, 5)           wat die gezegd had . " Duivel " zei  [38;5;3m-ie[0m  , " mij belazer je niet . " De duivel
+(85, 7, 8)       die gezegd had . " Duivel " zei -ie , "  [38;5;3mmij[0m  belazer je niet . " De duivel haalde
+(86, 0, 2)         " zei -ie , " mij belazer je niet . "  [38;5;6mDe [4mduivel[0m  haalde even z'n schouders op en keek
+(86, 4, 5)             je niet . " De duivel haalde even  [38;5;6mz'n[0m  schouders op en keek naar de
+
+(36, 4, 6)        die wetende oogen ? " Kijk , daar gaat  [38;5;3m't [4mdichtertje[0m  . Toch wel een knap , jong ventje , zoo
+(40, 12, 14)      , zoo kaal , maar 't was toch vast wel  [38;5;3meen [4mdichtertje[0m  , want God begreep niets van 'm en
+(47, 0, 2)              was fatsoenlijk en daarmee uit .  [38;5;3m't [4mDichtertje[0m  wist niet op wie hij verliefd moest
+(58, 2, 4)       Piet Hein ... ... .. Dichtend vervolgde  [38;5;1m't [4mdichtertje[0m  z'n tocht door de woestenijen van
+(58, 4, 5)       ... .. Dichtend vervolgde 't dichtertje  [38;5;3mz'n[0m  tocht door de woestenijen van Amsterdam
+(65, 8, 10)             . " Wie was die meneer ? " vroeg  [38;5;3m't [4mdichtertje[0m  . " God " zei de duivel en de knobbels
+(67, 0, 2)             op z'n voorhoofd werden grooter .  [38;5;3m't [4mDichtertje[0m  sprak niet . " Jouw God , de God van je
+(78, 9, 11)               is inderdaad gebrekkig " , zei  [38;5;3m't [4mdichtertje[0m  , absent . Hij had al dien tijd gekeken
+(82, 6, 8)            schemerden . " Nu vallen " , dacht  [38;5;3m't [4mdichtertje[0m  . " Mon âme prend son élan vers
+(84, 2, 4)               lang geglimlacht had . Toen zag  [38;5;3m't [4mdichtertje[0m  't stationsplein weer en den duivel en
+(84, 13, 14)            weer en den duivel en hoorde wat  [38;5;3mdie[0m  gezegd had . " Duivel " zei -ie , " mij
+(93, 0, 2)        gekend . Waarom sprak ie nog zooveel ?  [38;5;3m't [4mDichtertje[0m  liep naar huis en keek in de hoogte
+(93, 40, 41)      zuil staat en vliegen wil en nooit van  [38;5;17mz'n[0m  plaats komt en gezien wordt uit
+(98, 1, 3)        raken en dat deugt heelemaal niet . En  [38;5;3m't [4mdichtertje[0m  dacht , dat je beter zoo'n wiel kunt
+(98, 13, 15)      dat je beter zoo'n wiel kunt wezen dan  [38;5;18meen [4mdichtertje[0m  . Zoo'n wiel is van ijzer , maar een
+(99, 0, 2)          wiel kunt wezen dan een dichtertje .  [38;5;17mZoo'n [4mwiel[0m  is van ijzer , maar een dichtertje niet
+(99, 7, 9)              . Zoo'n wiel is van ijzer , maar  [38;5;18meen [4mdichtertje[0m  niet .
+
+(37, 2, 7)          , daar gaat 't dichtertje . Toch wel  [38;5;3meen knap , jong ventje[0m  , zoo slank , zoo'n aardig
+
+(37, 21, 23)              , alleen een paar stutten voor  [38;5;19mde [4mooren[0m  , en zoo verbrand door de zon . Hij
+(38, 0, 1)         ooren , en zoo verbrand door de zon .  [38;5;3mHij[0m  groet iemand . Z'n strooien hoedje
+(39, 0, 1)              door de zon . Hij groet iemand .  [38;5;3mZ'n[0m  strooien hoedje lichtten -ie even op
+(39, 4, 5)         iemand . Z'n strooien hoedje lichtten  [38;5;3m-ie[0m  even op van zijn kort geknipte haren .
+(39, 8, 9)               hoedje lichtten -ie even op van  [38;5;3mzijn[0m  kort geknipte haren . Raar toch , zoo
+(40, 20, 21)     dichtertje , want God begreep niets van  [38;5;3m'm[0m  en Potgieter ook niet . En professor
+
+(43, 0, 4)           , zooals geen rechtschapen mensch .  [38;5;1mDe [4mduivel[0m[38;5;1m hattem leelijk[0m  te pakken . Hij was een zwak dichtertje
+(44, 0, 1)        . De duivel hattem leelijk te pakken .  [38;5;3mHij[0m  was een zwak dichtertje , kindsch werd
+(44, 2, 5)            hattem leelijk te pakken . Hij was  [38;5;3meen zwak [4mdichtertje[0m  , kindsch werd -ie er van . Hij bleef
+(44, 8, 9)        was een zwak dichtertje , kindsch werd  [38;5;3m-ie[0m  er van . Hij bleef fatsoenlijk van
+(45, 0, 1)        dichtertje , kindsch werd -ie er van .  [38;5;3mHij[0m  bleef fatsoenlijk van zwakte . Dat was
+
+(56, 3, 5)           vers l'infini . " Potgieter zei dat  [38;5;3mde [4mvent[0m  gek was en dat in den tijd van Piet
+
+(59, 0, 1)           door de woestenijen van Amsterdam .  [38;5;1mZoover[0m  't oog reikte , niets dan Nederlandsche
+(60, 2, 3)         Nederlandsche menschen . Weer groette  [38;5;3m-ie[0m  iemand , een heer met hoogen hoed en
+
+(63, 3, 4)           't Centraalstation . Op den beganen  [38;5;1mgrond[0m  liep God nu met z'n gelen strooien
+(63, 8, 9)        . Op den beganen grond liep God nu met  [38;5;4mz'n[0m  gelen strooien deukhoed , z'n
+(63, 13, 14)        nu met z'n gelen strooien deukhoed ,  [38;5;4mz'n[0m  wandelstok met zilveren greep , z'n jas
+(63, 19, 20)       , z'n wandelstok met zilveren greep ,  [38;5;4mz'n[0m  jas hing slobberig en breed en
+(64, 9, 10)             kon je van achteren zien en toen  [38;5;4mie[0m  bezadiglijk de twee treden opstapte om
+
+(63, 19, 21)       , z'n wandelstok met zilveren greep ,  [38;5;20mz'n [4mjas[0m  hing slobberig en breed en
+(63, 29, 30)       breed en ondefinieerbaar bruinig over  [38;5;4mz'n[0m  rug , op z'n kraag lag roos , z'n
+(63, 33, 34)                   bruinig over z'n rug , op  [38;5;4mz'n[0m  kraag lag roos , z'n broekspijpen waren
+
+(63, 36, 37)     bruinig over z'n rug , op z'n kraag lag  [38;5;21mroos[0m  , z'n broekspijpen waren te wijd en te
+(63, 38, 39)      over z'n rug , op z'n kraag lag roos ,  [38;5;4mz'n[0m  broekspijpen waren te wijd en te lang
+(63, 51, 52)     wijd en te lang en lagen met plooien op  [38;5;4mz'n[0m  schoenen . Z'n bakkebaarden kon je van
+(64, 0, 1)        en lagen met plooien op z'n schoenen .  [38;5;4mZ'n[0m  bakkebaarden kon je van achteren zien
+
+(68, 1, 2)        grooter . 't Dichtertje sprak niet . "  [38;5;3mJouw[0m  God , de God van je baas en van je
+(68, 1, 3)        grooter . 't Dichtertje sprak niet . "  [38;5;4mJouw [4mGod[0m  , de God van je baas en van je
+(68, 7, 8)          sprak niet . " Jouw God , de God van  [38;5;3mje[0m  baas en van je schoonvader en van je
+(68, 11, 12)      " Jouw God , de God van je baas en van  [38;5;3mje[0m  schoonvader en van je baas z'n
+(68, 15, 16)        je baas en van je schoonvader en van  [38;5;3mje[0m  baas z'n boekhouder en van den gérant
+(69, 3, 4)          de " Nieuwe Karseboom " . De God van  [38;5;3mje[0m  tante , die zei , dat je moest groeten
+(69, 10, 11)     " . De God van je tante , die zei , dat  [38;5;3mje[0m  moest groeten als je langs 't huis van
+(69, 14, 15)        , die zei , dat je moest groeten als  [38;5;3mje[0m  langs 't huis van je baas kwam in Delft
+(69, 19, 20)      moest groeten als je langs 't huis van  [38;5;3mje[0m  baas kwam in Delft of Oldenzaal , waar
+(69, 36, 37)         , waar was 't ook weer , ook al zag  [38;5;3mje[0m  niemand , je kon nooit weten wie 't zag
+(69, 39, 40)       't ook weer , ook al zag je niemand ,  [38;5;3mje[0m  kon nooit weten wie 't zag . Van je
+(70, 1, 2)         , je kon nooit weten wie 't zag . Van  [38;5;3mje[0m  tante , die je zuster altijd liet
+(70, 5, 6)         weten wie 't zag . Van je tante , die  [38;5;3mje[0m  zuster altijd liet breien . " Een vrouw
+
+(72, 22, 23)     Dat had ik van jou niet gedacht , " als  [38;5;3mje[0m  nog eens probeert te leven en die
+
+(75, 28, 32)          gezinnen en van de Vereeniging tot  [38;5;1m[4mopheffing[0m[38;5;1m van gevallen vrouwen[0m  . Dat noemen ze vallen . Ik ben ook
+(79, 0, 1)              " , zei 't dichtertje , absent .  [38;5;3mHij[0m  had al dien tijd gekeken naar een dame
+
+(77, 0, 1)              vrouwen . Dat noemen ze vallen .  [38;5;6mIk[0m  ben ook gevallen . " " De beeldspraak
+
+(85, 9, 10)         . " Duivel " zei -ie , " mij belazer  [38;5;6mje[0m  niet . " De duivel haalde even z'n
+
+(88, 3, 4)           de stationsklok . Tien minuten over  [38;5;1mzevenen[0m  . Hij gaapte achter z'n hand . De
+(89, 0, 1)                 . Tien minuten over zevenen .  [38;5;6mHij[0m  gaapte achter z'n hand . De eeuwigheid
+(89, 3, 4)              over zevenen . Hij gaapte achter  [38;5;6mz'n[0m  hand . De eeuwigheid schoot niet op .
+(91, 3, 4)             schoot niet op . En eigenlijk had  [38;5;6m-ie[0m  ook al zooveel dichtertjes gekend .
+
+(91, 6, 8)         niet op . En eigenlijk had -ie ook al  [38;5;22mzooveel [4mdichtertjes[0m  gekend . Waarom sprak ie nog zooveel ?
+(92, 2, 3)             dichtertjes gekend . Waarom sprak  [38;5;6mie[0m  nog zooveel ? 't Dichtertje liep naar
+
+(93, 11, 14)         naar huis en keek in de hoogte naar  [38;5;17m't gevleugelde [4mwiel[0m  , dat midden op de leuning van de hooge
+(93, 15, 16)     in de hoogte naar 't gevleugelde wiel ,  [38;5;17mdat[0m  midden op de leuning van de hooge
+
+(95, 20, 22)     't eind van de brug , staken hoog boven  [38;5;17m't [4mwieltje[0m  uit . 't Geeft niet veel of je op een
+
+Missing:
+(58, 3, 4)         Hein ... ... .. Dichtend vervolgde 't  [38;5;3mdichtertje[0m  z'n tocht door de woestenijen van
+(43, 0, 2)           , zooals geen rechtschapen mensch .  [38;5;6mDe duivel[0m  hattem leelijk te pakken . Hij was een
+(54, 21, 23)     en dan maakten -ie zich kwaad op God en  [38;5;6mden [4mduivel[0m  tegelijk en zei dat -ie idioot werd en
+(85, 1, 2)       duivel en hoorde wat die gezegd had . "  [38;5;6mDuivel[0m  " zei -ie , " mij belazer je niet . "
+(64, 27, 28)          te gaan , glom de lage avondzon in  [38;5;4mGods[0m  gepoetsten linkerschoen . " Wie was die
+(69, 0, 2)          gérant van de " Nieuwe Karseboom " .  [38;5;4mDe [4mGod[0m  van je tante , die zei , dat je moest
+(72, 0, 6)         . " Een vrouw mag niet stilzitten . "  [38;5;4mDe [4mGod[0m[38;5;4m van al die menschen[0m  , die zullen zeggen : " Dat had ik van
+(74, 0, 4)         je veel te veel naar de lucht kijkt .  [38;5;4mDe God van allen[0m  die geen andere keus hebben dan werken
+(75, 0, 4)          keus hebben dan werken of vervelen .  [38;5;4mDe [4mGod[0m[38;5;4m van Nederland[0m  , van heel Nederland , van
+(35, 10, 13)       was 't een grapje van den duivel , al  [38;5;13mdie wetende oogen[0m  ? " Kijk , daar gaat 't dichtertje .
+(93, 49, 50)     komt en gezien wordt uit vertetjes waar  [38;5;17m't[0m  nooit komt , wel heel van de Torensluis
+(98, 8, 10)      . En 't dichtertje dacht , dat je beter  [38;5;17mzoo'n wiel[0m  kunt wezen dan een dichtertje . Zoo'n
+
+------------------------------------------------------------
+
+(50, 14, 16)         zag , voelden -ie zoo iets raars in  [38;5;3mz'n [4mhersens[0m  . Hij had al eens in 't voorbijloopen
+(52, 6, 7)                     . Want hij wist wel , dat  [38;5;4mze[0m  niets wisten , dat ze dom giggelden ,
+(52, 11, 12)        wist wel , dat ze niets wisten , dat  [38;5;4mze[0m  dom giggelden , alleen al als ie z'n
+(52, 31, 32)         hen af nam , of strak keken , omdat  [38;5;4mze[0m  stonken van
+
+(52, 22, 23)            , alleen al als ie z'n hoed voor  [38;5;4mhen[0m  af nam , of strak keken , omdat ze
+
+------------------------------------------------------------
+
+(41, 1, 4)       niets van 'm en Potgieter ook niet . En  [38;5;1m[4mprofessor[0m[38;5;1m Volmer verachttenem[0m  . En hij leed ijselijk van die wetende
+(42, 1, 2)       . En professor Volmer verachttenem . En  [38;5;3mhij[0m  leed ijselijk van die wetende oogen ,
+(73, 18, 20)     Zaterdagsmiddags vrij bent , de God van  [38;5;4mmeneer [4mVolmer[0m  , hoogleeraar in 't boekhouden en de
+
+(73, 26, 28)           , hoogleeraar in 't boekhouden en  [38;5;1mde [4mbedrijfsleer[0m  , die vindt , dat je veel te veel naar
+(73, 29, 30)       in 't boekhouden en de bedrijfsleer ,  [38;5;4mdie[0m  vindt , dat je veel te veel naar de
+
+Missing:
+(73, 21, 28)      vrij bent , de God van meneer Volmer ,  [38;5;4mhoogleeraar in 't boekhouden [4men[0m[38;5;4m de bedrijfsleer[0m  , die vindt , dat je veel te veel naar
+(41, 1, 3)       niets van 'm en Potgieter ook niet . En  [38;5;3mprofessor Volmer[0m  verachttenem . En hij leed ijselijk van
+
+------------------------------------------------------------
+
+(59, 7, 9)            . Zoover 't oog reikte , niets dan  [38;5;3mNederlandsche [4mmenschen[0m  . Weer groette -ie iemand , een heer
+(61, 2, 3)       , uit een stuk van Verkade . Nu spraken  [38;5;4mze[0m  elkaar aan . Daar stonden ze , op 't
+(62, 2, 3)       Nu spraken ze elkaar aan . Daar stonden  [38;5;4mze[0m  , op 't plein voor 't Centraalstation .
+
+(61, 3, 4)          een stuk van Verkade . Nu spraken ze  [38;5;4melkaar[0m  aan . Daar stonden ze , op 't plein
+
+------------------------------------------------------------
+
+(4, 5, 6)         manet . I. Tweemaal schudde de God van  [38;5;3mNederland[0m  zijn eerbiedwaardig hoofd en tweemaal
+(8, 7, 8)          . Sedert dertig jaar hield de God van  [38;5;3mNederland[0m  niet van dichters . Je wist niet meer ,
+
+(75, 6, 8)         vervelen . De God van Nederland , van  [38;5;3mheel [4mNederland[0m  , van Surhuisterveen en Spekholzerheide
+
+Missing:
+(75, 3, 4)           dan werken of vervelen . De God van  [38;5;3mNederland[0m  , van heel Nederland , van
+
+------------------------------------------------------------
+
+(60, 5, 13)         menschen . Weer groette -ie iemand ,  [38;5;3meen [4mheer[0m[38;5;3m met hoogen hoed en gekleede jas[0m  , uit een stuk van Verkade . Nu spraken
+
+(65, 3, 5)           gepoetsten linkerschoen . " Wie was  [38;5;3mdie [4mmeneer[0m  ? " vroeg 't dichtertje . " God " zei
+
+Missing:
+(60, 3, 4)                   menschen . Weer groette -ie  [38;5;3miemand[0m  , een heer met hoogen hoed en gekleede
+
+------------------------------------------------------------
+
+(79, 7, 9)           . Hij had al dien tijd gekeken naar  [38;5;3meen [4mdame[0m  , die daar stond te wachten . Naar de
+(79, 10, 11)        al dien tijd gekeken naar een dame ,  [38;5;3mdie[0m  daar stond te wachten . Naar de aardige
+(80, 6, 7)          de aardige scherpe achterkantjes van  [38;5;3mhaar[0m  beenen , vlak boven de lage witte
+(81, 2, 3)        lage witte schoentjes . Natuurlijk had  [38;5;3mze[0m  lage witte schoentjes aan met korte
+(81, 17, 18)           en erg open geweven kousen , waar  [38;5;3mhaar[0m  beenen wit doorheen schemerden . " Nu
+
+------------------------------------------------------------
+
+(69, 3, 5)          de " Nieuwe Karseboom " . De God van  [38;5;3mje [4mtante[0m  , die zei , dat je moest groeten als je
+(69, 6, 7)           Karseboom " . De God van je tante ,  [38;5;3mdie[0m  zei , dat je moest groeten als je langs
+(70, 1, 3)         , je kon nooit weten wie 't zag . Van  [38;5;3mje [4mtante[0m  , die je zuster altijd liet breien . "
+(70, 4, 5)       nooit weten wie 't zag . Van je tante ,  [38;5;3mdie[0m  je zuster altijd liet breien . " Een
+
+------------------------------------------------------------
+
+(68, 7, 9)          sprak niet . " Jouw God , de God van  [38;5;3mje [4mbaas[0m  en van je schoonvader en van je baas
+(68, 15, 17)        je baas en van je schoonvader en van  [38;5;3mje [4mbaas[0m  z'n boekhouder en van den gérant van de
+(68, 17, 18)        en van je schoonvader en van je baas  [38;5;3mz'n[0m  boekhouder en van den gérant van de "
+(69, 19, 21)      moest groeten als je langs 't huis van  [38;5;3mje [4mbaas[0m  kwam in Delft of Oldenzaal , waar was
+
+------------------------------------------------------------
+
+(19, 4, 7)         God op haar neer . Het meisje was als  [38;5;3mhonderde andere [4mmeisjes[0m  dien zomer , heelemaal in 't wit ,
+(19, 37, 41)             en had lieve oogen als honderde  [38;5;1mandere meisjes in Amsterdam[0m  . Oogen die kijken alsof ze iets heel
+(32, 13, 15)      lette , zag ie honderde , duizende van  [38;5;1mdie [4mmeisjes[0m  , telkens weer anderen en telkens weer
+
+Missing:
+(19, 36, 41)     witte schoentjes en had lieve oogen als  [38;5;3mhonderde andere [4mmeisjes[0m[38;5;3m in Amsterdam[0m  . Oogen die kijken alsof ze iets heel
+(32, 9, 15)      af . Nu ie er eenmaal op lette , zag ie  [38;5;3mhonderde , duizende van die meisjes[0m  , telkens weer anderen en telkens weer
+(34, 8, 10)             . " Heer in den hemel had hij al  [38;5;3mdie meisjes[0m  geschapen ? Of was 't een grapje van
+
+------------------------------------------------------------
+
+(19, 28, 31)     rok , witte kousen , fijne enkeltjes en  [38;5;3mlage witte [4mschoentjes[0m  en had lieve oogen als honderde andere
+(80, 11, 15)                van haar beenen , vlak boven  [38;5;3mde lage witte [4mschoentjes[0m  . Natuurlijk had ze lage witte
+(81, 3, 6)          witte schoentjes . Natuurlijk had ze  [38;5;3mlage witte [4mschoentjes[0m  aan met korte rokken en erg open
+
+------------------------------------------------------------
+
+(17, 7, 9)       Daar beneden in de Leidsche straat liep  [38;5;3meen [4mmeisje[0m  . Met vaderlijk welgevallen zag God op
+(18, 6, 7)        . Met vaderlijk welgevallen zag God op  [38;5;3mhaar[0m  neer . Het meisje was als honderde
+(19, 0, 2)            welgevallen zag God op haar neer .  [38;5;3mHet [4mmeisje[0m  was als honderde andere meisjes dien
+
+------------------------------------------------------------
+
+(15, 6, 7)          zuchtte . Hij zou er morgen eens met  [38;5;3mPotgieter[0m  over spreken . Je had tegenwoordig
+(40, 22, 23)          , want God begreep niets van 'm en  [38;5;3mPotgieter[0m  ook niet . En professor Volmer
+(56, 0, 1)          âme prend son élan vers l'infini . "  [38;5;3mPotgieter[0m  zei dat de vent gek was en dat in den
+
+------------------------------------------------------------
+
+(72, 7, 8)              . " De God van al die menschen ,  [38;5;3mdie[0m  zullen zeggen : " Dat had ik van jou
+(72, 29, 30)      " als je nog eens probeert te leven en  [38;5;3mdie[0m  zullen zeggen : " Dat had ik altijd wel
+
+Missing:
+(72, 4, 6)         mag niet stilzitten . " De God van al  [38;5;3mdie menschen[0m  , die zullen zeggen : " Dat had ik van
+
+------------------------------------------------------------
+
+(93, 21, 28)         wiel , dat midden op de leuning van  [38;5;3mde hooge [4mspoorbrug[0m[38;5;3m over de westelijke doorvaart[0m  op een kleine ijzeren zuil staat en
+(96, 7, 9)             uit . 't Geeft niet veel of je op  [38;5;4meen [4mspoorbrug[0m  staat op een ijzeren zuiltje . Je kunt
+
+------------------------------------------------------------
+
+(80, 6, 8)          de aardige scherpe achterkantjes van  [38;5;3mhaar [4mbeenen[0m  , vlak boven de lage witte schoentjes .
+(81, 17, 19)           en erg open geweven kousen , waar  [38;5;3mhaar [4mbeenen[0m  wit doorheen schemerden . " Nu vallen "
+
+------------------------------------------------------------
+
+(75, 30, 32)     en van de Vereeniging tot opheffing van  [38;5;3mgevallen [4mvrouwen[0m  . Dat noemen ze vallen . Ik ben ook
+(76, 2, 3)             van gevallen vrouwen . Dat noemen  [38;5;4mze[0m  vallen . Ik ben ook gevallen . " " De
+
+------------------------------------------------------------
+
+(72, 14, 15)             , die zullen zeggen : " Dat had  [38;5;3mik[0m  van jou niet gedacht , " als je nog
+(72, 36, 37)      leven en die zullen zeggen : " Dat had  [38;5;3mik[0m  altijd wel gedacht , dat kon niet goed
+
+------------------------------------------------------------
+
+(69, 16, 21)     zei , dat je moest groeten als je langs  [38;5;3m't [4mhuis[0m[38;5;3m van je baas[0m  kwam in Delft of Oldenzaal , waar was
+(93, 4, 5)         nog zooveel ? 't Dichtertje liep naar  [38;5;4mhuis[0m  en keek in de hoogte naar 't
+
+------------------------------------------------------------
+
+(19, 40, 41)        oogen als honderde andere meisjes in  [38;5;3mAmsterdam[0m  . Oogen die kijken alsof ze iets heel
+(58, 10, 11)           z'n tocht door de woestenijen van  [38;5;3mAmsterdam[0m  . Zoover 't oog reikte , niets dan
+
+------------------------------------------------------------
+
+(74, 4, 5)        naar de lucht kijkt . De God van allen  [38;5;3mdie[0m  geen andere keus hebben dan werken of
+
+Missing:
+(74, 3, 4)         veel naar de lucht kijkt . De God van  [38;5;3mallen[0m  die geen andere keus hebben dan werken
+
+------------------------------------------------------------
+
+(25, 11, 16)       er één , dat 't allemaal bedrog was ,  [38;5;3meen vroom [4mbedrog[0m[38;5;3m van God[0m  . Dat ze niets wisten en alleen maar
+
+Missing:
+(25, 8, 9)         . " Toen zei er één , dat 't allemaal  [38;5;3mbedrog[0m  was , een vroom bedrog van God . Dat ze
+
+------------------------------------------------------------
+
+(4, 6, 9)          Tweemaal schudde de God van Nederland  [38;5;3mzijn eerbiedwaardig [4mhoofd[0m  en tweemaal schoven z'n eerbiedwaardige
+(16, 7, 9)          tegenwoordig niets dan narigheid aan  [38;5;1mje [4mhoofd[0m  . Daar beneden in de Leidsche straat
+
+------------------------------------------------------------
+
+(96, 11, 14)        veel of je op een spoorbrug staat op  [38;5;3meen ijzeren [4mzuiltje[0m  . Je kunt er hoogstens van aan 't
+
+------------------------------------------------------------
+
+(95, 14, 16)               , aan 't begin en 't eind van  [38;5;3mde [4mbrug[0m  , staken hoog boven 't wieltje uit . 't
+
+------------------------------------------------------------
+
+(95, 4, 6)       hopeloos ver boven . Zelfs de palen met  [38;5;3mde [4mbooglampen[0m  , aan 't begin en 't eind van de brug ,
+
+------------------------------------------------------------
+
+(95, 1, 6)         er nog zoo hopeloos ver boven . Zelfs  [38;5;3mde palen met de booglampen[0m  , aan 't begin en 't eind van de brug ,
+
+------------------------------------------------------------
+
+(94, 0, 3)       heel van de Torensluis , 't Singel af .  [38;5;3mDe blauwe [4mlucht[0m  was er nog zoo hopeloos ver boven .
+
+------------------------------------------------------------
+
+(93, 59, 61)         komt , wel heel van de Torensluis ,  [38;5;3m't [4mSingel[0m  af . De blauwe lucht was er nog zoo
+
+------------------------------------------------------------
+
+(93, 56, 58)           waar 't nooit komt , wel heel van  [38;5;3mde [4mTorensluis[0m  , 't Singel af . De blauwe lucht was er
+
+------------------------------------------------------------
+
+(93, 40, 42)      zuil staat en vliegen wil en nooit van  [38;5;3mz'n [4mplaats[0m  komt en gezien wordt uit vertetjes waar
+
+------------------------------------------------------------
+
+(93, 29, 33)             over de westelijke doorvaart op  [38;5;3meen kleine ijzeren [4mzuil[0m  staat en vliegen wil en nooit van z'n
+
+------------------------------------------------------------
+
+(93, 25, 28)      de leuning van de hooge spoorbrug over  [38;5;3mde westelijke [4mdoorvaart[0m  op een kleine ijzeren zuil staat en
+
+------------------------------------------------------------
+
+(89, 3, 5)              over zevenen . Hij gaapte achter  [38;5;3mz'n [4mhand[0m  . De eeuwigheid schoot niet op . En
+
+------------------------------------------------------------
+
+(86, 4, 6)             je niet . " De duivel haalde even  [38;5;3mz'n [4mschouders[0m  op en keek naar de stationsklok . Tien
+
+------------------------------------------------------------
+
+(81, 11, 15)          schoentjes aan met korte rokken en  [38;5;3merg open geweven [4mkousen[0m  , waar haar beenen wit doorheen
+
+------------------------------------------------------------
+
+(81, 8, 10)         had ze lage witte schoentjes aan met  [38;5;3mkorte [4mrokken[0m  en erg open geweven kousen , waar haar
+
+------------------------------------------------------------
+
+(80, 1, 8)       dame , die daar stond te wachten . Naar  [38;5;3mde aardige scherpe [4machterkantjes[0m[38;5;3m van haar beenen[0m  , vlak boven de lage witte schoentjes .
+
+------------------------------------------------------------
+
+(78, 1, 3)         ze vallen . Ik ben ook gevallen . " "  [38;5;3mDe [4mbeeldspraak[0m  is inderdaad gebrekkig " , zei 't
+
+------------------------------------------------------------
+
+(75, 12, 13)      heel Nederland , van Surhuisterveen en  [38;5;3mSpekholzerheide[0m  , donateur van den Bond van hoofden van
+
+------------------------------------------------------------
+
+(75, 10, 11)        Nederland , van heel Nederland , van  [38;5;3mSurhuisterveen[0m  en Spekholzerheide , donateur van den
+
+------------------------------------------------------------
+
+(73, 38, 40)      , die vindt , dat je veel te veel naar  [38;5;3mde [4mlucht[0m  kijkt . De God van allen die geen
+
+------------------------------------------------------------
+
+(72, 52, 54)      kon niet goed gaan , " als je later in  [38;5;3m't [4mwerkhuis[0m  moet . De God , die niet hebben kan ,
+
+------------------------------------------------------------
+
+(71, 1, 3)        , die je zuster altijd liet breien . "  [38;5;3mEen [4mvrouw[0m  mag niet stilzitten . " De God van al
+
+------------------------------------------------------------
+
+(70, 5, 7)         weten wie 't zag . Van je tante , die  [38;5;3mje [4mzuster[0m  altijd liet breien . " Een vrouw mag
+
+------------------------------------------------------------
+
+(69, 25, 26)        't huis van je baas kwam in Delft of  [38;5;3mOldenzaal[0m  , waar was 't ook weer , ook al zag je
+
+------------------------------------------------------------
+
+(69, 23, 24)        je langs 't huis van je baas kwam in  [38;5;3mDelft[0m  of Oldenzaal , waar was 't ook weer ,
+
+------------------------------------------------------------
+
+(68, 15, 19)        je baas en van je schoonvader en van  [38;5;3mje baas z'n [4mboekhouder[0m  en van den gérant van de " Nieuwe
+
+------------------------------------------------------------
+
+(68, 11, 13)      " Jouw God , de God van je baas en van  [38;5;3mje [4mschoonvader[0m  en van je baas z'n boekhouder en van
+
+------------------------------------------------------------
+
+(66, 10, 12)     " God " zei de duivel en de knobbels op  [38;5;3mz'n [4mvoorhoofd[0m  werden grooter . 't Dichtertje sprak
+
+------------------------------------------------------------
+
+(66, 7, 12)        dichtertje . " God " zei de duivel en  [38;5;3mde [4mknobbels[0m[38;5;3m op z'n voorhoofd[0m  werden grooter . 't Dichtertje sprak
+
+------------------------------------------------------------
+
+(64, 17, 19)               de twee treden opstapte om in  [38;5;3m't [4mstation[0m  te gaan , glom de lage avondzon in Gods
+
+------------------------------------------------------------
+
+(64, 11, 14)        achteren zien en toen ie bezadiglijk  [38;5;3mde twee [4mtreden[0m  opstapte om in 't station te gaan ,
+
+------------------------------------------------------------
+
+(64, 0, 2)        en lagen met plooien op z'n schoenen .  [38;5;3mZ'n [4mbakkebaarden[0m  kon je van achteren zien en toen ie
+
+------------------------------------------------------------
+
+(63, 51, 53)     wijd en te lang en lagen met plooien op  [38;5;3mz'n [4mschoenen[0m  . Z'n bakkebaarden kon je van achteren
+
+------------------------------------------------------------
+
+(63, 49, 50)       waren te wijd en te lang en lagen met  [38;5;3mplooien[0m  op z'n schoenen . Z'n bakkebaarden kon
+
+------------------------------------------------------------
+
+(63, 38, 40)      over z'n rug , op z'n kraag lag roos ,  [38;5;3mz'n [4mbroekspijpen[0m  waren te wijd en te lang en lagen met
+
+------------------------------------------------------------
+
+(63, 33, 35)                   bruinig over z'n rug , op  [38;5;3mz'n [4mkraag[0m  lag roos , z'n broekspijpen waren te
+
+------------------------------------------------------------
+
+(63, 29, 31)       breed en ondefinieerbaar bruinig over  [38;5;3mz'n [4mrug[0m  , op z'n kraag lag roos , z'n
+
+------------------------------------------------------------
+
+(63, 13, 18)        nu met z'n gelen strooien deukhoed ,  [38;5;3mz'n [4mwandelstok[0m[38;5;3m met zilveren greep[0m  , z'n jas hing slobberig en breed en
+
+------------------------------------------------------------
+
+(62, 8, 10)         . Daar stonden ze , op 't plein voor  [38;5;3m't [4mCentraalstation[0m  . Op den beganen grond liep God nu met
+
+------------------------------------------------------------
+
+(62, 5, 10)         ze elkaar aan . Daar stonden ze , op  [38;5;3m't [4mplein[0m[38;5;3m voor 't Centraalstation[0m  . Op den beganen grond liep God nu met
+
+------------------------------------------------------------
+
+(60, 18, 19)     hoed en gekleede jas , uit een stuk van  [38;5;3mVerkade[0m  . Nu spraken ze elkaar aan . Daar
+
+------------------------------------------------------------
+
+(60, 15, 19)       met hoogen hoed en gekleede jas , uit  [38;5;3meen [4mstuk[0m[38;5;3m van Verkade[0m  . Nu spraken ze elkaar aan . Daar
+
+------------------------------------------------------------
+
+(58, 7, 11)       vervolgde 't dichtertje z'n tocht door  [38;5;3mde [4mwoestenijen[0m[38;5;3m van Amsterdam[0m  . Zoover 't oog reikte , niets dan
+
+------------------------------------------------------------
+
+(58, 4, 11)      ... .. Dichtend vervolgde 't dichtertje  [38;5;3mz'n [4mtocht[0m[38;5;3m door de woestenijen van Amsterdam[0m  . Zoover 't oog reikte , niets dan
+
+------------------------------------------------------------
+
+(56, 13, 15)      de vent gek was en dat in den tijd van  [38;5;3mPiet [4mHein[0m  ... ... .. Dichtend vervolgde 't
+
+------------------------------------------------------------
+
+(54, 43, 46)      met open mond jaren lang kwijlen zou ,  [38;5;3meen leeren [4mslabbetje[0m  voor , zonder dat -ie 't zelf wist .
+
+------------------------------------------------------------
+
+(54, 36, 38)     -ie idioot werd en dat -ie nog eens met  [38;5;3mopen [4mmond[0m  jaren lang kwijlen zou , een leeren
+
+------------------------------------------------------------
+
+(52, 34, 35)     , of strak keken , omdat ze stonken van  [38;5;3mburgerjuffrouwen-ingebeeldheid[0m  . En toch kon ie 't niet laten . En dan
+
+------------------------------------------------------------
+
+(52, 19, 21)     dat ze dom giggelden , alleen al als ie  [38;5;3mz'n hoed[0m  voor hen af nam , of strak keken ,
+
+------------------------------------------------------------
+
+(51, 17, 18)        een café een stoeltje omgeschopt van  [38;5;3mkwaadaardigheid[0m  . Want hij wist wel , dat ze niets
+
+------------------------------------------------------------
+
+(51, 13, 15)     voorbijloopen op 't terras van een café  [38;5;3meen [4mstoeltje[0m  omgeschopt van kwaadaardigheid . Want
+
+------------------------------------------------------------
+
+(51, 11, 13)        in 't voorbijloopen op 't terras van  [38;5;3meen [4mcafé[0m  een stoeltje omgeschopt van
+
+------------------------------------------------------------
+
+(51, 8, 13)       Hij had al eens in 't voorbijloopen op  [38;5;3m't [4mterras[0m[38;5;3m van een café[0m  een stoeltje omgeschopt van
+
+------------------------------------------------------------
+
+(50, 3, 6)          zwak , zoo lekker zwak . Maar als ie  [38;5;3m't vijfentwintigste [4mmeisje[0m  zag , voelden -ie zoo iets raars in z'n
+
+------------------------------------------------------------
+
+(39, 0, 3)              door de zon . Hij groet iemand .  [38;5;3mZ'n strooien [4mhoedje[0m  lichtten -ie even op van zijn kort
+
+------------------------------------------------------------
+
+(37, 28, 30)        voor de ooren , en zoo verbrand door  [38;5;3mde [4mzon[0m  . Hij groet iemand . Z'n strooien
+
+------------------------------------------------------------
+
+(37, 17, 23)       gladgeschoren jongensgezicht , alleen  [38;5;3meen paar stutten voor de ooren[0m  , en zoo verbrand door de zon . Hij
+
+------------------------------------------------------------
+
+(37, 12, 15)      knap , jong ventje , zoo slank , zoo'n  [38;5;3maardig gladgeschoren [4mjongensgezicht[0m  , alleen een paar stutten voor de ooren
+
+------------------------------------------------------------
+
+(35, 3, 8)          al die meisjes geschapen ? Of was 't  [38;5;3meen [4mgrapje[0m[38;5;3m van den duivel[0m  , al die wetende oogen ? " Kijk , daar
+
+------------------------------------------------------------
+
+(32, 21, 23)           , telkens weer anderen en telkens  [38;5;3mweer dezelfden[0m  . Zoodat ie soms niet meer wist of ie
+
+------------------------------------------------------------
+
+(32, 17, 19)        , duizende van die meisjes , telkens  [38;5;3mweer anderen[0m  en telkens weer dezelfden . Zoodat ie
+
+------------------------------------------------------------
+
+(29, 11, 13)        toch zoo noodig , dat de hoofden bij  [38;5;3mde [4mzaken[0m  werden gehouden . De keizer had 't nog
+
+------------------------------------------------------------
+
+(29, 8, 10)            . En 't was toch zoo noodig , dat  [38;5;3mde [4mhoofden[0m  bij de zaken werden gehouden . De
+
+------------------------------------------------------------
+
+(23, 4, 5)              iets bij gedacht . En nu had -ie  [38;5;3mkwestie[0m  . 't Was begonnen met versjes over "
+
+------------------------------------------------------------
+
+(19, 25, 27)         , korte frotté rok , witte kousen ,  [38;5;3mfijne [4menkeltjes[0m  en lage witte schoentjes en had lieve
+
+------------------------------------------------------------
+
+(19, 22, 24)        , zijden blouse , korte frotté rok ,  [38;5;3mwitte [4mkousen[0m  , fijne enkeltjes en lage witte
+
+------------------------------------------------------------
+
+(19, 18, 21)     , heelemaal in 't wit , zijden blouse ,  [38;5;3mkorte frotté [4mrok[0m  , witte kousen , fijne enkeltjes en
+
+------------------------------------------------------------
+
+(19, 15, 17)          dien zomer , heelemaal in 't wit ,  [38;5;3mzijden [4mblouse[0m  , korte frotté rok , witte kousen ,
+
+------------------------------------------------------------
+
+(19, 12, 14)           meisjes dien zomer , heelemaal in  [38;5;3m't [4mwit[0m  , zijden blouse , korte frotté rok ,
+
+------------------------------------------------------------
+
+(17, 3, 6)                aan je hoofd . Daar beneden in  [38;5;3mde Leidsche [4mstraat[0m  liep een meisje . Met vaderlijk
+
+------------------------------------------------------------
+
+(16, 5, 6)       spreken . Je had tegenwoordig niets dan  [38;5;3mnarigheid[0m  aan je hoofd . Daar beneden in de
+
+------------------------------------------------------------
+
+(8, 10, 11)          hield de God van Nederland niet van  [38;5;3mdichters[0m  . Je wist niet meer , wat je er aan had
+
+------------------------------------------------------------
+
+(6, 2, 4)           vest . 't Klopte niet . Ergens moest  [38;5;3meen [4mfout[0m  zijn . Een dichter met nergens haar ,
+
+------------------------------------------------------------
+
+(4, 20, 22)        grauwe bakkebaarden heen en weer over  [38;5;3mz'n [4mvest[0m  . 't Klopte niet . Ergens moest een
+
+------------------------------------------------------------
+
+(4, 12, 16)                    hoofd en tweemaal schoven  [38;5;3mz'n eerbiedwaardige grauwe [4mbakkebaarden[0m  heen en weer over z'n vest . 't Klopte
+
+------------------------------------------------------------
+
+Entirely missing or extra
+
+Missing:
+(24, 4, 5)         had -ie kwestie . 't Was begonnen met  [38;5;3mversjes[0m  over " wetende oogen . " Toen zei er
+
+(48, 14, 15)      had gekeken , zag hij er dadelijk weer  [38;5;3mtwee[0m  . Hij was zoo zwak , zoo lekker zwak .
+
+(68, 21, 29)        en van je baas z'n boekhouder en van  [38;5;3mden gérant van de " Nieuwe Karseboom "[0m  . De God van je tante , die zei , dat
+
+(87, 0, 1)         even z'n schouders op en keek naar de  [38;5;3mstationsklok[0m  . Tien minuten over zevenen . Hij
+
+(39, 8, 12)              hoedje lichtten -ie even op van  [38;5;3mzijn kort geknipte [4mharen[0m  . Raar toch , zoo kaal , maar 't was
+
+(64, 23, 26)             om in 't station te gaan , glom  [38;5;3mde lage avondzon[0m  in Gods gepoetsten linkerschoen . " Wie
+
+(60, 8, 10)       Weer groette -ie iemand , een heer met  [38;5;3mhoogen [4mhoed[0m  en gekleede jas , uit een stuk van
+
+(93, 18, 28)         't gevleugelde wiel , dat midden op  [38;5;3mde leuning van de hooge spoorbrug over de westelijke doorvaart[0m  op een kleine ijzeren zuil staat en
+
+(95, 11, 16)         met de booglampen , aan 't begin en  [38;5;3m't [4meind[0m[38;5;3m van de brug[0m  , staken hoog boven 't wieltje uit . 't
+
+(75, 14, 32)     van Surhuisterveen en Spekholzerheide ,  [38;5;3m[4mdonateur[0m[38;5;3m van den Bond van hoofden van groote gezinnen en van de Vereeniging tot opheffing van gevallen vrouwen[0m  . Dat noemen ze vallen . Ik ben ook
+
+(64, 27, 30)          te gaan , glom de lage avondzon in  [38;5;3mGods gepoetsten linkerschoen[0m  . " Wie was die meneer ? " vroeg 't
+
+(75, 19, 23)                 , donateur van den Bond van  [38;5;3mhoofden van groote gezinnen[0m  en van de Vereeniging tot opheffing van
+
+(93, 8, 10)      't Dichtertje liep naar huis en keek in  [38;5;3mde [4mhoogte[0m  naar 't gevleugelde wiel , dat midden
+
+(75, 25, 32)      van hoofden van groote gezinnen en van  [38;5;3mde Vereeniging tot opheffing van gevallen vrouwen[0m  . Dat noemen ze vallen . Ik ben ook
+
+(68, 25, 29)     z'n boekhouder en van den gérant van de  [38;5;3m" Nieuwe Karseboom "[0m  . De God van je tante , die zei , dat
+
+(84, 4, 6)                  had . Toen zag 't dichtertje  [38;5;3m't [4mstationsplein[0m  weer en den duivel en hoorde wat die
+
+(38, 2, 3)       en zoo verbrand door de zon . Hij groet  [38;5;3miemand[0m  . Z'n strooien hoedje lichtten -ie even
+
+(48, 4, 6)       verliefd moest worden . Als hij in twee  [38;5;3mwetende oogen[0m  had gekeken , zag hij er dadelijk weer
+
+(75, 21, 23)     , donateur van den Bond van hoofden van  [38;5;3mgroote [4mgezinnen[0m  en van de Vereeniging tot opheffing van
+
+(63, 1, 4)         't plein voor 't Centraalstation . Op  [38;5;3mden beganen grond[0m  liep God nu met z'n gelen strooien
+
+(93, 47, 48)     van z'n plaats komt en gezien wordt uit  [38;5;3mvertetjes[0m  waar 't nooit komt , wel heel van de
+
+(25, 3, 4)          over " wetende oogen . " Toen zei er  [38;5;3méén[0m  , dat 't allemaal bedrog was , een
+
+(63, 8, 12)       . Op den beganen grond liep God nu met  [38;5;3mz'n gelen strooien deukhoed[0m  , z'n wandelstok met zilveren greep ,
+
+(34, 1, 5)       had gezien of één , tienduizendmaal . "  [38;5;3mHeer in den hemel[0m  had hij al die meisjes geschapen ? Of
+
+(75, 16, 23)           en Spekholzerheide , donateur van  [38;5;3mden Bond van hoofden van groote gezinnen[0m  en van de Vereeniging tot opheffing van
+
+(95, 8, 10)       Zelfs de palen met de booglampen , aan  [38;5;3m't [4mbegin[0m  en 't eind van de brug , staken hoog
+
+Extra:
+(84, 4, 7)                  had . Toen zag 't dichtertje  [38;5;1m't stationsplein weer[0m  en den duivel en hoorde wat die gezegd
+
+(30, 10, 15)          had 't nog onlangs weer gezegd : "  [38;5;1mDer Tüchtigkeit ist die [4mWelt[0m  " . Maar als je eenmaal over iets aan
+
+(3, 0, 1)                . Bellum transit , amor manet .  [38;5;1mI.[0m  Tweemaal schudde de God van Nederland
+
+(63, 16, 18)      strooien deukhoed , z'n wandelstok met  [38;5;1mzilveren [4mgreep[0m  , z'n jas hing slobberig en breed en
+
+(55, 16, 19)      en dacht daarbij : " Mon âme prend son  [38;5;1mélan vers l'infini[0m  . " Potgieter zei dat de vent gek was
+(83, 5, 8)           't dichtertje . " Mon âme prend son  [38;5;1mélan vers l'infini[0m  , " zei de Duivel en glimlachte
+
+(75, 25, 27)      van hoofden van groote gezinnen en van  [38;5;1mde [4mVereeniging[0m  tot opheffing van gevallen vrouwen .
+
+(63, 1, 2)         't plein voor 't Centraalstation . Op  [38;5;1mden[0m  beganen grond liep God nu met z'n gelen
+
+(83, 17, 18)      zei de Duivel en glimlachte ironisch ,  [38;5;1mzooals[0m  hij een eeuwigheid lang geglimlacht had
+
+(98, 7, 9)        niet . En 't dichtertje dacht , dat je  [38;5;1mbeter [4mzoo'n[0m  wiel kunt wezen dan een dichtertje .
+
+(63, 10, 12)     beganen grond liep God nu met z'n gelen  [38;5;1mstrooien [4mdeukhoed[0m  , z'n wandelstok met zilveren greep ,
+
+(93, 47, 52)     van z'n plaats komt en gezien wordt uit  [38;5;1m[4mvertetjes[0m[38;5;1m waar 't nooit komt[0m  , wel heel van de Torensluis , 't
+
+(63, 8, 10)       . Op den beganen grond liep God nu met  [38;5;1mz'n [4mgelen[0m  strooien deukhoed , z'n wandelstok met
+
+(51, 5, 13)          in z'n hersens . Hij had al eens in  [38;5;1m't [4mvoorbijloopen[0m[38;5;1m op 't terras van een café[0m  een stoeltje omgeschopt van
+
+(18, 1, 3)         Leidsche straat liep een meisje . Met  [38;5;1mvaderlijk [4mwelgevallen[0m  zag God op haar neer . Het meisje was
+
+(93, 18, 20)         't gevleugelde wiel , dat midden op  [38;5;1mde [4mleuning[0m  van de hooge spoorbrug over de
+
+(68, 21, 23)        en van je baas z'n boekhouder en van  [38;5;1mden [4mgérant[0m  van de " Nieuwe Karseboom " . De God
+
+(64, 23, 29)             om in 't station te gaan , glom  [38;5;1mde lage [4mavondzon[0m[38;5;1m in Gods gepoetsten[0m  linkerschoen . " Wie was die meneer ? "
+
+(99, 4, 5)        dan een dichtertje . Zoo'n wiel is van  [38;5;1mijzer[0m  , maar een dichtertje niet .
+
+(37, 25, 30)         een paar stutten voor de ooren , en  [38;5;1mzoo verbrand door de zon[0m  . Hij groet iemand . Z'n strooien
+
+(75, 3, 8)           dan werken of vervelen . De God van  [38;5;1mNederland , van heel Nederland[0m  , van Surhuisterveen en Spekholzerheide
+
+(10, 9, 10)        of onfatsoenlijk , je kon er niet uit  [38;5;1mwijs[0m  . En nu dit . " Hij heeft gezegd , dat
+(11, 2, 3)             , je kon er niet uit wijs . En nu  [38;5;1mdit[0m  . " Hij heeft gezegd , dat hij vol van
+
+(17, 4, 5)             aan je hoofd . Daar beneden in de  [38;5;1mLeidsche[0m  straat liep een meisje . Met vaderlijk
+
+(99, 0, 1)          wiel kunt wezen dan een dichtertje .  [38;5;1mZoo'n[0m  wiel is van ijzer , maar een dichtertje
+
+(55, 12, 16)      dag keek -ie weer en dacht daarbij : "  [38;5;1mMon âme prend [4mson[0m  élan vers l'infini . " Potgieter zei
+(83, 1, 5)       " Nu vallen " , dacht 't dichtertje . "  [38;5;1mMon âme prend [4mson[0m  élan vers l'infini , " zei de Duivel en
+
+(22, 2, 3)             ze ook weer niet goed . Nooit had  [38;5;1mons[0m  Lieve Heer daar vroeger iets bij
+
+(52, 13, 14)      wel , dat ze niets wisten , dat ze dom  [38;5;1mgiggelden[0m  , alleen al als ie z'n hoed voor hen af
+
+(75, 16, 32)           en Spekholzerheide , donateur van  [38;5;1mden [4mBond[0m[38;5;1m van hoofden van groote gezinnen en van de Vereeniging tot opheffing van gevallen vrouwen[0m  . Dat noemen ze vallen . Ik ben ook
+
+(59, 1, 3)         de woestenijen van Amsterdam . Zoover  [38;5;1m't [4moog[0m  reikte , niets dan Nederlandsche
+
+(45, 4, 5)        -ie er van . Hij bleef fatsoenlijk van  [38;5;1mzwakte[0m  . Dat was weer zoo iets raars , waar
+
+(68, 24, 25)        z'n boekhouder en van den gérant van  [38;5;1mde[0m  " Nieuwe Karseboom " . De God van je
+
+(2, 3, 5)        't derde oorlogsjaar . Bellum transit ,  [38;5;1mamor manet[0m  . I. Tweemaal schudde de God van
+
+(34, 3, 5)          of één , tienduizendmaal . " Heer in  [38;5;1mden [4mhemel[0m  had hij al die meisjes geschapen ? Of
+
+(73, 21, 25)      vrij bent , de God van meneer Volmer ,  [38;5;1m[4mhoogleeraar[0m[38;5;1m in 't boekhouden[0m  en de bedrijfsleer , die vindt , dat je
+
+(75, 19, 32)                 , donateur van den Bond van  [38;5;1m[4mhoofden[0m[38;5;1m van groote gezinnen en van de Vereeniging tot opheffing van gevallen vrouwen[0m  . Dat noemen ze vallen . Ik ben ook
+
+(32, 11, 15)     er eenmaal op lette , zag ie honderde ,  [38;5;1mduizende [4mvan[0m[38;5;1m die meisjes[0m  , telkens weer anderen en telkens weer
+
+(7, 4, 5)        een fout zijn . Een dichter met nergens  [38;5;1mhaar[0m  , dat was heel vreemd . Sedert dertig
+
+(75, 10, 32)        Nederland , van heel Nederland , van  [38;5;1mSurhuisterveen en Spekholzerheide , donateur van den Bond van hoofden van groote gezinnen en van de Vereeniging tot opheffing van gevallen vrouwen[0m  . Dat noemen ze vallen . Ik ben ook
+
+(93, 8, 14)      't Dichtertje liep naar huis en keek in  [38;5;1mde hoogte naar 't gevleugelde wiel[0m  , dat midden op de leuning van de hooge
+
+(2, 0, 2)         DICHTERTJE . In 't derde oorlogsjaar .  [38;5;1mBellum transit[0m  , amor manet . I. Tweemaal schudde de
+
+(68, 26, 28)       boekhouder en van den gérant van de "  [38;5;1mNieuwe [4mKarseboom[0m  " . De God van je tante , die zei , dat
+
+(74, 10, 11)       allen die geen andere keus hebben dan  [38;5;1mwerken[0m  of vervelen . De God van Nederland ,
+
+(22, 6, 8)          goed . Nooit had ons Lieve Heer daar  [38;5;1m[4mvroeger[0m[38;5;1m iets[0m  bij gedacht . En nu had -ie kwestie .
+
+------------------------------------------------------------
+
