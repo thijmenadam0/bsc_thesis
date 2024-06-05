@@ -1,7 +1,9 @@
-#
-#
-#
-#
+# File name: gold_split.py
+# With a gold standard .conll file, a shortened .conll file and
+# a name for a file to write to. This program will create a shorter
+# version of a gold standard .conll file.
+# Author: Thijmen Adam
+# Date: 28-04-2024
 
 import sys
 from splitter import read_file

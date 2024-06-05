@@ -1,7 +1,9 @@
-#
-#
-#
-#
+# File name: spliter.py
+# This program splits a file based on the amount of lines given.
+# It takes a tokenized file, a desired amount of lines and
+# the name for the output file.
+# Author: Thijmen Adam
+# Date: 28-04-2024
 
 import sys
 
