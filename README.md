@@ -7,7 +7,6 @@ s4882067
 Rijksuniversiteit Groningen
 
 More details about the whole process can be found on the respective GitHub mentioned in each section.
--------------------------
 
 ## Obtaining and Processing data
 For this project data from OpenBoek is used (can be found here: https://github.com/andreasvc/openboek). In specific we are looking at the book _Dichtertje_ by Nescio. This book has already been tokenized so we will use this data for the project. First the data is split on lines accumulating by 100. It is manually done from 100 until 969 lines. Splitting the data is done with splitter.py and can be used as follows:
