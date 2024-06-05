@@ -1,11 +1,12 @@
 # Bachelor Thesis
+
 Thijmen Adam
+
 s4882067
+
 Rijksuniversiteit Groningen
-================================================
 
 More details about the whole process can be found on the respective GitHub mentioned in each section.
-
 -------------------------
 
 ## Obtaining and Processing data
