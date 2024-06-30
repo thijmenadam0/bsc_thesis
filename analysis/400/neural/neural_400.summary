@@ -1,0 +1,22 @@
+# Time of run:
+# Wed Jun 19 16:43:38 2024
+# Command:
+# berkeley-coreference-analyser/classify_coreference_errors.py bsc_thesis/analysis/400/neural/neural_400 bsc_thesis/corefs/400/gold/ bsc_thesis/corefs/400/test/Nescio_Dichtertje_neural.conll
+#
+Operations:
+     8   Correct Span
+   158   Introduce Mention
+   368   Split from Cluster
+   315   Merge into Cluster
+   206   Remove Mention
+
+Errors:
+     8   Span Error
+
+   112   Conflated Entities
+   100   Extra Mention
+    34   Extra Entity
+
+   121   Divided Entity
+    91   Missing Mention
+    20   Missing Entity

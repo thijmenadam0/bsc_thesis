@@ -1,0 +1,704 @@
+# Time of run:
+# Wed Jun 19 16:38:54 2024
+# Command:
+# berkeley-coreference-analyser/classify_coreference_errors.py bsc_thesis/analysis/100/neural/neural_100 bsc_thesis/corefs/100/gold/ bsc_thesis/corefs/100/test/Nescio_Dichtertje_neural.conll
+#
+
+-------------------------------------------------------------------------------
+Nescio_Dichtertje 000
+-------------------------------------------------------------------------------
+
+Span Errors: (system, gold)
+(35, 9, 13)    [38;5;15mal die wetende [4moogen[0m    (35, 10, 13)   [38;5;15mdie wetende oogen[0m    
+(73, 26, 28)   [38;5;15mde [4mbedrijfsleer[0m      (73, 21, 28)   [38;5;15mhoogleeraar in 't boekhouden en de [4mbedrijfsleer[0m
+(58, 2, 4)     [38;5;15m't [4mdichtertje[0m        (58, 3, 4)     [38;5;15mdichtertje[0m           
+(32, 13, 15)   [38;5;15mdie [4mmeisjes[0m          (32, 9, 15)    [38;5;15mhonderde , duizende van die meisjes[0m
+
+span mismatch ('span mismatch', ((35, 9, 13), (35, 10, 13), 'in the parse', 'al', None, None, None, 'VNW[onbep,det,stan,vrij,zonder]', None, None, None))
+span mismatch ('span mismatch', ((73, 26, 28), (73, 21, 28), 'in the parse', None, "hoogleeraar in 't boekhouden en", None, None, None, 'NP VG[neven]', None, None))
+span mismatch ('span mismatch', ((58, 2, 4), (58, 3, 4), 'in the parse', "'t", None, None, None, 'LID[bep,stan,evon]', None, None, None))
+span mismatch ('span mismatch', ((32, 13, 15), (32, 9, 15), 'in the parse', None, 'honderde , duizende van', None, None, None, 'TW[hoofd,nom,mv-n,basis] LET[] TW[hoofd,nom,mv-n,basis] VZ[init]', None, None))
+
+-------------------------------------------------------------------------------
+
+(4, 2, 6)      [38;5;3mde God [4mvan[0m[38;5;3m Nederland[0m
+(4, 6, 7)      [38;5;3mzijn[0m
+(4, 12, 13)    [38;5;3mz'n[0m
+(4, 20, 21)    [38;5;3mz'n[0m
+(5, 0, 1)      Extra:  [38;5;1m't[0m
+(8, 4, 8)      [38;5;3mde God [4mvan[0m[38;5;3m Nederland[0m
+(12, 1, 2)     [38;5;4mHij[0m
+(12, 6, 7)     [38;5;4mhij[0m
+(14, 0, 1)     [38;5;3mGod[0m
+(15, 0, 1)     [38;5;3mHij[0m
+(18, 4, 5)     [38;5;3mGod[0m
+(25, 15, 16)   [38;5;3mGod[0m
+(27, 2, 3)     [38;5;3mGod[0m
+(40, 16, 17)   [38;5;3mGod[0m
+(46, 8, 9)     [38;5;3mGod[0m
+(54, 19, 20)   [38;5;3mGod[0m
+(63, 5, 6)     [38;5;3mGod[0m
+(63, 8, 9)     [38;5;3mz'n[0m
+(63, 13, 14)   [38;5;3mz'n[0m
+(63, 19, 20)   [38;5;3mz'n[0m
+(63, 29, 30)   [38;5;3mz'n[0m
+(63, 33, 34)   [38;5;3mz'n[0m
+(63, 38, 39)   [38;5;3mz'n[0m
+(63, 51, 52)   [38;5;3mz'n[0m
+(64, 0, 1)     [38;5;3mZ'n[0m
+(64, 9, 10)    [38;5;3mie[0m
+(66, 1, 2)     [38;5;3mGod[0m
+(66, 10, 11)   [38;5;5mz'n[0m
+(68, 4, 6)     [38;5;3mde [4mGod[0m
+(68, 17, 18)   [38;5;6mz'n[0m
+(69, 0, 5)     Extra:  [38;5;1mDe God [4mvan[0m[38;5;1m je tante[0m
+(69, 29, 30)   Extra:  [38;5;1m't[0m
+(69, 44, 45)   Extra:  [38;5;1m't[0m
+(72, 0, 2)     Extra:  [38;5;1mDe [4mGod[0m
+(72, 49, 50)   [38;5;8mje[0m
+(73, 0, 2)     [38;5;3mDe [4mGod[0m
+(73, 3, 4)     [38;5;3mdie[0m
+(73, 9, 10)    [38;5;3mje[0m
+(73, 15, 20)   [38;5;3mde God [4mvan[0m[38;5;3m meneer Volmer[0m
+(73, 33, 34)   [38;5;8mje[0m
+(74, 1, 2)     Extra:  [38;5;1mGod[0m
+(75, 0, 2)     Extra:  [38;5;1mDe [4mGod[0m
+
+(9, 0, 1)      [38;5;10mJe[0m
+(9, 6, 7)      [38;5;10mje[0m
+(10, 4, 5)     [38;5;10mje[0m
+(16, 0, 1)     [38;5;10mJe[0m
+(16, 7, 8)     [38;5;10mje[0m
+(31, 2, 3)     [38;5;10mje[0m
+(31, 11, 12)   [38;5;10mje[0m
+(64, 3, 4)     Extra:  [38;5;1mje[0m
+(72, 16, 17)   [38;5;8mjou[0m
+(96, 5, 6)     [38;5;11mje[0m
+(97, 0, 1)     [38;5;11mJe[0m
+(98, 6, 7)     [38;5;11mje[0m
+
+(22, 2, 5)     [38;5;3mons Lieve Heer[0m
+(23, 3, 4)     [38;5;3m-ie[0m
+(28, 3, 4)     [38;5;3mhem[0m
+(32, 1, 2)     [38;5;3mie[0m
+(32, 8, 9)     [38;5;3mie[0m
+(33, 1, 2)     [38;5;3mie[0m
+(33, 7, 8)     [38;5;3mie[0m
+(34, 6, 7)     [38;5;3mhij[0m
+
+(35, 6, 8)     [38;5;5mden [4mduivel[0m
+(54, 21, 24)   Extra:  [38;5;1mden duivel tegelijk[0m
+(66, 4, 6)     [38;5;5mde [4mduivel[0m
+(83, 11, 13)   [38;5;5mde [4mDuivel[0m
+(83, 18, 19)   [38;5;5mhij[0m
+(84, 8, 10)    [38;5;5mden [4mduivel[0m
+(86, 0, 2)     [38;5;5mDe [4mduivel[0m
+(86, 4, 5)     [38;5;5mz'n[0m
+
+(36, 4, 6)     [38;5;8m't [4mdichtertje[0m
+(47, 0, 2)     [38;5;8m't [4mDichtertje[0m
+(58, 3, 4)     [38;5;8mdichtertje[0m
+(58, 4, 5)     [38;5;8mz'n[0m
+(65, 8, 10)    [38;5;8m't [4mdichtertje[0m
+(67, 0, 2)     [38;5;8m't [4mDichtertje[0m
+(78, 9, 11)    [38;5;8m't [4mdichtertje[0m
+(79, 0, 1)     [38;5;8mHij[0m
+(82, 6, 8)     [38;5;8m't [4mdichtertje[0m
+(84, 2, 4)     [38;5;8m't [4mdichtertje[0m
+(84, 13, 14)   [38;5;8mdie[0m
+(85, 4, 5)     [38;5;8m-ie[0m
+(85, 7, 8)     [38;5;8mmij[0m
+(89, 0, 1)     [38;5;5mHij[0m
+(89, 3, 4)     [38;5;5mz'n[0m
+(91, 3, 4)     [38;5;5m-ie[0m
+(92, 2, 3)     [38;5;5mie[0m
+(93, 0, 2)     [38;5;8m't [4mDichtertje[0m
+(96, 0, 1)     Extra:  [38;5;1m't[0m
+(98, 1, 3)     [38;5;8m't [4mdichtertje[0m
+
+(37, 2, 7)     [38;5;8meen knap , jong ventje[0m
+(38, 0, 1)     [38;5;8mHij[0m
+(38, 2, 3)     Extra:  [38;5;1miemand[0m
+(39, 0, 1)     [38;5;8mZ'n[0m
+(39, 4, 5)     [38;5;8m-ie[0m
+(39, 8, 9)     [38;5;8mzijn[0m
+(40, 7, 8)     Extra:  [38;5;1m't[0m
+(40, 12, 14)   [38;5;8meen [4mdichtertje[0m
+(40, 20, 21)   [38;5;8m'm[0m
+(42, 1, 2)     [38;5;12mhij[0m
+(44, 0, 1)     [38;5;8mHij[0m
+(44, 2, 5)     [38;5;8meen zwak [4mdichtertje[0m
+(44, 8, 9)     [38;5;8m-ie[0m
+(45, 0, 1)     [38;5;8mHij[0m
+(47, 6, 7)     [38;5;8mhij[0m
+(48, 1, 2)     [38;5;8mhij[0m
+(48, 10, 11)   [38;5;8mhij[0m
+(49, 0, 1)     [38;5;8mHij[0m
+(50, 2, 3)     [38;5;8mie[0m
+(50, 9, 10)    [38;5;8m-ie[0m
+(50, 14, 15)   [38;5;8mz'n[0m
+(51, 0, 1)     [38;5;8mHij[0m
+(52, 1, 2)     [38;5;8mhij[0m
+(52, 18, 19)   [38;5;8mie[0m
+(52, 19, 20)   [38;5;8mz'n[0m
+(53, 3, 4)     [38;5;8mie[0m
+(54, 3, 4)     [38;5;8mie[0m
+(54, 15, 16)   [38;5;8m-ie[0m
+(54, 27, 28)   [38;5;8m-ie[0m
+(54, 32, 33)   [38;5;8m-ie[0m
+(54, 50, 51)   [38;5;8m-ie[0m
+(55, 5, 6)     [38;5;8m-ie[0m
+(60, 2, 3)     [38;5;8m-ie[0m
+(98, 13, 15)   [38;5;13meen [4mdichtertje[0m
+(99, 0, 2)     [38;5;14mZoo'n [4mwiel[0m
+(99, 7, 9)     [38;5;13meen [4mdichtertje[0m
+
+(68, 1, 2)     [38;5;8mJouw[0m
+(68, 1, 3)     [38;5;3mJouw [4mGod[0m
+(68, 7, 8)     [38;5;8mje[0m
+(68, 11, 12)   [38;5;8mje[0m
+(68, 15, 16)   [38;5;8mje[0m
+(69, 3, 4)     [38;5;8mje[0m
+(69, 10, 11)   [38;5;8mje[0m
+(69, 14, 15)   [38;5;8mje[0m
+(69, 19, 20)   [38;5;8mje[0m
+(69, 36, 37)   [38;5;8mje[0m
+(69, 39, 40)   [38;5;8mje[0m
+(70, 1, 2)     [38;5;8mje[0m
+(70, 5, 6)     [38;5;8mje[0m
+
+(68, 7, 9)     [38;5;6mje [4mbaas[0m
+(68, 15, 17)   [38;5;6mje [4mbaas[0m
+(69, 19, 21)   [38;5;6mje [4mbaas[0m
+
+(93, 11, 14)   [38;5;14m't gevleugelde [4mwiel[0m
+(93, 15, 16)   [38;5;14mdat[0m
+(93, 40, 41)   [38;5;14mz'n[0m
+(93, 49, 50)   [38;5;14m't[0m
+
+Missing:
+(13, 2, 3)     [38;5;10mje[0m
+(0, 0, 1)      [38;5;8mDICHTERTJE[0m
+(56, 3, 5)     [38;5;8mde [4mvent[0m
+(72, 22, 23)   [38;5;8mje[0m
+(43, 0, 2)     [38;5;5mDe duivel[0m
+(54, 21, 23)   [38;5;5mden [4mduivel[0m
+(77, 0, 1)     [38;5;5mIk[0m
+(85, 1, 2)     [38;5;5mDuivel[0m
+(85, 9, 10)    [38;5;5mje[0m
+(7, 0, 5)      [38;5;4mEen dichter [4mmet[0m[38;5;4m nergens haar[0m
+(12, 9, 10)    [38;5;3mmij[0m
+(64, 27, 28)   [38;5;3mGods[0m
+(69, 0, 2)     [38;5;3mDe [4mGod[0m
+(72, 0, 6)     [38;5;3mDe God [4mvan[0m[38;5;3m al die menschen[0m
+(74, 0, 4)     [38;5;3mDe God van allen[0m
+(75, 0, 4)     [38;5;3mDe God [4mvan[0m[38;5;3m Nederland[0m
+(95, 20, 22)   [38;5;14m't [4mwieltje[0m
+(98, 8, 10)    [38;5;14mzoo'n wiel[0m
+(41, 1, 3)     [38;5;12mprofessor Volmer[0m
+
+Raw changes:
+split 29
+remove 12
+introduce 19
+merge 37
+
+Categorised:
+11 Conflated Entities
+13 Divided Entity
+12 Extra Mention
+16 Missing Mention
+
+Detailed error listing:
+split ({(97, 0, 1), (96, 5, 6), (98, 6, 7)}, {(9, 6, 7), (16, 0, 1), (31, 2, 3), (31, 11, 12), (64, 3, 4), (72, 16, 17), (97, 0, 1), (10, 4, 5), (98, 6, 7), (16, 7, 8), (96, 5, 6), (9, 0, 1)}, '', ['split', 3, 9, None, '0_cataphoric', 0, 3, 0, 0, 9, 0, False, False, 'string_match', 'head_match', 'nothing', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_'])
+Properties included: split ['split', 3, 9, None, '0_cataphoric', 0, 3, 0, 0, 9, 0, False, False, 'string_match', 'head_match', 'nothing', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']
+split (72, 16, 17)   [38;5;8mjou[0m
+split ({(72, 16, 17)}, {(9, 6, 7), (16, 0, 1), (31, 2, 3), (31, 11, 12), (64, 3, 4), (72, 16, 17), (97, 0, 1), (10, 4, 5), (98, 6, 7), (16, 7, 8), (96, 5, 6), (9, 0, 1)}, '', ['split', 1, 11, 'jou', '0_cataphoric', 0, 1, 0, 0, 11, 0, False, False, 'no_string_match', 'no_head_match', 'merge', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_'])
+Properties included: split ['split', 1, 11, 'jou', '0_cataphoric', 0, 1, 0, 0, 11, 0, False, False, 'no_string_match', 'no_head_match', 'merge', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']
+split ({(73, 33, 34), (72, 49, 50)}, {(63, 13, 14), (18, 4, 5), (54, 19, 20), (73, 3, 4), (5, 0, 1), (66, 1, 2), (72, 0, 2), (4, 6, 7), (66, 10, 11), (73, 0, 2), (72, 49, 50), (63, 19, 20), (64, 0, 1), (8, 4, 8), (4, 20, 21), (63, 5, 6), (63, 51, 52), (64, 9, 10), (69, 29, 30), (14, 0, 1), (12, 1, 2), (63, 33, 34), (69, 0, 5), (4, 2, 6), (69, 44, 45), (27, 2, 3), (63, 29, 30), (12, 6, 7), (63, 38, 39), (73, 15, 20), (74, 1, 2), (73, 9, 10), (4, 12, 13), (25, 15, 16), (40, 16, 17), (68, 4, 6), (73, 33, 34), (68, 17, 18), (75, 0, 2), (63, 8, 9), (15, 0, 1), (46, 8, 9)}, '', ['split', 2, 40, None, '0_cataphoric', 0, 2, 0, 0, 40, 0, False, False, 'string_match', 'head_match', 'merge', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_'])
+Properties included: split ['split', 2, 40, None, '0_cataphoric', 0, 2, 0, 0, 40, 0, False, False, 'string_match', 'head_match', 'merge', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']
+split (68, 17, 18)   [38;5;6mz'n[0m
+split ({(68, 17, 18)}, {(63, 13, 14), (18, 4, 5), (54, 19, 20), (73, 3, 4), (5, 0, 1), (66, 1, 2), (72, 0, 2), (4, 6, 7), (66, 10, 11), (73, 0, 2), (72, 49, 50), (63, 19, 20), (64, 0, 1), (8, 4, 8), (4, 20, 21), (63, 5, 6), (63, 51, 52), (64, 9, 10), (69, 29, 30), (14, 0, 1), (12, 1, 2), (63, 33, 34), (69, 0, 5), (4, 2, 6), (69, 44, 45), (27, 2, 3), (63, 29, 30), (12, 6, 7), (63, 38, 39), (73, 15, 20), (74, 1, 2), (73, 9, 10), (4, 12, 13), (25, 15, 16), (40, 16, 17), (68, 4, 6), (73, 33, 34), (68, 17, 18), (75, 0, 2), (63, 8, 9), (15, 0, 1), (46, 8, 9)}, '', ['split', 1, 41, "z'n", '0_cataphoric', 0, 1, 0, 0, 41, 0, False, False, 'string_match', 'head_match', 'merge', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_'])
+Properties included: split ['split', 1, 41, "z'n", '0_cataphoric', 0, 1, 0, 0, 41, 0, False, False, 'string_match', 'head_match', 'merge', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']
+split (66, 10, 11)   [38;5;5mz'n[0m
+split ({(66, 10, 11)}, {(63, 13, 14), (18, 4, 5), (54, 19, 20), (73, 3, 4), (5, 0, 1), (66, 1, 2), (72, 0, 2), (4, 6, 7), (66, 10, 11), (73, 0, 2), (72, 49, 50), (63, 19, 20), (64, 0, 1), (8, 4, 8), (4, 20, 21), (63, 5, 6), (63, 51, 52), (64, 9, 10), (69, 29, 30), (14, 0, 1), (12, 1, 2), (63, 33, 34), (69, 0, 5), (4, 2, 6), (69, 44, 45), (27, 2, 3), (63, 29, 30), (12, 6, 7), (63, 38, 39), (73, 15, 20), (74, 1, 2), (73, 9, 10), (4, 12, 13), (25, 15, 16), (40, 16, 17), (68, 4, 6), (73, 33, 34), (68, 17, 18), (75, 0, 2), (63, 8, 9), (15, 0, 1), (46, 8, 9)}, '', ['split', 1, 41, "z'n", '0_cataphoric', 0, 1, 0, 0, 41, 0, False, False, 'string_match', 'head_match', 'merge', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_'])
+Properties included: split ['split', 1, 41, "z'n", '0_cataphoric', 0, 1, 0, 0, 41, 0, False, False, 'string_match', 'head_match', 'merge', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']
+split ({(12, 1, 2), (12, 6, 7)}, {(63, 13, 14), (18, 4, 5), (54, 19, 20), (73, 3, 4), (5, 0, 1), (66, 1, 2), (72, 0, 2), (4, 6, 7), (66, 10, 11), (73, 0, 2), (72, 49, 50), (63, 19, 20), (64, 0, 1), (8, 4, 8), (4, 20, 21), (63, 5, 6), (63, 51, 52), (64, 9, 10), (69, 29, 30), (14, 0, 1), (12, 1, 2), (63, 33, 34), (69, 0, 5), (4, 2, 6), (69, 44, 45), (27, 2, 3), (63, 29, 30), (12, 6, 7), (63, 38, 39), (73, 15, 20), (74, 1, 2), (73, 9, 10), (4, 12, 13), (25, 15, 16), (40, 16, 17), (68, 4, 6), (73, 33, 34), (68, 17, 18), (75, 0, 2), (63, 8, 9), (15, 0, 1), (46, 8, 9)}, '', ['split', 2, 40, None, '0_cataphoric', 0, 2, 0, 0, 40, 0, False, False, 'string_match', 'head_match', 'merge', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_'])
+Properties included: split ['split', 2, 40, None, '0_cataphoric', 0, 2, 0, 0, 40, 0, False, False, 'string_match', 'head_match', 'merge', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']
+split (68, 1, 3)     [38;5;3mJouw [4mGod[0m
+split ({(68, 1, 3)}, {(68, 11, 12), (68, 15, 16), (68, 7, 8), (69, 14, 15), (69, 39, 40), (69, 19, 20), (68, 1, 3), (69, 36, 37), (70, 5, 6), (68, 1, 2), (69, 3, 4), (69, 10, 11), (70, 1, 2)}, '', ['split', 1, 12, 'jouw_god', '0_cataphoric', 0, 1, 0, 0, 12, 0, False, False, 'no_string_match', 'no_head_match', 'merge', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_'])
+Properties included: split ['split', 1, 12, 'jouw_god', '0_cataphoric', 0, 1, 0, 0, 12, 0, False, False, 'no_string_match', 'no_head_match', 'merge', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']
+split (99, 0, 2)     [38;5;14mZoo'n [4mwiel[0m
+split ({(99, 0, 2)}, {(42, 1, 2), (60, 2, 3), (99, 0, 2), (39, 0, 1), (50, 14, 15), (54, 15, 16), (55, 5, 6), (52, 18, 19), (47, 6, 7), (50, 9, 10), (51, 0, 1), (38, 0, 1), (52, 19, 20), (40, 20, 21), (49, 0, 1), (40, 12, 14), (37, 2, 7), (53, 3, 4), (52, 1, 2), (50, 2, 3), (99, 7, 9), (48, 10, 11), (38, 2, 3), (45, 0, 1), (54, 3, 4), (40, 7, 8), (44, 8, 9), (48, 1, 2), (54, 27, 28), (54, 32, 33), (44, 2, 5), (98, 13, 15), (54, 50, 51), (39, 8, 9), (39, 4, 5), (44, 0, 1)}, '', ['split', 1, 35, "zoo'n_wiel", '0_cataphoric', 0, 1, 0, 0, 35, 0, False, False, 'no_string_match', 'no_head_match', 'merge', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_'])
+Properties included: split ['split', 1, 35, "zoo'n_wiel", '0_cataphoric', 0, 1, 0, 0, 35, 0, False, False, 'no_string_match', 'no_head_match', 'merge', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']
+split ({(99, 7, 9), (98, 13, 15)}, {(42, 1, 2), (60, 2, 3), (99, 0, 2), (39, 0, 1), (50, 14, 15), (54, 15, 16), (55, 5, 6), (52, 18, 19), (47, 6, 7), (50, 9, 10), (51, 0, 1), (38, 0, 1), (52, 19, 20), (40, 20, 21), (49, 0, 1), (40, 12, 14), (37, 2, 7), (53, 3, 4), (52, 1, 2), (50, 2, 3), (99, 7, 9), (48, 10, 11), (38, 2, 3), (45, 0, 1), (54, 3, 4), (40, 7, 8), (44, 8, 9), (48, 1, 2), (54, 27, 28), (54, 32, 33), (44, 2, 5), (98, 13, 15), (54, 50, 51), (39, 8, 9), (39, 4, 5), (44, 0, 1)}, '', ['split', 2, 34, None, '0_cataphoric', 0, 2, 0, 0, 34, 0, False, False, 'string_match', 'head_match', 'nothing', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_'])
+Properties included: split ['split', 2, 34, None, '0_cataphoric', 0, 2, 0, 0, 34, 0, False, False, 'string_match', 'head_match', 'nothing', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']
+split (42, 1, 2)     [38;5;12mhij[0m
+split ({(42, 1, 2)}, {(42, 1, 2), (60, 2, 3), (99, 0, 2), (39, 0, 1), (50, 14, 15), (54, 15, 16), (55, 5, 6), (52, 18, 19), (47, 6, 7), (50, 9, 10), (51, 0, 1), (38, 0, 1), (52, 19, 20), (40, 20, 21), (49, 0, 1), (40, 12, 14), (37, 2, 7), (53, 3, 4), (52, 1, 2), (50, 2, 3), (99, 7, 9), (48, 10, 11), (38, 2, 3), (45, 0, 1), (54, 3, 4), (40, 7, 8), (44, 8, 9), (48, 1, 2), (54, 27, 28), (54, 32, 33), (44, 2, 5), (98, 13, 15), (54, 50, 51), (39, 8, 9), (39, 4, 5), (44, 0, 1)}, '', ['split', 1, 35, 'hij', '0_cataphoric', 0, 1, 0, 0, 35, 0, False, False, 'string_match', 'head_match', 'merge', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_'])
+Properties included: split ['split', 1, 35, 'hij', '0_cataphoric', 0, 1, 0, 0, 35, 0, False, False, 'string_match', 'head_match', 'merge', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']
+split ({(91, 3, 4), (89, 3, 4), (92, 2, 3), (89, 0, 1)}, {(84, 13, 14), (91, 3, 4), (89, 3, 4), (85, 4, 5), (78, 9, 11), (85, 7, 8), (92, 2, 3), (79, 0, 1), (58, 4, 5), (67, 0, 2), (96, 0, 1), (98, 1, 3), (84, 2, 4), (47, 0, 2), (82, 6, 8), (58, 3, 4), (65, 8, 10), (36, 4, 6), (89, 0, 1), (93, 0, 2)}, '', ['split', 4, 16, None, '0_cataphoric', 0, 4, 0, 0, 16, 0, False, False, 'string_match', 'head_match', 'merge', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_'])
+Properties included: split ['split', 4, 16, None, '0_cataphoric', 0, 4, 0, 0, 16, 0, False, False, 'string_match', 'head_match', 'merge', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']
+merge (72, 16, 17)   [38;5;8mjou[0m
+merge ({(72, 16, 17)}, {(60, 2, 3), (84, 13, 14), (39, 0, 1), (50, 14, 15), (54, 15, 16), (72, 16, 17), (55, 5, 6), (85, 7, 8), (52, 18, 19), (47, 6, 7), (50, 9, 10), (0, 0, 1), (51, 0, 1), (38, 0, 1), (58, 4, 5), (67, 0, 2), (68, 15, 16), (72, 49, 50), (98, 1, 3), (84, 2, 4), (69, 39, 40), (47, 0, 2), (52, 19, 20), (56, 3, 5), (40, 20, 21), (65, 8, 10), (72, 22, 23), (49, 0, 1), (68, 1, 2), (40, 12, 14), (69, 3, 4), (37, 2, 7), (53, 3, 4), (93, 0, 2), (52, 1, 2), (50, 2, 3), (68, 11, 12), (48, 10, 11), (68, 7, 8), (45, 0, 1), (54, 3, 4), (85, 4, 5), (69, 19, 20), (78, 9, 11), (69, 36, 37), (44, 8, 9), (48, 1, 2), (70, 1, 2), (73, 33, 34), (79, 0, 1), (54, 27, 28), (54, 32, 33), (69, 14, 15), (44, 2, 5), (54, 50, 51), (39, 8, 9), (58, 3, 4), (70, 5, 6), (82, 6, 8), (69, 10, 11), (36, 4, 6), (39, 4, 5), (44, 0, 1)}, ['merge', 1, 62, 'jou', '0_cataphoric', 0, 1, 0, 0, 62, 0, False, False, 'no_string_match', 'no_head_match', 'merge', 'split', False, 'part_', 'cluster_ORG', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_'])
+Properties included: merge ['merge', 1, 62, 'jou', '0_cataphoric', 0, 1, 0, 0, 62, 0, False, False, 'no_string_match', 'no_head_match', 'merge', 'split', False, 'part_', 'cluster_ORG', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']
+merge ({(73, 33, 34), (72, 49, 50)}, {(60, 2, 3), (84, 13, 14), (39, 0, 1), (50, 14, 15), (54, 15, 16), (72, 16, 17), (55, 5, 6), (85, 7, 8), (52, 18, 19), (47, 6, 7), (50, 9, 10), (0, 0, 1), (51, 0, 1), (38, 0, 1), (58, 4, 5), (67, 0, 2), (68, 15, 16), (72, 49, 50), (98, 1, 3), (84, 2, 4), (69, 39, 40), (47, 0, 2), (52, 19, 20), (56, 3, 5), (40, 20, 21), (65, 8, 10), (72, 22, 23), (49, 0, 1), (68, 1, 2), (40, 12, 14), (69, 3, 4), (37, 2, 7), (53, 3, 4), (93, 0, 2), (52, 1, 2), (50, 2, 3), (68, 11, 12), (48, 10, 11), (68, 7, 8), (45, 0, 1), (54, 3, 4), (85, 4, 5), (69, 19, 20), (78, 9, 11), (69, 36, 37), (44, 8, 9), (48, 1, 2), (70, 1, 2), (73, 33, 34), (79, 0, 1), (54, 27, 28), (54, 32, 33), (69, 14, 15), (44, 2, 5), (54, 50, 51), (39, 8, 9), (58, 3, 4), (70, 5, 6), (82, 6, 8), (69, 10, 11), (36, 4, 6), (39, 4, 5), (44, 0, 1)}, ['merge', 2, 61, None, '0_cataphoric', 0, 2, 0, 0, 61, 0, False, False, 'string_match', 'head_match', 'merge', 'split', False, 'part_', 'cluster_ORG', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_'])
+Properties included: merge ['merge', 2, 61, None, '0_cataphoric', 0, 2, 0, 0, 61, 0, False, False, 'string_match', 'head_match', 'merge', 'split', False, 'part_', 'cluster_ORG', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']
+merge ({(68, 11, 12), (68, 15, 16), (68, 7, 8), (69, 14, 15), (69, 39, 40), (70, 5, 6), (69, 36, 37), (68, 1, 2), (69, 19, 20), (69, 3, 4), (69, 10, 11), (70, 1, 2)}, {(60, 2, 3), (84, 13, 14), (39, 0, 1), (50, 14, 15), (54, 15, 16), (72, 16, 17), (55, 5, 6), (85, 7, 8), (52, 18, 19), (47, 6, 7), (50, 9, 10), (0, 0, 1), (51, 0, 1), (38, 0, 1), (58, 4, 5), (67, 0, 2), (68, 15, 16), (72, 49, 50), (98, 1, 3), (84, 2, 4), (69, 39, 40), (47, 0, 2), (52, 19, 20), (56, 3, 5), (40, 20, 21), (65, 8, 10), (72, 22, 23), (49, 0, 1), (68, 1, 2), (40, 12, 14), (69, 3, 4), (37, 2, 7), (53, 3, 4), (93, 0, 2), (52, 1, 2), (50, 2, 3), (68, 11, 12), (48, 10, 11), (68, 7, 8), (45, 0, 1), (54, 3, 4), (85, 4, 5), (69, 19, 20), (78, 9, 11), (69, 36, 37), (44, 8, 9), (48, 1, 2), (70, 1, 2), (73, 33, 34), (79, 0, 1), (54, 27, 28), (54, 32, 33), (69, 14, 15), (44, 2, 5), (54, 50, 51), (39, 8, 9), (58, 3, 4), (70, 5, 6), (82, 6, 8), (69, 10, 11), (36, 4, 6), (39, 4, 5), (44, 0, 1)}, ['merge', 12, 51, None, '0_cataphoric', 0, 12, 0, 0, 51, 0, False, False, 'string_match', 'head_match', 'merge', 'split', False, 'part_', 'cluster_ORG', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_'])
+Properties included: merge ['merge', 12, 51, None, '0_cataphoric', 0, 12, 0, 0, 51, 0, False, False, 'string_match', 'head_match', 'merge', 'split', False, 'part_', 'cluster_ORG', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']
+merge ({(52, 1, 2), (50, 2, 3), (60, 2, 3), (48, 10, 11), (45, 0, 1), (54, 3, 4), (39, 0, 1), (50, 14, 15), (54, 15, 16), (55, 5, 6), (44, 8, 9), (52, 18, 19), (48, 1, 2), (47, 6, 7), (50, 9, 10), (54, 27, 28), (37, 2, 7), (51, 0, 1), (38, 0, 1), (54, 32, 33), (44, 2, 5), (52, 19, 20), (54, 50, 51), (39, 8, 9), (40, 20, 21), (49, 0, 1), (40, 12, 14), (53, 3, 4), (39, 4, 5), (44, 0, 1)}, {(60, 2, 3), (84, 13, 14), (39, 0, 1), (50, 14, 15), (54, 15, 16), (72, 16, 17), (55, 5, 6), (85, 7, 8), (52, 18, 19), (47, 6, 7), (50, 9, 10), (0, 0, 1), (51, 0, 1), (38, 0, 1), (58, 4, 5), (67, 0, 2), (68, 15, 16), (72, 49, 50), (98, 1, 3), (84, 2, 4), (69, 39, 40), (47, 0, 2), (52, 19, 20), (56, 3, 5), (40, 20, 21), (65, 8, 10), (72, 22, 23), (49, 0, 1), (68, 1, 2), (40, 12, 14), (69, 3, 4), (37, 2, 7), (53, 3, 4), (93, 0, 2), (52, 1, 2), (50, 2, 3), (68, 11, 12), (48, 10, 11), (68, 7, 8), (45, 0, 1), (54, 3, 4), (85, 4, 5), (69, 19, 20), (78, 9, 11), (69, 36, 37), (44, 8, 9), (48, 1, 2), (70, 1, 2), (73, 33, 34), (79, 0, 1), (54, 27, 28), (54, 32, 33), (69, 14, 15), (44, 2, 5), (54, 50, 51), (39, 8, 9), (58, 3, 4), (70, 5, 6), (82, 6, 8), (69, 10, 11), (36, 4, 6), (39, 4, 5), (44, 0, 1)}, ['merge', 30, 33, None, '0_cataphoric', 0, 30, 0, 0, 33, 0, False, False, 'string_match', 'head_match', 'merge', 'split', False, 'part_', 'cluster_ORG', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_'])
+Properties included: merge ['merge', 30, 33, None, '0_cataphoric', 0, 30, 0, 0, 33, 0, False, False, 'string_match', 'head_match', 'merge', 'split', False, 'part_', 'cluster_ORG', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']
+merge ({(67, 0, 2), (98, 1, 3), (84, 13, 14), (84, 2, 4), (85, 4, 5), (47, 0, 2), (85, 7, 8), (78, 9, 11), (82, 6, 8), (65, 8, 10), (58, 3, 4), (36, 4, 6), (79, 0, 1), (58, 4, 5), (93, 0, 2)}, {(60, 2, 3), (84, 13, 14), (39, 0, 1), (50, 14, 15), (54, 15, 16), (72, 16, 17), (55, 5, 6), (85, 7, 8), (52, 18, 19), (47, 6, 7), (50, 9, 10), (0, 0, 1), (51, 0, 1), (38, 0, 1), (58, 4, 5), (67, 0, 2), (68, 15, 16), (72, 49, 50), (98, 1, 3), (84, 2, 4), (69, 39, 40), (47, 0, 2), (52, 19, 20), (56, 3, 5), (40, 20, 21), (65, 8, 10), (72, 22, 23), (49, 0, 1), (68, 1, 2), (40, 12, 14), (69, 3, 4), (37, 2, 7), (53, 3, 4), (93, 0, 2), (52, 1, 2), (50, 2, 3), (68, 11, 12), (48, 10, 11), (68, 7, 8), (45, 0, 1), (54, 3, 4), (85, 4, 5), (69, 19, 20), (78, 9, 11), (69, 36, 37), (44, 8, 9), (48, 1, 2), (70, 1, 2), (73, 33, 34), (79, 0, 1), (54, 27, 28), (54, 32, 33), (69, 14, 15), (44, 2, 5), (54, 50, 51), (39, 8, 9), (58, 3, 4), (70, 5, 6), (82, 6, 8), (69, 10, 11), (36, 4, 6), (39, 4, 5), (44, 0, 1)}, ['merge', 15, 48, None, '0_cataphoric', 0, 15, 0, 0, 48, 0, False, False, 'string_match', 'head_match', 'merge', 'split', False, 'part_', 'cluster_ORG', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_'])
+Properties included: merge ['merge', 15, 48, None, '0_cataphoric', 0, 15, 0, 0, 48, 0, False, False, 'string_match', 'head_match', 'merge', 'split', False, 'part_', 'cluster_ORG', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']
+merge (68, 17, 18)   [38;5;6mz'n[0m
+merge ({(68, 17, 18)}, {(69, 19, 21), (68, 7, 9), (68, 15, 17), (68, 17, 18)}, ['merge', 1, 3, "z'n", '0_cataphoric', 0, 1, 0, 0, 3, 0, False, False, 'no_string_match', 'no_head_match', 'merge', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_'])
+Properties included: merge ['merge', 1, 3, "z'n", '0_cataphoric', 0, 1, 0, 0, 3, 0, False, False, 'no_string_match', 'no_head_match', 'merge', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']
+merge (66, 10, 11)   [38;5;5mz'n[0m
+merge ({(66, 10, 11)}, {(85, 9, 10), (77, 0, 1), (66, 4, 6), (91, 3, 4), (43, 0, 2), (89, 3, 4), (84, 8, 10), (83, 11, 13), (92, 2, 3), (86, 4, 5), (35, 6, 8), (66, 10, 11), (54, 21, 23), (85, 1, 2), (83, 18, 19), (86, 0, 2), (89, 0, 1)}, ['merge', 1, 16, "z'n", '0_cataphoric', 0, 1, 0, 0, 16, 0, False, False, 'string_match', 'head_match', 'merge', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_'])
+Properties included: merge ['merge', 1, 16, "z'n", '0_cataphoric', 0, 1, 0, 0, 16, 0, False, False, 'string_match', 'head_match', 'merge', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']
+merge ({(91, 3, 4), (89, 3, 4), (92, 2, 3), (89, 0, 1)}, {(85, 9, 10), (77, 0, 1), (66, 4, 6), (91, 3, 4), (43, 0, 2), (89, 3, 4), (84, 8, 10), (83, 11, 13), (92, 2, 3), (86, 4, 5), (35, 6, 8), (66, 10, 11), (54, 21, 23), (85, 1, 2), (83, 18, 19), (86, 0, 2), (89, 0, 1)}, ['merge', 4, 13, None, '0_cataphoric', 0, 4, 0, 0, 13, 0, False, False, 'string_match', 'head_match', 'merge', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_'])
+Properties included: merge ['merge', 4, 13, None, '0_cataphoric', 0, 4, 0, 0, 13, 0, False, False, 'string_match', 'head_match', 'merge', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']
+merge ({(12, 1, 2), (12, 6, 7)}, {(12, 1, 2), (7, 0, 5), (12, 6, 7)}, ['merge', 2, 1, None, '0_cataphoric', 0, 2, 0, 0, 1, 0, False, False, 'no_string_match', 'no_head_match', 'merge', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_'])
+Properties included: merge ['merge', 2, 1, None, '0_cataphoric', 0, 2, 0, 0, 1, 0, False, False, 'no_string_match', 'no_head_match', 'merge', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']
+merge ({(33, 1, 2), (33, 7, 8), (23, 3, 4), (32, 1, 2), (22, 2, 5), (34, 6, 7), (32, 8, 9), (28, 3, 4)}, {(63, 13, 14), (18, 4, 5), (33, 7, 8), (54, 19, 20), (73, 3, 4), (68, 1, 3), (66, 1, 2), (64, 27, 28), (4, 6, 7), (73, 0, 2), (32, 8, 9), (12, 9, 10), (75, 0, 4), (63, 19, 20), (64, 0, 1), (8, 4, 8), (4, 20, 21), (63, 5, 6), (23, 3, 4), (63, 51, 52), (64, 9, 10), (74, 0, 4), (69, 0, 2), (14, 0, 1), (22, 2, 5), (63, 33, 34), (4, 2, 6), (27, 2, 3), (63, 29, 30), (63, 38, 39), (73, 15, 20), (73, 9, 10), (4, 12, 13), (25, 15, 16), (40, 16, 17), (34, 6, 7), (68, 4, 6), (28, 3, 4), (33, 1, 2), (72, 0, 6), (32, 1, 2), (63, 8, 9), (15, 0, 1), (46, 8, 9)}, ['merge', 8, 36, None, '0_cataphoric', 0, 8, 0, 0, 36, 0, False, False, 'string_match', 'head_match', 'merge', 'nothing', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_'])
+Properties included: merge ['merge', 8, 36, None, '0_cataphoric', 0, 8, 0, 0, 36, 0, False, False, 'string_match', 'head_match', 'merge', 'nothing', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']
+merge (68, 1, 3)     [38;5;3mJouw [4mGod[0m
+merge ({(68, 1, 3)}, {(63, 13, 14), (18, 4, 5), (33, 7, 8), (54, 19, 20), (73, 3, 4), (68, 1, 3), (66, 1, 2), (64, 27, 28), (4, 6, 7), (73, 0, 2), (32, 8, 9), (12, 9, 10), (75, 0, 4), (63, 19, 20), (64, 0, 1), (8, 4, 8), (4, 20, 21), (63, 5, 6), (23, 3, 4), (63, 51, 52), (64, 9, 10), (74, 0, 4), (69, 0, 2), (14, 0, 1), (22, 2, 5), (63, 33, 34), (4, 2, 6), (27, 2, 3), (63, 29, 30), (63, 38, 39), (73, 15, 20), (73, 9, 10), (4, 12, 13), (25, 15, 16), (40, 16, 17), (34, 6, 7), (68, 4, 6), (28, 3, 4), (33, 1, 2), (72, 0, 6), (32, 1, 2), (63, 8, 9), (15, 0, 1), (46, 8, 9)}, ['merge', 1, 43, 'jouw_god', '0_cataphoric', 0, 1, 0, 0, 43, 0, False, False, 'no_string_match', 'head_match', 'merge', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_'])
+Properties included: merge ['merge', 1, 43, 'jouw_god', '0_cataphoric', 0, 1, 0, 0, 43, 0, False, False, 'no_string_match', 'head_match', 'merge', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']
+merge (99, 0, 2)     [38;5;14mZoo'n [4mwiel[0m
+merge ({(99, 0, 2)}, {(98, 8, 10), (93, 49, 50), (99, 0, 2), (93, 40, 41), (93, 11, 14), (95, 20, 22), (93, 15, 16)}, ['merge', 1, 6, "zoo'n_wiel", '0_cataphoric', 0, 1, 0, 0, 6, 0, False, False, 'string_match', 'head_match', 'merge', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_'])
+Properties included: merge ['merge', 1, 6, "zoo'n_wiel", '0_cataphoric', 0, 1, 0, 0, 6, 0, False, False, 'string_match', 'head_match', 'merge', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']
+merge (42, 1, 2)     [38;5;12mhij[0m
+merge ({(42, 1, 2)}, {(42, 1, 2), (41, 1, 3)}, ['merge', 1, 1, 'hij', '0_cataphoric', 0, 1, 0, 0, 1, 0, False, False, 'no_string_match', 'no_head_match', 'merge', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_'])
+Properties included: merge ['merge', 1, 1, 'hij', '0_cataphoric', 0, 1, 0, 0, 1, 0, False, False, 'no_string_match', 'no_head_match', 'merge', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']
+extra mention (64, 3, 4)     Extra:  [38;5;1mje[0m
+extra mention ({(64, 3, 4)}, ({(64, 3, 4)}, {(9, 6, 7), (16, 0, 1), (31, 2, 3), (31, 11, 12), (64, 3, 4), (72, 16, 17), (97, 0, 1), (10, 4, 5), (98, 6, 7), (16, 7, 8), (96, 5, 6), (9, 0, 1)}, 'going nowhere', ['split', 1, 11, 'je', '0_cataphoric', 0, 1, 0, 0, 11, 0, True, False, 'string_match', 'head_match', 'delete', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']), ['extra', 'nominal', 'je', 'text_match', 'head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown'])
+Properties included: extra mention ['extra', 'nominal', 'je', 'text_match', 'head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown']
+extra mention (5, 0, 1)      Extra:  [38;5;1m't[0m
+extra mention ({(5, 0, 1)}, ({(5, 0, 1)}, {(63, 13, 14), (18, 4, 5), (54, 19, 20), (73, 3, 4), (5, 0, 1), (66, 1, 2), (72, 0, 2), (4, 6, 7), (66, 10, 11), (73, 0, 2), (72, 49, 50), (63, 19, 20), (64, 0, 1), (8, 4, 8), (4, 20, 21), (63, 5, 6), (63, 51, 52), (64, 9, 10), (69, 29, 30), (14, 0, 1), (12, 1, 2), (63, 33, 34), (69, 0, 5), (4, 2, 6), (69, 44, 45), (27, 2, 3), (63, 29, 30), (12, 6, 7), (63, 38, 39), (73, 15, 20), (74, 1, 2), (73, 9, 10), (4, 12, 13), (25, 15, 16), (40, 16, 17), (68, 4, 6), (73, 33, 34), (68, 17, 18), (75, 0, 2), (63, 8, 9), (15, 0, 1), (46, 8, 9)}, 'going nowhere', ['split', 1, 41, "'t", '0_cataphoric', 0, 1, 0, 0, 41, 0, True, False, 'string_match', 'head_match', 'delete', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']), ['extra', 'nominal', "'t", 'text_match', 'head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown'])
+Properties included: extra mention ['extra', 'nominal', "'t", 'text_match', 'head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown']
+extra mention (69, 0, 5)     Extra:  [38;5;1mDe God [4mvan[0m[38;5;1m je tante[0m
+extra mention ({(69, 0, 5)}, ({(69, 0, 5)}, {(63, 13, 14), (18, 4, 5), (54, 19, 20), (73, 3, 4), (5, 0, 1), (66, 1, 2), (72, 0, 2), (4, 6, 7), (66, 10, 11), (73, 0, 2), (72, 49, 50), (63, 19, 20), (64, 0, 1), (8, 4, 8), (4, 20, 21), (63, 5, 6), (63, 51, 52), (64, 9, 10), (69, 29, 30), (14, 0, 1), (12, 1, 2), (63, 33, 34), (69, 0, 5), (4, 2, 6), (69, 44, 45), (27, 2, 3), (63, 29, 30), (12, 6, 7), (63, 38, 39), (73, 15, 20), (74, 1, 2), (73, 9, 10), (4, 12, 13), (25, 15, 16), (40, 16, 17), (68, 4, 6), (73, 33, 34), (68, 17, 18), (75, 0, 2), (63, 8, 9), (15, 0, 1), (46, 8, 9)}, 'going nowhere', ['split', 1, 41, 'de_god_van_je_tante', '0_cataphoric', 0, 1, 0, 0, 41, 0, True, False, 'no_string_match', 'head_match', 'delete', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']), ['extra', 'nominal', 'de_god_van_je_tante', 'no_text_match', 'head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown'])
+Properties included: extra mention ['extra', 'nominal', 'de_god_van_je_tante', 'no_text_match', 'head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown']
+extra mention (72, 0, 2)     Extra:  [38;5;1mDe [4mGod[0m
+extra mention ({(72, 0, 2)}, ({(72, 0, 2)}, {(63, 13, 14), (18, 4, 5), (54, 19, 20), (73, 3, 4), (5, 0, 1), (66, 1, 2), (72, 0, 2), (4, 6, 7), (66, 10, 11), (73, 0, 2), (72, 49, 50), (63, 19, 20), (64, 0, 1), (8, 4, 8), (4, 20, 21), (63, 5, 6), (63, 51, 52), (64, 9, 10), (69, 29, 30), (14, 0, 1), (12, 1, 2), (63, 33, 34), (69, 0, 5), (4, 2, 6), (69, 44, 45), (27, 2, 3), (63, 29, 30), (12, 6, 7), (63, 38, 39), (73, 15, 20), (74, 1, 2), (73, 9, 10), (4, 12, 13), (25, 15, 16), (40, 16, 17), (68, 4, 6), (73, 33, 34), (68, 17, 18), (75, 0, 2), (63, 8, 9), (15, 0, 1), (46, 8, 9)}, 'going nowhere', ['split', 1, 41, 'de_god', '0_cataphoric', 0, 1, 0, 0, 41, 0, True, False, 'string_match', 'head_match', 'delete', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']), ['extra', 'nominal', 'de_god', 'text_match', 'head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown'])
+Properties included: extra mention ['extra', 'nominal', 'de_god', 'text_match', 'head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown']
+extra mention (75, 0, 2)     Extra:  [38;5;1mDe [4mGod[0m
+extra mention ({(75, 0, 2)}, ({(75, 0, 2)}, {(63, 13, 14), (18, 4, 5), (54, 19, 20), (73, 3, 4), (5, 0, 1), (66, 1, 2), (72, 0, 2), (4, 6, 7), (66, 10, 11), (73, 0, 2), (72, 49, 50), (63, 19, 20), (64, 0, 1), (8, 4, 8), (4, 20, 21), (63, 5, 6), (63, 51, 52), (64, 9, 10), (69, 29, 30), (14, 0, 1), (12, 1, 2), (63, 33, 34), (69, 0, 5), (4, 2, 6), (69, 44, 45), (27, 2, 3), (63, 29, 30), (12, 6, 7), (63, 38, 39), (73, 15, 20), (74, 1, 2), (73, 9, 10), (4, 12, 13), (25, 15, 16), (40, 16, 17), (68, 4, 6), (73, 33, 34), (68, 17, 18), (75, 0, 2), (63, 8, 9), (15, 0, 1), (46, 8, 9)}, 'going nowhere', ['split', 1, 41, 'de_god', '0_cataphoric', 0, 1, 0, 0, 41, 0, True, False, 'string_match', 'head_match', 'delete', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']), ['extra', 'nominal', 'de_god', 'text_match', 'head_match', 'not_nested', False, True, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown'])
+Properties included: extra mention ['extra', 'nominal', 'de_god', 'text_match', 'head_match', 'not_nested', False, True, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown']
+extra mention (69, 44, 45)   Extra:  [38;5;1m't[0m
+extra mention ({(69, 44, 45)}, ({(69, 44, 45)}, {(63, 13, 14), (18, 4, 5), (54, 19, 20), (73, 3, 4), (5, 0, 1), (66, 1, 2), (72, 0, 2), (4, 6, 7), (66, 10, 11), (73, 0, 2), (72, 49, 50), (63, 19, 20), (64, 0, 1), (8, 4, 8), (4, 20, 21), (63, 5, 6), (63, 51, 52), (64, 9, 10), (69, 29, 30), (14, 0, 1), (12, 1, 2), (63, 33, 34), (69, 0, 5), (4, 2, 6), (69, 44, 45), (27, 2, 3), (63, 29, 30), (12, 6, 7), (63, 38, 39), (73, 15, 20), (74, 1, 2), (73, 9, 10), (4, 12, 13), (25, 15, 16), (40, 16, 17), (68, 4, 6), (73, 33, 34), (68, 17, 18), (75, 0, 2), (63, 8, 9), (15, 0, 1), (46, 8, 9)}, 'going nowhere', ['split', 1, 41, "'t", '0_cataphoric', 0, 1, 0, 0, 41, 0, True, False, 'string_match', 'head_match', 'delete', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']), ['extra', 'nominal', "'t", 'text_match', 'head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown'])
+Properties included: extra mention ['extra', 'nominal', "'t", 'text_match', 'head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown']
+extra mention (69, 29, 30)   Extra:  [38;5;1m't[0m
+extra mention ({(69, 29, 30)}, ({(69, 29, 30)}, {(63, 13, 14), (18, 4, 5), (54, 19, 20), (73, 3, 4), (5, 0, 1), (66, 1, 2), (72, 0, 2), (4, 6, 7), (66, 10, 11), (73, 0, 2), (72, 49, 50), (63, 19, 20), (64, 0, 1), (8, 4, 8), (4, 20, 21), (63, 5, 6), (63, 51, 52), (64, 9, 10), (69, 29, 30), (14, 0, 1), (12, 1, 2), (63, 33, 34), (69, 0, 5), (4, 2, 6), (69, 44, 45), (27, 2, 3), (63, 29, 30), (12, 6, 7), (63, 38, 39), (73, 15, 20), (74, 1, 2), (73, 9, 10), (4, 12, 13), (25, 15, 16), (40, 16, 17), (68, 4, 6), (73, 33, 34), (68, 17, 18), (75, 0, 2), (63, 8, 9), (15, 0, 1), (46, 8, 9)}, 'going nowhere', ['split', 1, 41, "'t", '0_cataphoric', 0, 1, 0, 0, 41, 0, True, False, 'string_match', 'head_match', 'delete', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']), ['extra', 'nominal', "'t", 'text_match', 'head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown'])
+Properties included: extra mention ['extra', 'nominal', "'t", 'text_match', 'head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown']
+extra mention (74, 1, 2)     Extra:  [38;5;1mGod[0m
+extra mention ({(74, 1, 2)}, ({(74, 1, 2)}, {(63, 13, 14), (18, 4, 5), (54, 19, 20), (73, 3, 4), (5, 0, 1), (66, 1, 2), (72, 0, 2), (4, 6, 7), (66, 10, 11), (73, 0, 2), (72, 49, 50), (63, 19, 20), (64, 0, 1), (8, 4, 8), (4, 20, 21), (63, 5, 6), (63, 51, 52), (64, 9, 10), (69, 29, 30), (14, 0, 1), (12, 1, 2), (63, 33, 34), (69, 0, 5), (4, 2, 6), (69, 44, 45), (27, 2, 3), (63, 29, 30), (12, 6, 7), (63, 38, 39), (73, 15, 20), (74, 1, 2), (73, 9, 10), (4, 12, 13), (25, 15, 16), (40, 16, 17), (68, 4, 6), (73, 33, 34), (68, 17, 18), (75, 0, 2), (63, 8, 9), (15, 0, 1), (46, 8, 9)}, 'going nowhere', ['split', 1, 41, 'god', '0_cataphoric', 0, 1, 0, 0, 41, 0, True, False, 'string_match', 'head_match', 'delete', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']), ['extra', 'nominal', 'god', 'text_match', 'head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown'])
+Properties included: extra mention ['extra', 'nominal', 'god', 'text_match', 'head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown']
+extra mention (54, 21, 24)   Extra:  [38;5;1mden duivel tegelijk[0m
+extra mention ({(54, 21, 24)}, ({(54, 21, 24)}, {(66, 4, 6), (84, 8, 10), (83, 11, 13), (83, 18, 19), (54, 21, 24), (86, 4, 5), (35, 6, 8), (86, 0, 2)}, 'going nowhere', ['split', 1, 7, 'den_duivel_tegelijk', '0_cataphoric', 0, 1, 0, 0, 7, 0, True, False, 'no_string_match', 'no_head_match', 'delete', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']), ['extra', 'nominal', 'den_duivel_tegelijk', 'no_text_match', 'no_head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown'])
+Properties included: extra mention ['extra', 'nominal', 'den_duivel_tegelijk', 'no_text_match', 'no_head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown']
+extra mention (38, 2, 3)     Extra:  [38;5;1miemand[0m
+extra mention ({(38, 2, 3)}, ({(38, 2, 3)}, {(42, 1, 2), (60, 2, 3), (99, 0, 2), (39, 0, 1), (50, 14, 15), (54, 15, 16), (55, 5, 6), (52, 18, 19), (47, 6, 7), (50, 9, 10), (51, 0, 1), (38, 0, 1), (52, 19, 20), (40, 20, 21), (49, 0, 1), (40, 12, 14), (37, 2, 7), (53, 3, 4), (52, 1, 2), (50, 2, 3), (99, 7, 9), (48, 10, 11), (38, 2, 3), (45, 0, 1), (54, 3, 4), (40, 7, 8), (44, 8, 9), (48, 1, 2), (54, 27, 28), (54, 32, 33), (44, 2, 5), (98, 13, 15), (54, 50, 51), (39, 8, 9), (39, 4, 5), (44, 0, 1)}, 'going nowhere', ['split', 1, 35, 'iemand', '0_cataphoric', 0, 1, 0, 0, 35, 0, True, False, 'no_string_match', 'no_head_match', 'delete', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']), ['extra', 'nominal', 'iemand', 'no_text_match', 'no_head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown'])
+Properties included: extra mention ['extra', 'nominal', 'iemand', 'no_text_match', 'no_head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown']
+extra mention (40, 7, 8)     Extra:  [38;5;1m't[0m
+extra mention ({(40, 7, 8)}, ({(40, 7, 8)}, {(42, 1, 2), (60, 2, 3), (99, 0, 2), (39, 0, 1), (50, 14, 15), (54, 15, 16), (55, 5, 6), (52, 18, 19), (47, 6, 7), (50, 9, 10), (51, 0, 1), (38, 0, 1), (52, 19, 20), (40, 20, 21), (49, 0, 1), (40, 12, 14), (37, 2, 7), (53, 3, 4), (52, 1, 2), (50, 2, 3), (99, 7, 9), (48, 10, 11), (38, 2, 3), (45, 0, 1), (54, 3, 4), (40, 7, 8), (44, 8, 9), (48, 1, 2), (54, 27, 28), (54, 32, 33), (44, 2, 5), (98, 13, 15), (54, 50, 51), (39, 8, 9), (39, 4, 5), (44, 0, 1)}, 'going nowhere', ['split', 1, 35, "'t", '0_cataphoric', 0, 1, 0, 0, 35, 0, True, False, 'no_string_match', 'no_head_match', 'delete', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']), ['extra', 'nominal', "'t", 'no_text_match', 'no_head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown'])
+Properties included: extra mention ['extra', 'nominal', "'t", 'no_text_match', 'no_head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown']
+extra mention (96, 0, 1)     Extra:  [38;5;1m't[0m
+extra mention ({(96, 0, 1)}, ({(96, 0, 1)}, {(84, 13, 14), (91, 3, 4), (89, 3, 4), (85, 4, 5), (78, 9, 11), (85, 7, 8), (92, 2, 3), (79, 0, 1), (58, 4, 5), (67, 0, 2), (96, 0, 1), (98, 1, 3), (84, 2, 4), (47, 0, 2), (82, 6, 8), (58, 3, 4), (65, 8, 10), (36, 4, 6), (89, 0, 1), (93, 0, 2)}, 'going nowhere', ['split', 1, 19, "'t", '0_cataphoric', 0, 1, 0, 0, 19, 0, True, False, 'no_string_match', 'no_head_match', 'delete', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']), ['extra', 'nominal', "'t", 'no_text_match', 'no_head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown'])
+Properties included: extra mention ['extra', 'nominal', "'t", 'no_text_match', 'no_head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown']
+missing mention (13, 2, 3)     [38;5;10mje[0m
+missing mention ({(13, 2, 3)}, {(9, 6, 7), (16, 0, 1), (31, 2, 3), (31, 11, 12), (13, 2, 3), (10, 4, 5), (16, 7, 8), (9, 0, 1)}, ({(13, 2, 3)}, {(9, 6, 7), (16, 0, 1), (31, 2, 3), (31, 11, 12), (13, 2, 3), (10, 4, 5), (16, 7, 8), (9, 0, 1)}, ['merge', 1, 7, 'je', '0_cataphoric', 0, 1, 0, 0, 7, 0, False, False, 'string_match', 'head_match', 'merge', 'introduce', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']), ['missing', 'nominal', 'je', 'text_match', 'head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown'])
+Properties included: missing mention ['missing', 'nominal', 'je', 'text_match', 'head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown']
+missing mention (56, 3, 5)     [38;5;8mde [4mvent[0m
+missing mention ({(56, 3, 5)}, {(60, 2, 3), (84, 13, 14), (39, 0, 1), (50, 14, 15), (54, 15, 16), (72, 16, 17), (55, 5, 6), (85, 7, 8), (52, 18, 19), (47, 6, 7), (50, 9, 10), (0, 0, 1), (51, 0, 1), (38, 0, 1), (58, 4, 5), (67, 0, 2), (68, 15, 16), (72, 49, 50), (98, 1, 3), (84, 2, 4), (69, 39, 40), (47, 0, 2), (52, 19, 20), (56, 3, 5), (40, 20, 21), (65, 8, 10), (72, 22, 23), (49, 0, 1), (68, 1, 2), (40, 12, 14), (69, 3, 4), (37, 2, 7), (53, 3, 4), (93, 0, 2), (52, 1, 2), (50, 2, 3), (68, 11, 12), (48, 10, 11), (68, 7, 8), (45, 0, 1), (54, 3, 4), (85, 4, 5), (69, 19, 20), (78, 9, 11), (69, 36, 37), (44, 8, 9), (48, 1, 2), (70, 1, 2), (73, 33, 34), (79, 0, 1), (54, 27, 28), (54, 32, 33), (69, 14, 15), (44, 2, 5), (54, 50, 51), (39, 8, 9), (58, 3, 4), (70, 5, 6), (82, 6, 8), (69, 10, 11), (36, 4, 6), (39, 4, 5), (44, 0, 1)}, ({(56, 3, 5)}, {(60, 2, 3), (84, 13, 14), (39, 0, 1), (50, 14, 15), (54, 15, 16), (72, 16, 17), (55, 5, 6), (85, 7, 8), (52, 18, 19), (47, 6, 7), (50, 9, 10), (0, 0, 1), (51, 0, 1), (38, 0, 1), (58, 4, 5), (67, 0, 2), (68, 15, 16), (72, 49, 50), (98, 1, 3), (84, 2, 4), (69, 39, 40), (47, 0, 2), (52, 19, 20), (56, 3, 5), (40, 20, 21), (65, 8, 10), (72, 22, 23), (49, 0, 1), (68, 1, 2), (40, 12, 14), (69, 3, 4), (37, 2, 7), (53, 3, 4), (93, 0, 2), (52, 1, 2), (50, 2, 3), (68, 11, 12), (48, 10, 11), (68, 7, 8), (45, 0, 1), (54, 3, 4), (85, 4, 5), (69, 19, 20), (78, 9, 11), (69, 36, 37), (44, 8, 9), (48, 1, 2), (70, 1, 2), (73, 33, 34), (79, 0, 1), (54, 27, 28), (54, 32, 33), (69, 14, 15), (44, 2, 5), (54, 50, 51), (39, 8, 9), (58, 3, 4), (70, 5, 6), (82, 6, 8), (69, 10, 11), (36, 4, 6), (39, 4, 5), (44, 0, 1)}, ['merge', 1, 62, 'de_vent', '0_cataphoric', 0, 1, 0, 0, 62, 0, False, False, 'no_string_match', 'no_head_match', 'merge', 'introduce', False, 'part_', 'cluster_ORG', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']), ['missing', 'nominal', 'de_vent', 'no_text_match', 'no_head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown'])
+Properties included: missing mention ['missing', 'nominal', 'de_vent', 'no_text_match', 'no_head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown']
+missing mention (72, 22, 23)   [38;5;8mje[0m
+missing mention ({(72, 22, 23)}, {(60, 2, 3), (84, 13, 14), (39, 0, 1), (50, 14, 15), (54, 15, 16), (72, 16, 17), (55, 5, 6), (85, 7, 8), (52, 18, 19), (47, 6, 7), (50, 9, 10), (0, 0, 1), (51, 0, 1), (38, 0, 1), (58, 4, 5), (67, 0, 2), (68, 15, 16), (72, 49, 50), (98, 1, 3), (84, 2, 4), (69, 39, 40), (47, 0, 2), (52, 19, 20), (56, 3, 5), (40, 20, 21), (65, 8, 10), (72, 22, 23), (49, 0, 1), (68, 1, 2), (40, 12, 14), (69, 3, 4), (37, 2, 7), (53, 3, 4), (93, 0, 2), (52, 1, 2), (50, 2, 3), (68, 11, 12), (48, 10, 11), (68, 7, 8), (45, 0, 1), (54, 3, 4), (85, 4, 5), (69, 19, 20), (78, 9, 11), (69, 36, 37), (44, 8, 9), (48, 1, 2), (70, 1, 2), (73, 33, 34), (79, 0, 1), (54, 27, 28), (54, 32, 33), (69, 14, 15), (44, 2, 5), (54, 50, 51), (39, 8, 9), (58, 3, 4), (70, 5, 6), (82, 6, 8), (69, 10, 11), (36, 4, 6), (39, 4, 5), (44, 0, 1)}, ({(72, 22, 23)}, {(60, 2, 3), (84, 13, 14), (39, 0, 1), (50, 14, 15), (54, 15, 16), (72, 16, 17), (55, 5, 6), (85, 7, 8), (52, 18, 19), (47, 6, 7), (50, 9, 10), (0, 0, 1), (51, 0, 1), (38, 0, 1), (58, 4, 5), (67, 0, 2), (68, 15, 16), (72, 49, 50), (98, 1, 3), (84, 2, 4), (69, 39, 40), (47, 0, 2), (52, 19, 20), (56, 3, 5), (40, 20, 21), (65, 8, 10), (72, 22, 23), (49, 0, 1), (68, 1, 2), (40, 12, 14), (69, 3, 4), (37, 2, 7), (53, 3, 4), (93, 0, 2), (52, 1, 2), (50, 2, 3), (68, 11, 12), (48, 10, 11), (68, 7, 8), (45, 0, 1), (54, 3, 4), (85, 4, 5), (69, 19, 20), (78, 9, 11), (69, 36, 37), (44, 8, 9), (48, 1, 2), (70, 1, 2), (73, 33, 34), (79, 0, 1), (54, 27, 28), (54, 32, 33), (69, 14, 15), (44, 2, 5), (54, 50, 51), (39, 8, 9), (58, 3, 4), (70, 5, 6), (82, 6, 8), (69, 10, 11), (36, 4, 6), (39, 4, 5), (44, 0, 1)}, ['merge', 1, 62, 'je', '0_cataphoric', 0, 1, 0, 0, 62, 0, False, False, 'string_match', 'head_match', 'merge', 'introduce', False, 'part_', 'cluster_ORG', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']), ['missing', 'nominal', 'je', 'text_match', 'head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown'])
+Properties included: missing mention ['missing', 'nominal', 'je', 'text_match', 'head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown']
+missing mention (85, 9, 10)    [38;5;5mje[0m
+missing mention ({(85, 9, 10)}, {(85, 9, 10), (77, 0, 1), (66, 4, 6), (91, 3, 4), (43, 0, 2), (89, 3, 4), (84, 8, 10), (83, 11, 13), (92, 2, 3), (86, 4, 5), (35, 6, 8), (66, 10, 11), (54, 21, 23), (85, 1, 2), (83, 18, 19), (86, 0, 2), (89, 0, 1)}, ({(85, 9, 10)}, {(85, 9, 10), (77, 0, 1), (66, 4, 6), (91, 3, 4), (43, 0, 2), (89, 3, 4), (84, 8, 10), (83, 11, 13), (92, 2, 3), (86, 4, 5), (35, 6, 8), (66, 10, 11), (54, 21, 23), (85, 1, 2), (83, 18, 19), (86, 0, 2), (89, 0, 1)}, ['merge', 1, 16, 'je', '0_cataphoric', 0, 1, 0, 0, 16, 0, False, False, 'no_string_match', 'no_head_match', 'merge', 'introduce', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']), ['missing', 'nominal', 'je', 'no_text_match', 'no_head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown'])
+Properties included: missing mention ['missing', 'nominal', 'je', 'no_text_match', 'no_head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown']
+missing mention (77, 0, 1)     [38;5;5mIk[0m
+missing mention ({(77, 0, 1)}, {(85, 9, 10), (77, 0, 1), (66, 4, 6), (91, 3, 4), (43, 0, 2), (89, 3, 4), (84, 8, 10), (83, 11, 13), (92, 2, 3), (86, 4, 5), (35, 6, 8), (66, 10, 11), (54, 21, 23), (85, 1, 2), (83, 18, 19), (86, 0, 2), (89, 0, 1)}, ({(77, 0, 1)}, {(85, 9, 10), (77, 0, 1), (66, 4, 6), (91, 3, 4), (43, 0, 2), (89, 3, 4), (84, 8, 10), (83, 11, 13), (92, 2, 3), (86, 4, 5), (35, 6, 8), (66, 10, 11), (54, 21, 23), (85, 1, 2), (83, 18, 19), (86, 0, 2), (89, 0, 1)}, ['merge', 1, 16, 'ik', '0_cataphoric', 0, 1, 0, 0, 16, 0, False, False, 'no_string_match', 'no_head_match', 'merge', 'introduce', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']), ['missing', 'nominal', 'ik', 'no_text_match', 'no_head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown'])
+Properties included: missing mention ['missing', 'nominal', 'ik', 'no_text_match', 'no_head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown']
+missing mention (54, 21, 23)   [38;5;5mden [4mduivel[0m
+missing mention ({(54, 21, 23)}, {(85, 9, 10), (77, 0, 1), (66, 4, 6), (91, 3, 4), (43, 0, 2), (89, 3, 4), (84, 8, 10), (83, 11, 13), (92, 2, 3), (86, 4, 5), (35, 6, 8), (66, 10, 11), (54, 21, 23), (85, 1, 2), (83, 18, 19), (86, 0, 2), (89, 0, 1)}, ({(54, 21, 23)}, {(85, 9, 10), (77, 0, 1), (66, 4, 6), (91, 3, 4), (43, 0, 2), (89, 3, 4), (84, 8, 10), (83, 11, 13), (92, 2, 3), (86, 4, 5), (35, 6, 8), (66, 10, 11), (54, 21, 23), (85, 1, 2), (83, 18, 19), (86, 0, 2), (89, 0, 1)}, ['merge', 1, 16, 'den_duivel', '0_cataphoric', 0, 1, 0, 0, 16, 0, False, False, 'string_match', 'head_match', 'merge', 'introduce', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']), ['missing', 'nominal', 'den_duivel', 'text_match', 'head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown'])
+Properties included: missing mention ['missing', 'nominal', 'den_duivel', 'text_match', 'head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown']
+missing mention (43, 0, 2)     [38;5;5mDe duivel[0m
+missing mention ({(43, 0, 2)}, {(85, 9, 10), (77, 0, 1), (66, 4, 6), (91, 3, 4), (43, 0, 2), (89, 3, 4), (84, 8, 10), (83, 11, 13), (92, 2, 3), (86, 4, 5), (35, 6, 8), (66, 10, 11), (54, 21, 23), (85, 1, 2), (83, 18, 19), (86, 0, 2), (89, 0, 1)}, ({(43, 0, 2)}, {(85, 9, 10), (77, 0, 1), (66, 4, 6), (91, 3, 4), (43, 0, 2), (89, 3, 4), (84, 8, 10), (83, 11, 13), (92, 2, 3), (86, 4, 5), (35, 6, 8), (66, 10, 11), (54, 21, 23), (85, 1, 2), (83, 18, 19), (86, 0, 2), (89, 0, 1)}, ['merge', 1, 16, 'de_duivel', '0_cataphoric', 0, 1, 0, 0, 16, 0, False, False, 'string_match', 'head_match', 'merge', 'introduce', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']), ['missing', 'nominal', 'de_duivel', 'text_match', 'head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown'])
+Properties included: missing mention ['missing', 'nominal', 'de_duivel', 'text_match', 'head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown']
+missing mention (85, 1, 2)     [38;5;5mDuivel[0m
+missing mention ({(85, 1, 2)}, {(85, 9, 10), (77, 0, 1), (66, 4, 6), (91, 3, 4), (43, 0, 2), (89, 3, 4), (84, 8, 10), (83, 11, 13), (92, 2, 3), (86, 4, 5), (35, 6, 8), (66, 10, 11), (54, 21, 23), (85, 1, 2), (83, 18, 19), (86, 0, 2), (89, 0, 1)}, ({(85, 1, 2)}, {(85, 9, 10), (77, 0, 1), (66, 4, 6), (91, 3, 4), (43, 0, 2), (89, 3, 4), (84, 8, 10), (83, 11, 13), (92, 2, 3), (86, 4, 5), (35, 6, 8), (66, 10, 11), (54, 21, 23), (85, 1, 2), (83, 18, 19), (86, 0, 2), (89, 0, 1)}, ['merge', 1, 16, 'duivel', '0_cataphoric', 0, 1, 0, 0, 16, 0, False, False, 'no_string_match', 'head_match', 'merge', 'introduce', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']), ['missing', 'nominal', 'duivel', 'no_text_match', 'head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown'])
+Properties included: missing mention ['missing', 'nominal', 'duivel', 'no_text_match', 'head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown']
+missing mention (64, 27, 28)   [38;5;3mGods[0m
+missing mention ({(64, 27, 28)}, {(63, 13, 14), (18, 4, 5), (33, 7, 8), (54, 19, 20), (73, 3, 4), (68, 1, 3), (66, 1, 2), (64, 27, 28), (4, 6, 7), (73, 0, 2), (32, 8, 9), (12, 9, 10), (75, 0, 4), (63, 19, 20), (64, 0, 1), (8, 4, 8), (4, 20, 21), (63, 5, 6), (23, 3, 4), (63, 51, 52), (64, 9, 10), (74, 0, 4), (69, 0, 2), (14, 0, 1), (22, 2, 5), (63, 33, 34), (4, 2, 6), (27, 2, 3), (63, 29, 30), (63, 38, 39), (73, 15, 20), (73, 9, 10), (4, 12, 13), (25, 15, 16), (40, 16, 17), (34, 6, 7), (68, 4, 6), (28, 3, 4), (33, 1, 2), (72, 0, 6), (32, 1, 2), (63, 8, 9), (15, 0, 1), (46, 8, 9)}, ({(64, 27, 28)}, {(63, 13, 14), (18, 4, 5), (33, 7, 8), (54, 19, 20), (73, 3, 4), (68, 1, 3), (66, 1, 2), (64, 27, 28), (4, 6, 7), (73, 0, 2), (32, 8, 9), (12, 9, 10), (75, 0, 4), (63, 19, 20), (64, 0, 1), (8, 4, 8), (4, 20, 21), (63, 5, 6), (23, 3, 4), (63, 51, 52), (64, 9, 10), (74, 0, 4), (69, 0, 2), (14, 0, 1), (22, 2, 5), (63, 33, 34), (4, 2, 6), (27, 2, 3), (63, 29, 30), (63, 38, 39), (73, 15, 20), (73, 9, 10), (4, 12, 13), (25, 15, 16), (40, 16, 17), (34, 6, 7), (68, 4, 6), (28, 3, 4), (33, 1, 2), (72, 0, 6), (32, 1, 2), (63, 8, 9), (15, 0, 1), (46, 8, 9)}, ['merge', 1, 43, 'gods', '0_cataphoric', 0, 1, 0, 0, 43, 0, False, False, 'no_string_match', 'no_head_match', 'merge', 'introduce', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']), ['missing', 'nominal', 'gods', 'no_text_match', 'no_head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown'])
+Properties included: missing mention ['missing', 'nominal', 'gods', 'no_text_match', 'no_head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown']
+missing mention (12, 9, 10)    [38;5;3mmij[0m
+missing mention ({(12, 9, 10)}, {(63, 13, 14), (18, 4, 5), (33, 7, 8), (54, 19, 20), (73, 3, 4), (68, 1, 3), (66, 1, 2), (64, 27, 28), (4, 6, 7), (73, 0, 2), (32, 8, 9), (12, 9, 10), (75, 0, 4), (63, 19, 20), (64, 0, 1), (8, 4, 8), (4, 20, 21), (63, 5, 6), (23, 3, 4), (63, 51, 52), (64, 9, 10), (74, 0, 4), (69, 0, 2), (14, 0, 1), (22, 2, 5), (63, 33, 34), (4, 2, 6), (27, 2, 3), (63, 29, 30), (63, 38, 39), (73, 15, 20), (73, 9, 10), (4, 12, 13), (25, 15, 16), (40, 16, 17), (34, 6, 7), (68, 4, 6), (28, 3, 4), (33, 1, 2), (72, 0, 6), (32, 1, 2), (63, 8, 9), (15, 0, 1), (46, 8, 9)}, ({(12, 9, 10)}, {(63, 13, 14), (18, 4, 5), (33, 7, 8), (54, 19, 20), (73, 3, 4), (68, 1, 3), (66, 1, 2), (64, 27, 28), (4, 6, 7), (73, 0, 2), (32, 8, 9), (12, 9, 10), (75, 0, 4), (63, 19, 20), (64, 0, 1), (8, 4, 8), (4, 20, 21), (63, 5, 6), (23, 3, 4), (63, 51, 52), (64, 9, 10), (74, 0, 4), (69, 0, 2), (14, 0, 1), (22, 2, 5), (63, 33, 34), (4, 2, 6), (27, 2, 3), (63, 29, 30), (63, 38, 39), (73, 15, 20), (73, 9, 10), (4, 12, 13), (25, 15, 16), (40, 16, 17), (34, 6, 7), (68, 4, 6), (28, 3, 4), (33, 1, 2), (72, 0, 6), (32, 1, 2), (63, 8, 9), (15, 0, 1), (46, 8, 9)}, ['merge', 1, 43, 'mij', '0_cataphoric', 0, 1, 0, 0, 43, 0, False, False, 'no_string_match', 'no_head_match', 'merge', 'introduce', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']), ['missing', 'nominal', 'mij', 'no_text_match', 'no_head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown'])
+Properties included: missing mention ['missing', 'nominal', 'mij', 'no_text_match', 'no_head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown']
+missing mention (75, 0, 4)     [38;5;3mDe God [4mvan[0m[38;5;3m Nederland[0m
+missing mention ({(75, 0, 4)}, {(63, 13, 14), (18, 4, 5), (33, 7, 8), (54, 19, 20), (73, 3, 4), (68, 1, 3), (66, 1, 2), (64, 27, 28), (4, 6, 7), (73, 0, 2), (32, 8, 9), (12, 9, 10), (75, 0, 4), (63, 19, 20), (64, 0, 1), (8, 4, 8), (4, 20, 21), (63, 5, 6), (23, 3, 4), (63, 51, 52), (64, 9, 10), (74, 0, 4), (69, 0, 2), (14, 0, 1), (22, 2, 5), (63, 33, 34), (4, 2, 6), (27, 2, 3), (63, 29, 30), (63, 38, 39), (73, 15, 20), (73, 9, 10), (4, 12, 13), (25, 15, 16), (40, 16, 17), (34, 6, 7), (68, 4, 6), (28, 3, 4), (33, 1, 2), (72, 0, 6), (32, 1, 2), (63, 8, 9), (15, 0, 1), (46, 8, 9)}, ({(75, 0, 4)}, {(63, 13, 14), (18, 4, 5), (33, 7, 8), (54, 19, 20), (73, 3, 4), (68, 1, 3), (66, 1, 2), (64, 27, 28), (4, 6, 7), (73, 0, 2), (32, 8, 9), (12, 9, 10), (75, 0, 4), (63, 19, 20), (64, 0, 1), (8, 4, 8), (4, 20, 21), (63, 5, 6), (23, 3, 4), (63, 51, 52), (64, 9, 10), (74, 0, 4), (69, 0, 2), (14, 0, 1), (22, 2, 5), (63, 33, 34), (4, 2, 6), (27, 2, 3), (63, 29, 30), (63, 38, 39), (73, 15, 20), (73, 9, 10), (4, 12, 13), (25, 15, 16), (40, 16, 17), (34, 6, 7), (68, 4, 6), (28, 3, 4), (33, 1, 2), (72, 0, 6), (32, 1, 2), (63, 8, 9), (15, 0, 1), (46, 8, 9)}, ['merge', 1, 43, 'de_god_van_nederland', '0_cataphoric', 0, 1, 0, 0, 43, 0, False, False, 'string_match', 'head_match', 'merge', 'introduce', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']), ['missing', 'nominal', 'de_god_van_nederland', 'text_match', 'head_match', 'not_nested', False, True, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown'])
+Properties included: missing mention ['missing', 'nominal', 'de_god_van_nederland', 'text_match', 'head_match', 'not_nested', False, True, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown']
+missing mention (74, 0, 4)     [38;5;3mDe God van allen[0m
+missing mention ({(74, 0, 4)}, {(63, 13, 14), (18, 4, 5), (33, 7, 8), (54, 19, 20), (73, 3, 4), (68, 1, 3), (66, 1, 2), (64, 27, 28), (4, 6, 7), (73, 0, 2), (32, 8, 9), (12, 9, 10), (75, 0, 4), (63, 19, 20), (64, 0, 1), (8, 4, 8), (4, 20, 21), (63, 5, 6), (23, 3, 4), (63, 51, 52), (64, 9, 10), (74, 0, 4), (69, 0, 2), (14, 0, 1), (22, 2, 5), (63, 33, 34), (4, 2, 6), (27, 2, 3), (63, 29, 30), (63, 38, 39), (73, 15, 20), (73, 9, 10), (4, 12, 13), (25, 15, 16), (40, 16, 17), (34, 6, 7), (68, 4, 6), (28, 3, 4), (33, 1, 2), (72, 0, 6), (32, 1, 2), (63, 8, 9), (15, 0, 1), (46, 8, 9)}, ({(74, 0, 4)}, {(63, 13, 14), (18, 4, 5), (33, 7, 8), (54, 19, 20), (73, 3, 4), (68, 1, 3), (66, 1, 2), (64, 27, 28), (4, 6, 7), (73, 0, 2), (32, 8, 9), (12, 9, 10), (75, 0, 4), (63, 19, 20), (64, 0, 1), (8, 4, 8), (4, 20, 21), (63, 5, 6), (23, 3, 4), (63, 51, 52), (64, 9, 10), (74, 0, 4), (69, 0, 2), (14, 0, 1), (22, 2, 5), (63, 33, 34), (4, 2, 6), (27, 2, 3), (63, 29, 30), (63, 38, 39), (73, 15, 20), (73, 9, 10), (4, 12, 13), (25, 15, 16), (40, 16, 17), (34, 6, 7), (68, 4, 6), (28, 3, 4), (33, 1, 2), (72, 0, 6), (32, 1, 2), (63, 8, 9), (15, 0, 1), (46, 8, 9)}, ['merge', 1, 43, 'de_god_van_allen', '0_cataphoric', 0, 1, 0, 0, 43, 0, False, False, 'no_string_match', 'no_head_match', 'merge', 'introduce', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']), ['missing', 'nominal', 'de_god_van_allen', 'no_text_match', 'no_head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown'])
+Properties included: missing mention ['missing', 'nominal', 'de_god_van_allen', 'no_text_match', 'no_head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown']
+missing mention (69, 0, 2)     [38;5;3mDe [4mGod[0m
+missing mention ({(69, 0, 2)}, {(63, 13, 14), (18, 4, 5), (33, 7, 8), (54, 19, 20), (73, 3, 4), (68, 1, 3), (66, 1, 2), (64, 27, 28), (4, 6, 7), (73, 0, 2), (32, 8, 9), (12, 9, 10), (75, 0, 4), (63, 19, 20), (64, 0, 1), (8, 4, 8), (4, 20, 21), (63, 5, 6), (23, 3, 4), (63, 51, 52), (64, 9, 10), (74, 0, 4), (69, 0, 2), (14, 0, 1), (22, 2, 5), (63, 33, 34), (4, 2, 6), (27, 2, 3), (63, 29, 30), (63, 38, 39), (73, 15, 20), (73, 9, 10), (4, 12, 13), (25, 15, 16), (40, 16, 17), (34, 6, 7), (68, 4, 6), (28, 3, 4), (33, 1, 2), (72, 0, 6), (32, 1, 2), (63, 8, 9), (15, 0, 1), (46, 8, 9)}, ({(69, 0, 2)}, {(63, 13, 14), (18, 4, 5), (33, 7, 8), (54, 19, 20), (73, 3, 4), (68, 1, 3), (66, 1, 2), (64, 27, 28), (4, 6, 7), (73, 0, 2), (32, 8, 9), (12, 9, 10), (75, 0, 4), (63, 19, 20), (64, 0, 1), (8, 4, 8), (4, 20, 21), (63, 5, 6), (23, 3, 4), (63, 51, 52), (64, 9, 10), (74, 0, 4), (69, 0, 2), (14, 0, 1), (22, 2, 5), (63, 33, 34), (4, 2, 6), (27, 2, 3), (63, 29, 30), (63, 38, 39), (73, 15, 20), (73, 9, 10), (4, 12, 13), (25, 15, 16), (40, 16, 17), (34, 6, 7), (68, 4, 6), (28, 3, 4), (33, 1, 2), (72, 0, 6), (32, 1, 2), (63, 8, 9), (15, 0, 1), (46, 8, 9)}, ['merge', 1, 43, 'de_god', '0_cataphoric', 0, 1, 0, 0, 43, 0, False, False, 'string_match', 'head_match', 'merge', 'introduce', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']), ['missing', 'nominal', 'de_god', 'text_match', 'head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown'])
+Properties included: missing mention ['missing', 'nominal', 'de_god', 'text_match', 'head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown']
+missing mention (72, 0, 6)     [38;5;3mDe God [4mvan[0m[38;5;3m al die menschen[0m
+missing mention ({(72, 0, 6)}, {(63, 13, 14), (18, 4, 5), (33, 7, 8), (54, 19, 20), (73, 3, 4), (68, 1, 3), (66, 1, 2), (64, 27, 28), (4, 6, 7), (73, 0, 2), (32, 8, 9), (12, 9, 10), (75, 0, 4), (63, 19, 20), (64, 0, 1), (8, 4, 8), (4, 20, 21), (63, 5, 6), (23, 3, 4), (63, 51, 52), (64, 9, 10), (74, 0, 4), (69, 0, 2), (14, 0, 1), (22, 2, 5), (63, 33, 34), (4, 2, 6), (27, 2, 3), (63, 29, 30), (63, 38, 39), (73, 15, 20), (73, 9, 10), (4, 12, 13), (25, 15, 16), (40, 16, 17), (34, 6, 7), (68, 4, 6), (28, 3, 4), (33, 1, 2), (72, 0, 6), (32, 1, 2), (63, 8, 9), (15, 0, 1), (46, 8, 9)}, ({(72, 0, 6)}, {(63, 13, 14), (18, 4, 5), (33, 7, 8), (54, 19, 20), (73, 3, 4), (68, 1, 3), (66, 1, 2), (64, 27, 28), (4, 6, 7), (73, 0, 2), (32, 8, 9), (12, 9, 10), (75, 0, 4), (63, 19, 20), (64, 0, 1), (8, 4, 8), (4, 20, 21), (63, 5, 6), (23, 3, 4), (63, 51, 52), (64, 9, 10), (74, 0, 4), (69, 0, 2), (14, 0, 1), (22, 2, 5), (63, 33, 34), (4, 2, 6), (27, 2, 3), (63, 29, 30), (63, 38, 39), (73, 15, 20), (73, 9, 10), (4, 12, 13), (25, 15, 16), (40, 16, 17), (34, 6, 7), (68, 4, 6), (28, 3, 4), (33, 1, 2), (72, 0, 6), (32, 1, 2), (63, 8, 9), (15, 0, 1), (46, 8, 9)}, ['merge', 1, 43, 'de_god_van_al_die_menschen', '0_cataphoric', 0, 1, 0, 0, 43, 0, False, False, 'no_string_match', 'head_match', 'merge', 'introduce', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']), ['missing', 'nominal', 'de_god_van_al_die_menschen', 'no_text_match', 'head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown'])
+Properties included: missing mention ['missing', 'nominal', 'de_god_van_al_die_menschen', 'no_text_match', 'head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown']
+missing mention (98, 8, 10)    [38;5;14mzoo'n wiel[0m
+missing mention ({(98, 8, 10)}, {(98, 8, 10), (93, 49, 50), (99, 0, 2), (93, 40, 41), (93, 11, 14), (95, 20, 22), (93, 15, 16)}, ({(98, 8, 10)}, {(98, 8, 10), (93, 49, 50), (99, 0, 2), (93, 40, 41), (93, 11, 14), (95, 20, 22), (93, 15, 16)}, ['merge', 1, 6, "zoo'n_wiel", '0_cataphoric', 0, 1, 0, 0, 6, 0, False, False, 'string_match', 'head_match', 'merge', 'introduce', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']), ['missing', 'nominal', "zoo'n_wiel", 'text_match', 'head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown'])
+Properties included: missing mention ['missing', 'nominal', "zoo'n_wiel", 'text_match', 'head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown']
+missing mention (95, 20, 22)   [38;5;14m't [4mwieltje[0m
+missing mention ({(95, 20, 22)}, {(98, 8, 10), (93, 49, 50), (99, 0, 2), (93, 40, 41), (93, 11, 14), (95, 20, 22), (93, 15, 16)}, ({(95, 20, 22)}, {(98, 8, 10), (93, 49, 50), (99, 0, 2), (93, 40, 41), (93, 11, 14), (95, 20, 22), (93, 15, 16)}, ['merge', 1, 6, "'t_wieltje", '0_cataphoric', 0, 1, 0, 0, 6, 0, False, False, 'no_string_match', 'no_head_match', 'merge', 'introduce', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']), ['missing', 'nominal', "'t_wieltje", 'no_text_match', 'no_head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown'])
+Properties included: missing mention ['missing', 'nominal', "'t_wieltje", 'no_text_match', 'no_head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown']
+
+-------------------------------------------------------------------------------
+
+(59, 7, 9)     Extra:  [38;5;1mNederlandsche [4mmenschen[0m
+(72, 4, 6)     [38;5;15mdie menschen[0m
+(72, 7, 8)     [38;5;15mdie[0m
+(72, 29, 30)   [38;5;15mdie[0m
+
+Raw changes:
+split 2
+remove 1
+
+Categorised:
+1 Conflated Entities
+
+Detailed error listing:
+split ({(72, 29, 30), (72, 7, 8), (72, 4, 6)}, {(72, 29, 30), (72, 7, 8), (59, 7, 9), (72, 4, 6)}, '', ['split', 3, 1, None, '0_cataphoric', 0, 3, 0, 0, 1, 0, False, True, 'no_string_match', 'head_match', 'nothing', 'split', False, 'part_', 'cluster_MISC', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_'])
+Properties included: split ['split', 3, 1, None, '0_cataphoric', 0, 3, 0, 0, 1, 0, False, True, 'no_string_match', 'head_match', 'nothing', 'split', False, 'part_', 'cluster_MISC', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']
+
+-------------------------------------------------------------------------------
+
+(20, 0, 1)     [38;5;3mOogen[0m
+(20, 4, 5)     [38;5;3mze[0m
+(21, 2, 3)     [38;5;3mze[0m
+(26, 1, 2)     [38;5;3mze[0m
+(26, 12, 13)   [38;5;3mze[0m
+(28, 2, 3)     [38;5;3mze[0m
+
+(24, 7, 9)     [38;5;4mwetende [4moogen[0m
+(25, 6, 7)     Extra:  [38;5;1m't[0m
+(26, 13, 14)   Extra:  [38;5;1m't[0m
+(30, 3, 4)     Extra:  [38;5;1m't[0m
+(35, 10, 13)   [38;5;3mdie wetende oogen[0m
+(42, 5, 8)     [38;5;3mdie wetende oogen[0m
+(48, 3, 6)     Extra:  [38;5;1mtwee wetende [4moogen[0m
+
+Missing:
+(20, 1, 2)     [38;5;3mdie[0m
+(19, 33, 35)   [38;5;4mlieve [4moogen[0m
+
+Raw changes:
+split 6
+remove 4
+introduce 2
+merge 5
+
+Categorised:
+1 Conflated Entities
+2 Divided Entity
+4 Extra Mention
+1 Missing Mention
+
+Detailed error listing:
+split ({(35, 10, 13), (42, 5, 8)}, {(48, 3, 6), (26, 13, 14), (35, 10, 13), (42, 5, 8), (30, 3, 4), (25, 6, 7), (24, 7, 9)}, '', ['split', 2, 5, None, '0_cataphoric', 0, 2, 0, 0, 5, 0, False, False, 'no_string_match', 'head_match', 'merge', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_'])
+Properties included: split ['split', 2, 5, None, '0_cataphoric', 0, 2, 0, 0, 5, 0, False, False, 'no_string_match', 'head_match', 'merge', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']
+merge ({(35, 10, 13), (42, 5, 8)}, {(21, 2, 3), (20, 0, 1), (28, 2, 3), (42, 5, 8), (26, 12, 13), (35, 10, 13), (26, 1, 2), (20, 4, 5), (20, 1, 2)}, ['merge', 2, 7, None, '0_cataphoric', 0, 2, 0, 0, 7, 0, False, False, 'no_string_match', 'head_match', 'merge', 'split', False, 'part_', 'cluster_PER', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_'])
+Properties included: merge ['merge', 2, 7, None, '0_cataphoric', 0, 2, 0, 0, 7, 0, False, False, 'no_string_match', 'head_match', 'merge', 'split', False, 'part_', 'cluster_PER', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']
+merge (24, 7, 9)     [38;5;4mwetende [4moogen[0m
+merge ({(24, 7, 9)}, {(19, 33, 35), (24, 7, 9)}, ['merge', 1, 1, 'wetende_oogen', '0_cataphoric', 0, 1, 0, 0, 1, 0, False, False, 'no_string_match', 'head_match', 'merge', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_'])
+Properties included: merge ['merge', 1, 1, 'wetende_oogen', '0_cataphoric', 0, 1, 0, 0, 1, 0, False, False, 'no_string_match', 'head_match', 'merge', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']
+extra mention (48, 3, 6)     Extra:  [38;5;1mtwee wetende [4moogen[0m
+extra mention ({(48, 3, 6)}, ({(48, 3, 6)}, {(48, 3, 6), (26, 13, 14), (35, 10, 13), (42, 5, 8), (30, 3, 4), (25, 6, 7), (24, 7, 9)}, 'going nowhere', ['split', 1, 6, 'twee_wetende_oogen', '0_cataphoric', 0, 1, 0, 0, 6, 0, True, False, 'no_string_match', 'head_match', 'delete', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']), ['extra', 'nominal', 'twee_wetende_oogen', 'no_text_match', 'head_match', 'not_nested', False, True, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown'])
+Properties included: extra mention ['extra', 'nominal', 'twee_wetende_oogen', 'no_text_match', 'head_match', 'not_nested', False, True, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown']
+extra mention (26, 13, 14)   Extra:  [38;5;1m't[0m
+extra mention ({(26, 13, 14)}, ({(26, 13, 14)}, {(48, 3, 6), (26, 13, 14), (35, 10, 13), (42, 5, 8), (30, 3, 4), (25, 6, 7), (24, 7, 9)}, 'going nowhere', ['split', 1, 6, "'t", '0_cataphoric', 0, 1, 0, 0, 6, 0, True, False, 'string_match', 'head_match', 'delete', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']), ['extra', 'nominal', "'t", 'text_match', 'head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown'])
+Properties included: extra mention ['extra', 'nominal', "'t", 'text_match', 'head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown']
+extra mention (30, 3, 4)     Extra:  [38;5;1m't[0m
+extra mention ({(30, 3, 4)}, ({(30, 3, 4)}, {(48, 3, 6), (26, 13, 14), (35, 10, 13), (42, 5, 8), (30, 3, 4), (25, 6, 7), (24, 7, 9)}, 'going nowhere', ['split', 1, 6, "'t", '0_cataphoric', 0, 1, 0, 0, 6, 0, True, False, 'string_match', 'head_match', 'delete', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']), ['extra', 'nominal', "'t", 'text_match', 'head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown'])
+Properties included: extra mention ['extra', 'nominal', "'t", 'text_match', 'head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown']
+extra mention (25, 6, 7)     Extra:  [38;5;1m't[0m
+extra mention ({(25, 6, 7)}, ({(25, 6, 7)}, {(48, 3, 6), (26, 13, 14), (35, 10, 13), (42, 5, 8), (30, 3, 4), (25, 6, 7), (24, 7, 9)}, 'going nowhere', ['split', 1, 6, "'t", '0_cataphoric', 0, 1, 0, 0, 6, 0, True, False, 'string_match', 'head_match', 'delete', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']), ['extra', 'nominal', "'t", 'text_match', 'head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown'])
+Properties included: extra mention ['extra', 'nominal', "'t", 'text_match', 'head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown']
+missing mention (20, 1, 2)     [38;5;3mdie[0m
+missing mention ({(20, 1, 2)}, {(21, 2, 3), (20, 0, 1), (28, 2, 3), (42, 5, 8), (26, 12, 13), (35, 10, 13), (26, 1, 2), (20, 4, 5), (20, 1, 2)}, ({(20, 1, 2)}, {(21, 2, 3), (20, 0, 1), (28, 2, 3), (42, 5, 8), (26, 12, 13), (35, 10, 13), (26, 1, 2), (20, 4, 5), (20, 1, 2)}, ['merge', 1, 8, 'die', '0_cataphoric', 0, 1, 0, 0, 8, 0, False, False, 'no_string_match', 'no_head_match', 'merge', 'introduce', False, 'part_', 'cluster_PER', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']), ['missing', 'nominal', 'die', 'no_text_match', 'no_head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown'])
+Properties included: missing mention ['missing', 'nominal', 'die', 'no_text_match', 'no_head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown']
+
+-------------------------------------------------------------------------------
+
+(61, 2, 3)     [38;5;15mze[0m
+(62, 2, 3)     [38;5;15mze[0m
+
+Missing:
+(61, 3, 4)     [38;5;15melkaar[0m
+
+Raw changes:
+introduce 1
+merge 2
+
+Categorised:
+1 Missing Mention
+
+Detailed error listing:
+missing mention (61, 3, 4)     [38;5;15melkaar[0m
+missing mention ({(61, 3, 4)}, {(62, 2, 3), (61, 3, 4), (61, 2, 3)}, ({(61, 3, 4)}, {(62, 2, 3), (61, 3, 4), (61, 2, 3)}, ['merge', 1, 2, 'elkaar', '0_cataphoric', 0, 1, 0, 0, 2, 0, False, False, 'no_string_match', 'no_head_match', 'merge', 'introduce', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']), ['missing', 'nominal', 'elkaar', 'no_text_match', 'no_head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown'])
+Properties included: missing mention ['missing', 'nominal', 'elkaar', 'no_text_match', 'no_head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown']
+
+-------------------------------------------------------------------------------
+
+
+Missing:
+(60, 3, 4)     [38;5;15miemand[0m
+(60, 5, 13)    [38;5;15meen heer [4mmet[0m[38;5;15m hoogen hoed en gekleede jas[0m
+(65, 3, 5)     [38;5;15mdie [4mmeneer[0m
+
+Raw changes:
+introduce 3
+merge 3
+
+Categorised:
+1 Missing Entity
+
+Detailed error listing:
+missing entity ({(60, 5, 13), (60, 3, 4), (65, 3, 5)}, ['missing', 3, 0, 3, 0, None, 0, [], False, False])
+Properties included: missing entity ['missing', 3, 0, 3, 0, None, 0, [], False, False]
+
+-------------------------------------------------------------------------------
+
+(41, 1, 4)     Extra:  [38;5;1mprofessor Volmer [4mverachttenem[0m
+(73, 18, 20)   [38;5;3mmeneer [4mVolmer[0m
+
+(73, 21, 28)   [38;5;3mhoogleeraar in 't boekhouden en de [4mbedrijfsleer[0m
+(73, 29, 30)   [38;5;3mdie[0m
+
+Raw changes:
+split 2
+remove 1
+merge 2
+
+Categorised:
+1 Conflated Entities
+1 Divided Entity
+
+Detailed error listing:
+split (73, 18, 20)   [38;5;3mmeneer [4mVolmer[0m
+split ({(73, 18, 20)}, {(73, 18, 20), (41, 1, 4)}, '', ['split', 1, 1, 'meneer_volmer', '0_cataphoric', 0, 1, 0, 0, 1, 0, False, True, 'no_string_match', 'no_head_match', 'merge', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_'])
+Properties included: split ['split', 1, 1, 'meneer_volmer', '0_cataphoric', 0, 1, 0, 0, 1, 0, False, True, 'no_string_match', 'no_head_match', 'merge', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']
+merge ({(73, 21, 28), (73, 29, 30)}, {(73, 18, 20), (73, 21, 28), (73, 29, 30)}, ['merge', 2, 1, None, '0_cataphoric', 0, 2, 0, 0, 1, 0, False, False, 'no_string_match', 'no_head_match', 'merge', 'nothing', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_'])
+Properties included: merge ['merge', 2, 1, None, '0_cataphoric', 0, 2, 0, 0, 1, 0, False, False, 'no_string_match', 'no_head_match', 'merge', 'nothing', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']
+
+-------------------------------------------------------------------------------
+
+(4, 6, 9)      Extra:  [38;5;1mzijn eerbiedwaardig [4mhoofd[0m
+(16, 7, 9)     Extra:  [38;5;1mje [4mhoofd[0m
+
+Raw changes:
+split 2
+remove 2
+
+Categorised:
+1 Extra Entity
+
+Detailed error listing:
+extra entity ({(16, 7, 9), (4, 6, 9)}, {(16, 7, 9), (4, 6, 9)}, ['extra', 2, 0, 2, 0, None, 0, [], False, True])
+Properties included: extra entity ['extra', 2, 0, 2, 0, None, 0, [], False, True]
+
+-------------------------------------------------------------------------------
+
+(4, 5, 6)      [38;5;15mNederland[0m
+(75, 3, 4)     [38;5;15mNederland[0m
+
+Missing:
+(8, 7, 8)      [38;5;15mNederland[0m
+(75, 6, 8)     [38;5;15mheel [4mNederland[0m
+
+Raw changes:
+introduce 2
+merge 3
+
+Categorised:
+2 Missing Mention
+
+Detailed error listing:
+missing mention (8, 7, 8)      [38;5;15mNederland[0m
+missing mention ({(8, 7, 8)}, {(8, 7, 8), (75, 3, 4), (75, 6, 8), (4, 5, 6)}, ({(8, 7, 8)}, {(8, 7, 8), (75, 3, 4), (75, 6, 8), (4, 5, 6)}, ['merge', 1, 3, 'nederland', '0_cataphoric', 0, 1, 0, 0, 3, 0, False, False, 'string_match', 'head_match', 'merge', 'introduce', True, 'part_LOC', 'cluster_LOC', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']), ['missing', 'nominal', 'nederland', 'text_match', 'head_match', 'not_nested', False, False, False, 'ner_matches', 'number_unknown', 'person_unknown', 'gender_unknown'])
+Properties included: missing mention ['missing', 'nominal', 'nederland', 'text_match', 'head_match', 'not_nested', False, False, False, 'ner_matches', 'number_unknown', 'person_unknown', 'gender_unknown']
+missing mention (75, 6, 8)     [38;5;15mheel [4mNederland[0m
+missing mention ({(75, 6, 8)}, {(8, 7, 8), (75, 3, 4), (75, 6, 8), (4, 5, 6)}, ({(75, 6, 8)}, {(8, 7, 8), (75, 3, 4), (75, 6, 8), (4, 5, 6)}, ['merge', 1, 3, 'heel_nederland', '0_cataphoric', 0, 1, 0, 0, 3, 0, False, False, 'no_string_match', 'head_match', 'merge', 'introduce', False, 'part_', 'cluster_LOC', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']), ['missing', 'nominal', 'heel_nederland', 'no_text_match', 'head_match', 'not_nested', False, True, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown'])
+Properties included: missing mention ['missing', 'nominal', 'heel_nederland', 'no_text_match', 'head_match', 'not_nested', False, True, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown']
+
+-------------------------------------------------------------------------------
+
+(17, 7, 9)     [38;5;15meen [4mmeisje[0m
+(18, 6, 7)     [38;5;15mhaar[0m
+(19, 0, 2)     [38;5;15mHet [4mmeisje[0m
+(24, 0, 1)     Extra:  [38;5;1m't[0m
+
+Raw changes:
+split 2
+remove 1
+
+Categorised:
+1 Extra Mention
+
+Detailed error listing:
+extra mention (24, 0, 1)     Extra:  [38;5;1m't[0m
+extra mention ({(24, 0, 1)}, ({(24, 0, 1)}, {(19, 0, 2), (17, 7, 9), (24, 0, 1), (18, 6, 7)}, 'going nowhere', ['split', 1, 3, "'t", '0_cataphoric', 0, 1, 0, 0, 3, 0, True, False, 'no_string_match', 'no_head_match', 'delete', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']), ['extra', 'nominal', "'t", 'no_text_match', 'no_head_match', 'not_nested', False, True, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown'])
+Properties included: extra mention ['extra', 'nominal', "'t", 'no_text_match', 'no_head_match', 'not_nested', False, True, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown']
+
+-------------------------------------------------------------------------------
+
+(19, 4, 7)     [38;5;15mhonderde andere [4mmeisjes[0m
+(32, 9, 15)    [38;5;15mhonderde , duizende van die meisjes[0m
+(34, 8, 10)    [38;5;15mdie meisjes[0m
+(35, 2, 3)     Extra:  [38;5;1m't[0m
+(35, 3, 8)     Extra:  [38;5;1meen grapje [4mvan[0m[38;5;1m den duivel[0m
+
+Missing:
+(19, 36, 41)   [38;5;15mhonderde andere meisjes [4min[0m[38;5;15m Amsterdam[0m
+
+Raw changes:
+split 3
+remove 2
+introduce 1
+merge 2
+
+Categorised:
+2 Extra Mention
+1 Missing Mention
+
+Detailed error listing:
+extra mention (35, 2, 3)     Extra:  [38;5;1m't[0m
+extra mention ({(35, 2, 3)}, ({(35, 2, 3)}, {(32, 9, 15), (19, 4, 7), (34, 8, 10), (35, 2, 3), (35, 3, 8)}, 'going nowhere', ['split', 1, 4, "'t", '0_cataphoric', 0, 1, 0, 0, 4, 0, True, False, 'no_string_match', 'no_head_match', 'delete', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']), ['extra', 'nominal', "'t", 'no_text_match', 'no_head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown'])
+Properties included: extra mention ['extra', 'nominal', "'t", 'no_text_match', 'no_head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown']
+extra mention (35, 3, 8)     Extra:  [38;5;1meen grapje [4mvan[0m[38;5;1m den duivel[0m
+extra mention ({(35, 3, 8)}, ({(35, 3, 8)}, {(32, 9, 15), (19, 4, 7), (34, 8, 10), (35, 2, 3), (35, 3, 8)}, 'going nowhere', ['split', 1, 4, 'een_grapje_van_den_duivel', '0_cataphoric', 0, 1, 0, 0, 4, 0, True, False, 'no_string_match', 'no_head_match', 'delete', 'split', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']), ['extra', 'nominal', 'een_grapje_van_den_duivel', 'no_text_match', 'no_head_match', 'not_nested', False, True, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown'])
+Properties included: extra mention ['extra', 'nominal', 'een_grapje_van_den_duivel', 'no_text_match', 'no_head_match', 'not_nested', False, True, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown']
+missing mention (19, 36, 41)   [38;5;15mhonderde andere meisjes [4min[0m[38;5;15m Amsterdam[0m
+missing mention ({(19, 36, 41)}, {(32, 9, 15), (19, 36, 41), (19, 4, 7), (34, 8, 10)}, ({(19, 36, 41)}, {(32, 9, 15), (19, 36, 41), (19, 4, 7), (34, 8, 10)}, ['merge', 1, 3, 'honderde_andere_meisjes_in_amsterdam', '0_cataphoric', 0, 1, 0, 0, 3, 0, False, False, 'no_string_match', 'no_head_match', 'merge', 'introduce', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_', True, 'part_', 'cluster_']), ['missing', 'nominal', 'honderde_andere_meisjes_in_amsterdam', 'no_text_match', 'no_head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown'])
+Properties included: missing mention ['missing', 'nominal', 'honderde_andere_meisjes_in_amsterdam', 'no_text_match', 'no_head_match', 'not_nested', False, False, False, 'ner_unknown', 'number_unknown', 'person_unknown', 'gender_unknown']
+
+-------------------------------------------------------------------------------
+
+(55, 18, 19)   Extra:  [38;5;1ml'infini[0m
+(83, 5, 8)     Extra:  [38;5;1mélan vers l'infini[0m
+
+Raw changes:
+split 2
+remove 2
+
+Categorised:
+1 Extra Entity
+
+Detailed error listing:
+extra entity ({(55, 18, 19), (83, 5, 8)}, {(55, 18, 19), (83, 5, 8)}, ['extra', 2, 0, 2, 0, None, 0, [], False, True])
+Properties included: extra entity ['extra', 2, 0, 2, 0, None, 0, [], False, True]
+
+-------------------------------------------------------------------------------
+
+(52, 34, 35)   Extra:  [38;5;1mburgerjuffrouwen-ingebeeldheid[0m
+(53, 4, 5)     Extra:  [38;5;1m't[0m
+(54, 51, 52)   Extra:  [38;5;1m't[0m
+
+Raw changes:
+split 3
+remove 3
+
+Categorised:
+1 Extra Entity
+
+Detailed error listing:
+extra entity ({(52, 34, 35), (53, 4, 5), (54, 51, 52)}, {(52, 34, 35), (53, 4, 5), (54, 51, 52)}, ['extra', 3, 0, 3, 0, None, 0, [], False, False])
+Properties included: extra entity ['extra', 3, 0, 3, 0, None, 0, [], False, False]
+
+-------------------------------------------------------------------------------
+
+(69, 16, 21)   Extra:  [38;5;1m't huis [4mvan[0m[38;5;1m je baas[0m
+(93, 4, 5)     Extra:  [38;5;1mhuis[0m
+
+Raw changes:
+split 2
+remove 2
+
+Categorised:
+1 Extra Entity
+
+Detailed error listing:
+extra entity ({(93, 4, 5), (69, 16, 21)}, {(69, 16, 21), (93, 4, 5)}, ['extra', 2, 0, 2, 0, None, 0, [], False, False])
+Properties included: extra entity ['extra', 2, 0, 2, 0, None, 0, [], False, False]
+
+-------------------------------------------------------------------------------
+
+
+Missing:
+(25, 8, 9)     [38;5;15mbedrog[0m
+(25, 11, 16)   [38;5;15meen vroom bedrog [4mvan[0m[38;5;15m God[0m
+
+Raw changes:
+introduce 2
+merge 2
+
+Categorised:
+1 Missing Entity
+
+Detailed error listing:
+missing entity ({(25, 11, 16), (25, 8, 9)}, ['missing', 2, 0, 2, 0, None, 0, [], False, False])
+Properties included: missing entity ['missing', 2, 0, 2, 0, None, 0, [], False, False]
+
+-------------------------------------------------------------------------------
+
+(93, 21, 28)   Extra:  [38;5;1mde hooge spoorbrug [4mover[0m[38;5;1m de westelijke doorvaart[0m
+(96, 7, 9)     Extra:  [38;5;1meen [4mspoorbrug[0m
+
+Raw changes:
+split 2
+remove 2
+
+Categorised:
+1 Extra Entity
+
+Detailed error listing:
+extra entity ({(96, 7, 9), (93, 21, 28)}, {(96, 7, 9), (93, 21, 28)}, ['extra', 2, 0, 2, 0, None, 0, [], False, False])
+Properties included: extra entity ['extra', 2, 0, 2, 0, None, 0, [], False, False]
+
+-------------------------------------------------------------------------------
+
+(75, 30, 32)   Extra:  [38;5;1mgevallen [4mvrouwen[0m
+(76, 2, 3)     Extra:  [38;5;1mze[0m
+
+Raw changes:
+split 2
+remove 2
+
+Categorised:
+1 Extra Entity
+
+Detailed error listing:
+extra entity ({(75, 30, 32), (76, 2, 3)}, {(75, 30, 32), (76, 2, 3)}, ['extra', 2, 0, 2, 0, None, 0, [], False, False])
+Properties included: extra entity ['extra', 2, 0, 2, 0, None, 0, [], False, False]
+
+-------------------------------------------------------------------------------
+
+
+Missing:
+(74, 3, 4)     [38;5;15mallen[0m
+(74, 4, 5)     [38;5;15mdie[0m
+
+Raw changes:
+introduce 2
+merge 2
+
+Categorised:
+1 Missing Entity
+
+Detailed error listing:
+missing entity ({(74, 4, 5), (74, 3, 4)}, ['missing', 2, 0, 2, 0, None, 0, [], False, False])
+Properties included: missing entity ['missing', 2, 0, 2, 0, None, 0, [], False, False]
+
+-------------------------------------------------------------------------------
